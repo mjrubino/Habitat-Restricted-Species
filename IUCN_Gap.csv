@@ -1,0 +1,1534 @@
+gapSppCode,gapSciName,gapComName,iucnTaxonID,iucnSciName,iucnComName,iucnOriginUS,iucnCategory,iucnPopulationTrend,iucnAssessmentDate,iucnVersion
+aABSAx,Eurycea waterlooensis,Austin Blind Salamander,59278,Eurycea waterlooensis,Austin Blind Salamander,Native,VU,unknown,4/30/2004,2019-1
+aADSAx,Desmognathus apalachicolae,Apalachicola Dusky Salamander,59244,Desmognathus apalachicolae,Apalachicola Dusky Salamander,Native,LC,stable,4/30/2004,2019-1
+aAGTOx,Anaxyrus nelsoni,Amargosa Toad,3181,Anaxyrus nelsoni,,Native,EN,decreasing,4/30/2004,2019-1
+aAMBUx,Lithobates catesbeianus,American Bullfrog,58565,Lithobates catesbeianus,American Bullfrog,Native,LC,increasing,8/25/2015,2019-1
+aAMDSx,Desmognathus ochrophaeus,Allegheny Mountain Dusky Salamander,59253,Desmognathus ochrophaeus,Allegheny Mountain Dusky Salamander,Native,LC,unknown,8/25/2015,2019-1
+aAMTOx,Anaxyrus americanus,American Toad,54570,Anaxyrus americanus,American Toad,Native,LC,stable,8/25/2015,2019-1
+aARSAx,Aneides lugubris,Arboreal Salamander,59118,Aneides lugubris,Arboreal Salamander,Native,LC,stable,1/1/2008,2019-1
+aARTOx,Anaxyrus californicus,Arroyo Toad,54599,Anaxyrus californicus,Arroyo Toad,Native,EN,decreasing,4/30/2004,2019-1
+aAZTOx,Anaxyrus microscaphus,Arizona Toad,54709,Anaxyrus microscaphus,Arizona Toad,Native,LC,decreasing,4/30/2004,2019-1
+aAZTRx,Hyla wrightorum,Arizona Treefrog,55696,Dryophytes wrightorum,Wright's Mountain Treefrog,Native,LC,stable,4/30/2004,2019-1
+aBAFRx,Craugastor augusti,Barking Frog,56438,Craugastor augusti,Barking Frog,Native,LC,stable,1/9/2009,2019-1
+aBATRx,Hyla gratiosa,Barking Treefrog,55495,Dryophytes gratiosus,Barking Treefrog,Native,LC,stable,8/7/2014,2019-1
+aBBSSx,Batrachoseps nigriventris,Black-bellied Slender Salamander,59130,Batrachoseps nigriventris,Blackbelly Slender Salamander,Native,LC,stable,4/30/2004,2019-1
+aBCSAx,Gyrinophilus gulolineatus,Berry Cave Salamander,59280,Gyrinophilus gulolineatus,Berry Cave Salamander,Native,EN,decreasing,4/30/2004,2019-1
+aBESAx,Desmognathus quadramaculatus,Black-bellied Salamander,59256,Desmognathus quadramaculatus,Blackbelly Salamander,Native,LC,stable,7/31/2014,2019-1
+aBGCSx,Plethodon amplus,Blue Ridge Gray-cheeked Salamander,59330,Plethodon amplus,Blue Ridge Gray-cheeked Salamander,Native,VU,unknown,4/30/2004,2019-1
+aBGSAx,Plethodon sherando,Big Levels Salamander,61905,Plethodon sherando,Big Levels Salamander,Native,VU,unknown,1/31/2006,2019-1
+aBLASx,Aneides flavipunctatus,Black Salamander,59116,Aneides flavipunctatus,Black Salamander,Native,NT,decreasing,4/30/2004,2019-1
+aBLSAx,Eurycea robusta,Blanco Blind Salamander,39263,Eurycea robusta,Blanco Blind Salamander,Native,DD,unknown,4/30/2004,2019-1
+aBLTOx,Anaxyrus exsul,Black Toad,3169,Anaxyrus exsul,Black Toad,Native,VU,stable,4/30/2004,2019-1
+aBMSAx,Desmognathus welteri,Black Mountain Salamander,59258,Desmognathus welteri,Black Mountain Salamander,Native,LC,unknown,8/1/2014,2019-1
+aBOFRx,Pseudacris maculata,Boreal Chorus Frog,136004,Pseudacris maculata,Boreal Chorus Frog,Native,LC,stable,8/25/2015,2019-1
+aBOTOx,Anaxyrus boreas,Western Toad,3179,Anaxyrus boreas,Western Toad,Native,LC,decreasing,8/25/2015,2019-1
+aBRDSx,Desmognathus orestes,Blue Ridge Dusky Salamander,59255,Desmognathus orestes,Blue Ridge Dusky Salamander,Native,LC,stable,7/31/2014,2019-1
+aBRFRx,Pseudacris brimleyi,Brimley's Chorus Frog,55889,Pseudacris brimleyi,Brimley's Chorus Frog,Native,LC,stable,8/14/2014,2019-1
+aBRTSx,Eurycea wilderae,Blue Ridge Two-lined Salamander,59279,Eurycea wilderae,Blue Ridge Two-lined Salamander,Native,LC,stable,8/5/2014,2019-1
+aBSNEx,Notophthalmus meridionalis,Black-spotted Newt,59452,Notophthalmus meridionalis,Black-spotted Newt,Native,EN,decreasing,,
+aBSPSx,Eurycea sosorum,Barton Springs Salamander,8392,Eurycea sosorum,Barton Springs Salamander,Native,VU,stable,4/30/2004,2019-1
+aBTISx,Ambystoma mavortium,Barred Tiger Salamander,199970,Ambystoma mavortium,Western Tiger Salamander,Native,LC,unknown,8/25/2015,2019-1
+aBUPSx,Ambystoma laterale,Blue-spotted Salamander,59060,Ambystoma laterale,Blue-spotted Salamander,Native,LC,stable,8/25/2015,2019-1
+aBUTOx,Rhinophrynus dorsalis,Burrowing Toad,59040,Rhinophrynus dorsalis,Burrowing Toad,Native,LC,stable,1/6/2009,2019-1
+aBVTRx,Hyla avivoca,Bird-voiced Treefrog,55403,Dryophytes avivoca,Bird-voiced Treefrog,Native,LC,stable,8/7/2014,2019-1
+aBWRWx,Necturus alabamensis,Black Warrior River Waterdog,59430,Necturus alabamensis,Alabama Waterdog,Native,EN,decreasing,4/30/2004,2019-1
+aCANEx,Rhinella marinus,Cane Toad,41065,Rhinella marina,Cane Toad,Native,LC,increasing,1/1/2008,2019-1
+aCASAx,Dicamptodon ensatus,Calfifornia Giant Salamander,59080,Dicamptodon ensatus,California Giant Salamander,Native,NT,unknown,4/30/2004,2019-1
+aCATOx,Anaxyrus hemiophrys,Canadian Toad,54661,Anaxyrus hemiophrys,Canadian Toad,Native,LC,stable,8/25/2015,2019-1
+aCATRx,Pseudacris cadaverina,California Treefrog,55890,Pseudacris cadaverina,California Chorus Frog,Native,LC,stable,4/30/2004,2019-1
+aCBSAx,Eurycea tridentifera,Comal Blind Salamander,8393,Eurycea tridentifera,Comal Blind Salamander,Native,VU,unknown,4/30/2004,2019-1
+aCCFRx,Eleutherodactylus marnockii,Cliff Chirping Frog,56744,Eleutherodactylus marnockii,Cliff Chirping Frog,Native,LC,stable,1/9/2009,2019-1
+aCCSAx,Eurycea latitans,Cascade Caverns Salamander,59267,Eurycea latitans,Cascade Caverns Salamander,Native,VU,decreasing,4/30/2004,2019-1
+aCFNEx,Taricha torosa,California Newt,59471,Taricha torosa,Coast Range Newt,Native,LC,unknown,1/1/2008,2019-1
+aCGSAx,Dicamptodon copei,Cope's Giant Salamander,59079,Dicamptodon copei,Cope's Giant Salamander,Native,LC,stable,4/30/2004,2019-1
+aCGTRx,Hyla chrysoscelis,Cope's Gray Treefrog,55448,Dryophytes chrysoscelis,Cope's Gray Treefrog,Native,LC,stable,8/25/2015,2019-1
+aCHDSx,Eurycea chamberlaini,Chamberlain's Dwarf Salamander,59262,Eurycea chamberlaini,Chamberlain's Dwarf Salamander,Native,DD,unknown,4/30/2004,2019-1
+aCHSAx,Plethodon cheoah,Cheoah Bald Salamander,59333,Plethodon cheoah,Cheoah Bald Salamander,Native,VU,stable,4/30/2004,2019-1
+aCISSx,Batrachoseps pacificus,Channel Islands Slender Salamander,59131,Batrachoseps pacificus,Channel Islands Slender Salamander,Native,LC,stable,4/30/2004,2019-1
+aCKSAx,Plethodon punctatus,Cow Knob Salamander,59351,Plethodon punctatus,White-spotted Salamander,Native,NT,stable,4/30/2004,2019-1
+aCLFRx,Lithobates chiricahuensis,Chiricahua Leopard Frog,58575,Lithobates chiricahuensis,Chiricahua Leopard Frog,Native,VU,decreasing,4/30/2004,2019-1
+aCLSAx,Aneides ferreus,Clouded Salamander,59115,Aneides ferreus,Clouded Salamander,Native,NT,decreasing,4/30/2004,2019-1
+aCMDSx,Desmognathus carolinensis,Carolina Mountain Dusky Salamander,59247,Desmognathus carolinensis,Carolina Mountain Dusky Salamander,Native,LC,stable,4/30/2004,2019-1
+aCMSAx,Plethodon caddoensis,Caddo Mountain Salamander,17630,Plethodon caddoensis,Caddo Mountain Salamander,Native,NT,unknown,4/30/2004,2019-1
+aCMTSx,Plethodon nettingi,Cheat Mountain Salamander,17627,Plethodon nettingi,Cheat Mountain Salamander,Native,NT,stable,4/30/2004,2019-1
+aCOFRx,Rana luteiventris,Columbia Spotted Frog,58649,Rana luteiventris,Columbia Spotted Frog,Native,LC,decreasing,8/25/2015,2019-1
+aCOGSx,Dicamptodon tenebrosus,Coastal Giant Salamander,59081,Dicamptodon tenebrosus,Coastal Giant Salamander,Native,LC,stable,8/25/2015,2019-1
+aCOSAx,Plethodon idahoensis,Coeur D'alene Salamander,59342,Plethodon idahoensis,Coeur D'Alene Salamander,Native,LC,unknown,8/25/2015,2019-1
+aCOSPx,Scaphiopus couchii,Couch's Spadefoot,59041,Scaphiopus couchii,Couch's Spadefoot Toad,Native,LC,stable,4/30/2004,2019-1
+aCPSAx,Plethodon kentucki,Cumberland Plateau Salamander,59344,Plethodon kentucki,Cumberland Plateau Salamander,Native,LC,stable,2/27/2014,2019-1
+aCRFRx,Lithobates virgatipes,Carpenter Frog,58747,Lithobates virgatipes,Carpenter Frog,Native,LC,unknown,8/14/2014,2019-1
+aCRLFx,Rana draytonii,California Red-legged Frog,136113,Rana draytonii,California Red-legged Frog,Native,VU,decreasing,,
+aCSFRx,Rana cascadae,Cascades Frog,19176,Rana cascadae,Cascades Frog,Native,NT,decreasing,4/30/2004,2019-1
+aCSLSx,Batrachoseps attenuatus,California Slender Salamander,59120,Batrachoseps attenuatus,California Slender Salamander,Native,LC,stable,4/30/2004,2019-1
+aCTFRx,Ascaphus truei,Coastal Tailed Frog,54414,Ascaphus truei,Coastal Tailed Frog,Native,LC,unknown,8/25/2015,2019-1
+aCTGSx,Ambystoma californiense,California Tiger Salamander,1098,Ambystoma californiense,California Tiger Salamander,Native,VU,decreasing,4/30/2004,2019-1
+aCTOSx,Rhyacotriton kezeri,Columbia Torrent Salamander,59436,Rhyacotriton kezeri,Columbia Torrent Salamander,Native,NT,stable,4/30/2004,2019-1
+aCTRSx,Rhyacotriton cascadae,Cascade Torrent Salamander,59435,Rhyacotriton cascadae,Cascade Torrent Salamander,Native,NT,decreasing,4/30/2004,2019-1
+aCUDSx,Desmognathus abditus,Cumberland Dusky Salamander,61902,Desmognathus abditus,Cumberland Dusky Salamander,Native,NT,unknown,1/31/2006,2019-1
+aCUTRx,Osteopilus septentrionalis,Cuban Treefrog,55811,Osteopilus septentrionalis,Cuban Treefrog,Introduced,LC,increasing,11/13/2008,2019-1
+aCVSAx,Eurycea lucifuga,Cave Salamander,59269,Eurycea lucifuga,Cave Salamander,Native,LC,unknown,8/5/2014,2019-1
+aCWFRx,Lithobates areolatus,Crawfish Frog,58546,Lithobates areolatus,Crawfish Frog,Native,NT,decreasing,4/30/2004,2019-1
+aCYTRx,Hyla arenicolor,Canyon Treefrog,55396,Dryophytes arenicolor,Canyon Treefrog,Native,LC,stable,8/1/2009,2019-1
+aDBBSx,Desmognathus folkertsi,Dwarf Black-bellied Salamander,59248,Desmognathus folkertsi,Dwarf Black-bellied Salamander,Native,DD,unknown,4/30/2004,2019-1
+aDGFRx,Lithobates sevosus,Dusky Gopher Frog,58714,Lithobates sevosus,Dusky Gopher Frog,Native,CR,decreasing,,
+aDNSAx,Plethodon elongatus,Del Norte Salamander,59339,Plethodon elongatus,Del Norte Salamander,Native,NT,decreasing,4/30/2004,2019-1
+aDUSAx,Plethodon dunni,Dunn's Salamander,59337,Plethodon dunni,Dunn's Salamander,Native,LC,stable,2/27/2014,2019-1
+aDWSAx,Eurycea quadridigitata,Dwarf Salamander,59274,Eurycea quadridigitata,Dwarf Salamander,Native,LC,stable,4/30/2004,2019-1
+aDWWAx,Necturus punctatus,Dwarf Waterdog,59434,Necturus punctatus,Dwarf Waterdog,Native,LC,unknown,3/3/2014,2019-1
+aEANEx,Notophthalmus viridescens,Eastern Newt,59453,Notophthalmus viridescens,Eastern Newt,Native,LC,stable,8/25/2015,2019-1
+aEASPx,Scaphiopus holbrookii,Eastern Spadefoot,59042,Scaphiopus holbrookii,Eastern Spadefoot,Native,LC,stable,8/20/2014,2019-1
+aENMTx,Gastrophryne carolinensis,Eastern Narrow-mouthed Toad,57813,Gastrophryne carolinensis,Eastern Narrowmouth Toad,Native,LC,stable,8/6/2014,2019-1
+aENSAx,Ensatina eschscholtzii,Ensatina,59260,Ensatina eschscholtzii,Ensatina,Native,LC,stable,8/25/2015,2019-1
+aERBSx,Plethodon cinereus,Eastern Red-backed Salamander,59334,Plethodon cinereus,Eastern Red-backed Salamander,Native,LC,stable,8/25/2015,2019-1
+aETSAx,Ambystoma tigrinum,Eastern Tiger Salamander,83293207,Ambystoma tigrinum,Tiger Salamander,Native,LC,stable,9/11/2014,2019-1
+aFBFRx,Lithobates okaloosae,Florida Bog Frog,58684,Lithobates okaloosae,Florida Bog Frog,Native,VU,unknown,4/30/2004,2019-1
+aFBSAx,Eurycea pterophila,Fern Bank Salamander,59273,Eurycea pterophila,Blanco River Springs Salamander,Native,DD,unknown,4/30/2004,2019-1
+aFFSAx,Ambystoma cingulatum,Frosted Flatwoods Salamander,1099,Ambystoma cingulatum,Frosted Flatwoods Salamander,Native,VU,decreasing,1/1/2008,2019-1
+aFMSAx,Plethodon fourchensis,Fourch Mountain Salamander,17631,Plethodon fourchensis,Fourche Mountain Salamander,Native,VU,unknown,4/30/2004,2019-1
+aFOTOx,Anaxyrus fowleri,Fowler's Toad,54640,Anaxyrus fowleri,Fowler's Toad,Native,LC,stable,8/25/2015,2019-1
+aFTSAx,Hemidactylium scutatum,Four-toed Salamander,59285,Hemidactylium scutatum,Four-toed Salamander,Native,LC,stable,8/25/2015,2019-1
+aFYLFx,Rana boylii,Foothill Yellow-legged Frog,19175,Rana boylii,Yellow-legged Frog,Native,NT,decreasing,4/30/2004,2019-1
+aGBSAx,Haideotriton wallacei,Georgia Blind Salamander,59284,Eurycea wallacei,Georgia Blind Salamander,Native,VU,unknown,4/30/2004,2019-1
+aGBSPx,Spea intermontana,Great Basin Spadefoot,59046,Spea intermontana,Great Basin Spadefoot,Native,LC,stable,8/25/2015,2019-1
+aGESAx,Eurycea naufragia,Georgetown Salamander,59271,Eurycea naufragia,San Gabriel Springs Salamander,Native,EN,decreasing,,
+aGGSAx,Batrachoseps gregarius,Gregarious Salamander,59124,Batrachoseps gregarius,Gregarious Slender Salamander,Native,LC,stable,4/30/2004,2019-1
+aGHFRx,Eleutherodactylus planirostris,Greenhouse Frog,56864,Eleutherodactylus planirostris,Greenhouse Frog,Introduced,LC,stable,4/30/2004,2019-1
+aGMSSx,Batrachoseps gavilanensis,Gabilan Mountains Slender Salamander,59123,Batrachoseps gavilanensis,Gabilan Mountains Slender Salamander,Native,LC,stable,4/30/2004,2019-1
+aGOFRx,Lithobates capito,Gopher Frog,58564,Lithobates capito,Gopher Frog,Native,NT,decreasing,4/30/2004,2019-1
+aGPTOx,Anaxyrus cognatus,Great Plains Toad,54612,Anaxyrus cognatus,Great Plains Toad,Native,LC,unknown,8/25/2015,2019-1
+aGRFRx,Lithobates clamitans,Green Frog,58578,Lithobates clamitans,Green Frog,Native,LC,stable,8/25/2015,2019-1
+aGRSAx,Aneides aeneus,Green Salamander,1282,Aneides aeneus,Green Salamander,Native,NT,decreasing,4/30/2004,2019-1
+aGRSIx,Siren lacertina,Greater Siren,59492,Siren lacertina,Greater Siren,Native,LC,unknown,1/1/2008,2019-1
+aGRTOx,Anaxyrus debilis,Green Toad,54626,Anaxyrus debilis,Sapo Verde,Native,LC,stable,4/30/2004,2019-1
+aGRTRx,Hyla cinerea,Green Treefrog,55449,Dryophytes cinereus,American Green Treefrog,Native,LC,stable,1/1/2008,2019-1
+aGSALx,Eurycea spelaea,Grotto Salamander,22707,Eurycea spelaea,Grotto Salamander,Native,LC,unknown,4/30/2004,2019-1
+aGSSAx,Batrachoseps major,Garden Slender Salamander,59128,Batrachoseps major,Garden Slender Salamander,Native,LC,stable,1/1/2008,2019-1
+aGUWAx,Necturus beyeri,Gulf Coast Waterdog,59431,Necturus beyeri,Gulf Coast Waterdog,Native,LC,unknown,8/14/2014,2019-1
+aGYTRx,Hyla versicolor,Gray Treefrog,55687,Dryophytes versicolor,Gray Treefrog,Native,LC,stable,8/25/2015,2019-1
+aHELLx,Cryptobranchus alleganiensis,Hellbender,59077,Cryptobranchus alleganiensis,Hellbender,Native,NT,decreasing,4/30/2004,2019-1
+aHHSSx,Batrachoseps diabolicus,Hell Hollow Slender Salamander,59121,Batrachoseps diabolicus,Hell Hollow Slender Salamander,Native,DD,unknown,4/30/2004,2019-1
+aHOTOx,Anaxyrus houstonensis,Houston Toad,3170,Anaxyrus houstonensis,Houston Toad,Native,EN,decreasing,4/30/2004,2019-1
+aHUSPx,Scaphiopus hurterii,Hurter's Spadefoot,59043,Scaphiopus hurterii,Hurter's Spadefoot,Native,LC,stable,8/20/2014,2019-1
+aIGSAx,Dicamptodon aterrimus,Idaho Giant Salamander,59078,Dicamptodon aterrimus,Idaho Giant Salamander,Native,LC,stable,8/1/2014,2019-1
+aIMSAx,Desmognathus imitator,Imitator Salamander,59250,Desmognathus imitator,Imitator Salamander,Native,LC,stable,4/30/2004,2019-1
+aINSAx,Batrachoseps campi,Inyo Mountains Salamander,2649,Batrachoseps campi,Inyo Mountains Salamander,Native,EN,decreasing,,
+aJESAx,Ambystoma jeffersonianum,Jefferson Salamander,59059,Ambystoma jeffersonianum,Jefferson Salamander,Native,LC,stable,8/25/2015,2019-1
+aJMSAx,Plethodon neomexicanus,Jemez Mountains Salamander,17626,Plethodon neomexicanus,Jemez Mountains Salamander,Native,NT,stable,4/30/2004,2019-1
+aJPSAx,Eurycea tonkawae,Jollyville Plateau Salamander,59275,Eurycea tonkawae,Jollyville Plateau Salamander,Native,EN,decreasing,,
+aJUSAx,Eurycea junaluska,Junaluska Salamander,59266,Eurycea junaluska,Junaluska Salamander,Native,VU,stable,4/30/2004,2019-1
+aKCSSx,Batrachoseps simatus,Kern Canyon Slender Salamander,2647,Batrachoseps simatus,Kern Canyon Slender Salamander,Native,VU,stable,1/12/2009,2019-1
+aKPSAx,Batrachoseps robustus,Kern Plateau Salamander,59133,Batrachoseps robustus,Kern Plateau Salamander,Native,NT,stable,4/30/2004,2019-1
+aKRSSx,Batrachoseps regius,Kings River Slender Salamander,59132,Batrachoseps regius,Kings River Slender Salamander,Native,VU,stable,4/30/2004,2019-1
+aKSSAx,Plethodon kiamichi,Kiamichi Slimy Salamander,59345,Plethodon kiamichi,Kiamichi Slimy Salamander,Native,DD,unknown,4/30/2004,2019-1
+aLASAx,Plethodon kisatchie,Louisiana Slimy Salamander,59346,Plethodon kisatchie,Louisiana Slimy Salamander,Native,LC,unknown,4/30/2004,2019-1
+aLBTRx,Smilisca fodiens,Lowland Burrowing Treefrog,55907,Smilisca fodiens,Lowland Burrowing Treefrog,Native,LC,stable,10/6/2008,2019-1
+aLESIx,Siren intermedia,Lesser Siren,59491,Siren intermedia,Lesser Siren,Native,LC,unknown,1/1/2008,2019-1
+aLGFRx,Pseudacris ocularis,Little Grass Frog,55895,Pseudacris ocularis,Little Grass Frog,Native,LC,stable,8/18/2014,2019-1
+aLISAx,Hydromantes brunus,Limestone Salamander,10304,Hydromantes brunus,Limestone Salamander,Native,VU,unknown,4/30/2004,2019-1
+aLLFRx,Lithobates yavapaiensis,Lowland Leopard Frog,19181,Lithobates yavapaiensis,Rana De Yavapai,Native,LC,decreasing,4/30/2004,2019-1
+aLMSAx,Plethodon larselli,Larch Mountain Salamander,17625,Plethodon larselli,Larch Mountain Salamander,Native,NT,stable,4/30/2004,2019-1
+aLSSAx,Batrachoseps minor,Lesser Slender Salamander,59129,Batrachoseps minor,Lesser Slender Salamander,Native,DD,unknown,4/30/2004,2019-1
+aLTASx,Eurycea longicauda,Long-tailed Salamander,59268,Eurycea longicauda,Longtail Salamander,Native,LC,stable,8/5/2014,2019-1
+aLTOPx,Ambystoma macrodactylum,Long-toed Salamander,59063,Ambystoma macrodactylum,Long-toed Salamander,Native,LC,stable,8/25/2015,2019-1
+aMASAx,Ambystoma opacum,Marbled Salamander,59065,Ambystoma opacum,Marbled Salamander,Native,LC,stable,4/30/2004,2019-1
+aMBSAx,Ambystoma mabeei,Mabee's Salamander,59062,Ambystoma mabeei,Mabee's Salamander,Native,LC,decreasing,4/30/2004,2019-1
+aMCFRx,Pseudacris brachyphona,Mountain Chorus Frog,55888,Pseudacris brachyphona,Mountain Chorus Frog,Native,LC,unknown,4/30/2004,2019-1
+aMIFRx,Lithobates septentrionalis,Mink Frog,58713,Lithobates septentrionalis,Mink Frog,Native,LC,stable,8/25/2015,2019-1
+aMLSAx,Stereochilus marginatus,Many-lined Salamander,59406,Stereochilus marginatus,Many-lined Salamander,Native,LC,unknown,2/25/2014,2019-1
+aMLYSx,Hydromantes platycephalus,Mount Lyell Salamander,59286,Hydromantes platycephalus,Mount Lyell Salamander,Native,LC,stable,8/7/2014,2019-1
+aMOSAx,Ambystoma talpoideum,Mole Salamander,59069,Ambystoma talpoideum,Mole Salamander,Native,LC,stable,4/30/2004,2019-1
+aMRSAx,Eurycea multiplicata,Many-ribbed Salamander,59270,Eurycea multiplicata,Many-ribbed Salamander,Native,LC,stable,4/30/2004,2019-1
+aMUDPx,Necturus maculosus,Mudpuppy,59433,Necturus maculosus,Mudpuppy,Native,LC,stable,8/25/2015,2019-1
+aMUSAx,Pseudotriton montanus,Mud Salamander,59403,Pseudotriton montanus,Mud Salamander,Native,LC,unknown,1/1/2008,2019-1
+aMWLFx,Leptodactylus fragilis,Mexican White-lipped Frog,57127,Leptodactylus fragilis,American White Lipped Frog,Native,LC,stable,10/20/2008,2019-1
+aMXSPx,Spea multiplicata,Mexican Spadefoot,59047,Spea multiplicata,New Mexico Spadefoot,Native,LC,stable,10/6/2008,2019-1
+aMXTRx,Smilisca baudinii,Mexican Treefrog,56006,Smilisca baudinii,Common Mexican Treefrog,Native,LC,stable,1/8/2009,2019-1
+aNCFRx,Acris crepitans,Northern Cricket Frog,55286,Acris crepitans,Northern Cricket Frog,Native,LC,stable,4/30/2004,2019-1
+aNDSAx,Desmognathus fuscus,Northern Dusky Salamander,59249,Desmognathus fuscus,Dusky Salamander,Native,LC,stable,4/30/2004,2019-1
+aNDSIx,Pseudobranchus striatus,Northern Dwarf Siren,59490,Pseudobranchus striatus,Dwarf Siren,Native,LC,stable,2/25/2014,2019-1
+aNGCSx,Plethodon montanus,Northern Gray-cheeked Salamander,59349,Plethodon montanus,Northern Gray-cheeked Salamander,Native,LC,stable,2/27/2014,2019-1
+aNJFRx,Pseudacris kalmi,New Jersey Chorus Frog,136134,Pseudacris kalmi,New Jersey Chorus Frog,Native,LC,stable,1/1/2008,2019-1
+aNLFRx,Lithobates pipiens,Northern Leopard Frog,58695,Lithobates pipiens,Northern Leopard Frog,Native,LC,decreasing,4/30/2004,2019-1
+aNOSAx,Ambystoma gracile,Northwestern Salamander,59057,Ambystoma gracile,Northwestern Salamander,Native,LC,stable,8/25/2015,2019-1
+aNPTRx,Pseudacris regilla,Northern Pacific Treefrog,55897,Pseudacris regilla,Pacific Treefrog,Native,LC,stable,4/30/2004,2019-1
+aNRLFx,Rana aurora,Northern Red-legged Frog,58553,Rana aurora,Northern Red-legged Frog,Native,LC,decreasing,8/25/2015,2019-1
+aNRSAx,Plethodon electromorphus,Northern Ravine Salamander,59338,Plethodon electromorphus,Northern Ravine Salamander,Native,LC,stable,2/27/2014,2019-1
+aNRWAx,Necturus lewisi,Neuse River Waterdog,59432,Necturus lewisi,Neuse River Waterdog,Native,NT,decreasing,4/30/2004,2019-1
+aNSSAx,Plethodon glutinosus,Northern Slimy Salamander,59340,Plethodon glutinosus,Slimy Salamander,Native,LC,stable,2/27/2014,2019-1
+aNTLSx,Eurycea bislineata,Northern Two-lined Salamander,59261,Eurycea bislineata,Northern Two-lined Salamander,Native,LC,stable,4/30/2004,2019-1
+aNZSAx,Plethodon dorsalis,Northern Zigzag Salamander,59336,Plethodon dorsalis,Northern Zigzag Salamander,Native,LC,stable,2/27/2014,2019-1
+aOATOx,Anaxyrus quercicus,Oak Toad,54743,Anaxyrus quercicus,Oak Toad,Native,LC,stable,4/30/2004,2019-1
+aOCFRx,Pseudacris ornata,Ornate Chorus Frog,55896,Pseudacris ornata,Ornate Chorus Frog,Native,LC,stable,8/19/2014,2019-1
+aOCSAx,Desmognathus ocoee,Ocoee Salamander,59254,Desmognathus ocoee,Ocoee Salamander,Native,LC,stable,7/31/2014,2019-1
+aODSAx,Desmognathus brimleyorum,Ouachita Dusky Salamander,59246,Desmognathus brimleyorum,Ouachita Dusky Salamander,Native,LC,stable,4/30/2004,2019-1
+aOKSAx,Eurycea tynerensis,Oklahoma Salamander,59277,Eurycea tynerensis,Oklahoma Salamander,Native,NT,decreasing,4/30/2004,2019-1
+aORFRx,Rana pretiosa,Oregon Spotted Frog,19179,Rana pretiosa,Oregon Spotted Frog,Native,VU,decreasing,4/30/2004,2019-1
+aOSSAx,Batrachoseps wrightorum,Oregon Slender Salamander,59134,Batrachoseps wrighti,Oregon Slender Salamander,Native,VU,decreasing,4/30/2004,2019-1
+aOTAMx,Amphiuma pholeter,One-toed Amphiuma,59075,Amphiuma pholeter,One-toed Amphiuma,Native,NT,decreasing,4/30/2004,2019-1
+aOTSAx,Rhyacotriton olympicus,Olympic Torrent Salamander,59437,Rhyacotriton olympicus,Olympic Torrent Salamander,Native,VU,decreasing,4/30/2004,2019-1
+aOZSAx,Plethodon angusticlavius,Ozark Zigzag Salamander,59331,Plethodon angusticlavius,Ozark Zigzag Salamander,Native,LC,stable,3/3/2014,2019-1
+aPBTRx,Hyla andersonii,Pine Barrens Treefrog,10350,Dryophytes andersonii,Pine Barrens Treefrog,Native,NT,decreasing,4/30/2004,2019-1
+aPIFRx,Lithobates palustris,Pickerel Frog,58690,Lithobates palustris,Pickerel Frog,Native,LC,stable,8/25/2015,2019-1
+aPIGFx,Lithobates grylio,Pig Frog,58611,Lithobates grylio,Pig Frog,Native,LC,decreasing,1/1/2008,2019-1
+aPLFRx,Lithobates blairi,Plains Leopard Frog,58562,Lithobates blairi,Plains Leopard Frog,Native,LC,decreasing,8/7/2014,2019-1
+aPLSPx,Spea bombifrons,Plains Spadefoot,59044,Spea bombifrons,Plains Spadefoot,Native,LC,stable,8/25/2015,2019-1
+aPMSAx,Plethodon petraeus,Pigeon Mountain Salamander,59350,Plethodon petraeus,Pigeon Mountain Salamander,Native,VU,stable,4/30/2004,2019-1
+aPOSAx,Plethodon hubrichti,Peaks Of Otter Salamander,17632,Plethodon hubrichti,Peaks Of Otter Salamander,Native,VU,unknown,4/30/2004,2019-1
+aPWTRx,Hyla femoralis,Pine Woods Treefrog,55481,Dryophytes femoralis,Pine Wood Treefrog,Native,LC,stable,8/7/2014,2019-1
+aPYSAx,Desmognathus wrighti,Pygmy Salamander,59259,Desmognathus wrighti,Pygmy Salamander,Native,LC,stable,4/30/2004,2019-1
+aRBNEx,Taricha rivularis,Red-bellied Newt,59470,Taricha rivularis,Redbelly Newt,Native,LC,stable,2/25/2014,2019-1
+aRCSAx,Plethodon jordani,Red-cheeked Salamander,59343,Plethodon jordani,Red-cheeked Salamander,Native,NT,stable,4/30/2004,2019-1
+aRESAx,Pseudotriton ruber,Red Salamander,59404,Pseudotriton ruber,Red Salamander,Native,LC,stable,2/25/2014,2019-1
+aRFSAx,Ambystoma bishopi,Reticulated Flatwoods Salamander,136128,Ambystoma bishopi,Reticulated Flatwoods Salamander,Native,VU,decreasing,1/1/2008,2019-1
+aRGCFx,Eleutherodactylus cystignathoides,Rio Grande Chirping Frog,56547,Eleutherodactylus cystignathoides,Rio Grande Chirping Frog,Native,LC,stable,4/30/2004,2019-1
+aRGLFx,Lithobates berlandieri,Rio Grande Leopard Frog,58561,Lithobates berlandieri,Rio Grande Leopard Frog,Native,LC,stable,11/11/2008,2019-1
+aRHSAx,Phaeognathus hubrichti,Red Hills Salamander,16801,Phaeognathus hubrichti,Red Hills Salamander,Native,EN,decreasing,4/30/2004,2019-1
+aRIFRx,Lithobates heckscheri,River Frog,58614,Lithobates heckscheri,River Frog,Native,LC,stable,8/12/2014,2019-1
+aRISAx,Ambystoma annulatum,Ringed Salamander,59052,Ambystoma annulatum,Ringed Salamander,Native,LC,stable,2/24/2014,2019-1
+aRLFRx,Lithobates onca,Relict Leopard Frog,19178,Lithobates onca,Relict Leopard Frog,Native,EN,decreasing,4/30/2004,2019-1
+aRLSAx,Plethodon shermani,Red-legged Salamander,59355,Plethodon shermani,Red-legged Salamander,Native,VU,stable,4/30/2004,2019-1
+aRMSAx,Plethodon ouachitae,Rich Mountain Salamander,17633,Plethodon ouachitae,Rich Mountain Salamander,Native,NT,stable,4/30/2004,2019-1
+aROTFx,Ascaphus montanus,Rocky Mountain Tailed Frog,54413,Ascaphus montanus,Rocky Mountain Tailed Frog,Native,LC,unknown,8/25/2015,2019-1
+aRSNEx,Taricha granulosa,Rough-skinned Newt,59469,Taricha granulosa,Roughskin Newt,Native,LC,stable,8/25/2015,2019-1
+aRSSAx,Batrachoseps relictus,Relictual Slender Salamander,2650,Batrachoseps relictus,Relictual Slender Salamander,Native,DD,unknown,4/30/2004,2019-1
+aRSTOx,Anaxyrus punctatus,Red-spotted Toad,54739,Anaxyrus punctatus,Baird's Spotted Toad,Native,LC,stable,1/8/2009,2019-1
+aSADSx,Desmognathus santeetlah,Santeetlah Dusky Salamander,59257,Desmognathus santeetlah,Santeetlah Dusky Salamander,Native,LC,stable,8/1/2014,2019-1
+aSASAx,Eurycea chisholmensis,Salado Salamander,59263,Eurycea chisholmensis,Chisholm Trail Salamander,Native,VU,unknown,4/30/2004,2019-1
+aSCFRx,Acris gryllus,Southern Cricket Frog,55287,Acris gryllus,Southern Cricket Frog,Native,LC,stable,2/23/2014,2019-1
+aSCSAx,Plethodon asupak,Scott Bar Salamander,61904,Plethodon asupak,Scottbar Salamander,Native,VU,unknown,1/31/2006,2019-1
+aSDSAx,Plethodon shenandoah,Shenandoah Salamander,17629,Plethodon shenandoah,Shenandoah Salamander,Native,VU,stable,4/30/2004,2019-1
+aSDSIx,Pseudobranchus axanthus,Southern Dwarf Siren,59489,Pseudobranchus axanthus,Narrow-striped Dwarf Siren,Native,LC,,2/25/2014,2019-1
+aSEASx,Desmognathus monticola,Seal Salamander,59252,Desmognathus monticola,Seal Salamander,Native,LC,stable,4/30/2004,2019-1
+aSEESx,Desmognathus aeneus,Seepage Salamander,59243,Desmognathus aeneus,Seepage Salamander,Native,NT,decreasing,4/30/2004,2019-1
+aSENEx,Taricha sierrea,Sierra Newt,136023,Taricha sierra,Sierra Newt,Native,LC,unknown,1/1/2008,2019-1
+aSGCSx,Plethodon metcalfi,Southern Gray-cheeked Salamander,59348,Plethodon metcalfi,Southern Gray-cheeked Salamander,Native,LC,stable,2/27/2014,2019-1
+aSGSSx,Batrachoseps gabrieli,San Gabriel Mountains Slender Salamander,59122,Batrachoseps gabrieli,San Gabriel Slender Salamander,Native,DD,unknown,4/30/2004,2019-1
+aSGTOx,Anaxyrus retiformis,Sonoran Green Toad,3173,Anaxyrus retiformis,Sonoran Green Toad ,Native,LC,stable,4/30/2004,2019-1
+aSHFRx,Hypopachus variolosus,Sheep Frog,57832,Hypopachus variolosus,Mexican Narrow-mouthed Toad,Native,LC,stable,1/6/2009,2019-1
+aSHMSx,Plethodon virginia,Shenandoah Mountain Salamander,59360,Plethodon virginia,Shenandoah Mountain Salamander,Native,NT,unknown,4/30/2004,2019-1
+aSHSAx,Hydromantes shastae,Shasta Salamander,10305,Hydromantes shastae,Shasta Salamander,Native,VU,stable,4/30/2004,2019-1
+aSLFRx,Lithobates sphenocephalus,Southern Leopard Frog,58723,Lithobates sphenocephalus,Southern Leopard Frog,Native,LC,stable,8/13/2014,2019-1
+aSMFRx,Rana muscosa,Southern Mountain Yellow-legged Frog,19177,Rana muscosa,Southern Mountain Yellow-legged Frog,Native,EN,decreasing,,
+aSMGSx,Plethodon meridianus,South Mountain Gray-cheeked Salamander,59347,Plethodon meridianus,South Mountain Gray-cheeked Salamander,Native,VU,stable,4/30/2004,2019-1
+aSMMSx,Ambystoma texanum,Small-mouthed Salamander,59071,Ambystoma texanum,Smallmouth Salamander,Native,LC,stable,8/25/2015,2019-1
+aSMSAx,Eurycea nana,San Marcos Salamander,8391,Eurycea nana,San Marcos Salamander,Native,VU,stable,4/30/2004,2019-1
+aSMSSx,Batrachoseps luciae,Santa Lucia Mountains Slender Salamander,59127,Batrachoseps luciae,Santa Lucia Mountains Slender Salamander,Native,LC,stable,4/30/2004,2019-1
+aSMTSx,Aneides hardii,Sacramento Mountains Salamander,59117,Aneides hardii,Sacramento Mountain Salamander,Native,LC,stable,4/30/2004,2019-1
+aSNSAx,Desmognathus marmoratus,Shovel-nosed Salamander,59251,Desmognathus marmoratus,Shovelnose Salamander,Native,LC,stable,4/30/2004,2019-1
+aSOASx,Plethodon teyahalee,Southern Appalachian Salamander,59356,Plethodon teyahalee,Southern Appalachian Salamander,Native,LC,stable,2/27/2014,2019-1
+aSODSx,Desmognathus auriculatus,Southern Dusky Salamander,59245,Desmognathus auriculatus,Southern Dusky Salamander,Native,LC,stable,4/30/2004,2019-1
+aSOFRx,Pseudacris nigrita,Southern Chorus Frog,55894,Pseudacris nigrita,Southern Chorus Frog,Native,LC,stable,8/14/2014,2019-1
+aSOTOx,Anaxyrus terrestris,Southern Toad,54777,Anaxyrus terrestris,Southern Toad,Native,LC,stable,4/30/2004,2019-1
+aSPCFx,Eleutherodactylus guttilatus,Spotted Chirping Frog,56643,Eleutherodactylus guttilatus,Spotted Chirping Frog,Native,LC,unknown,1/9/2009,2019-1
+aSPFRx,Pseudacris clarkii,Spotted Chorus Frog,55891,Pseudacris clarkii,Clarke's Striped Tree Frog,Native,LC,stable,1/1/2008,2019-1
+aSPOSx,Ambystoma maculatum,Spotted Salamander,59064,Ambystoma maculatum,Spotted Salamander,Native,LC,stable,8/25/2015,2019-1
+aSPPEx,Pseudacris crucifer,Spring Peeper,55892,Pseudacris crucifer,Spring Peeper,Native,LC,stable,8/25/2015,2019-1
+aSPRSx,Gyrinophilus porphyriticus,Spring Salamander,59282,Gyrinophilus porphyriticus,Spring Salamander,Native,LC,stable,8/25/2015,2019-1
+aSQSAx,Plethodon sequoyah,Sequoyah Slimy Salamander,59353,Plethodon sequoyah,Sequoyah Slimy Salamander,Native,DD,unknown,4/30/2004,2019-1
+aSQTRx,Hyla squirella,Squirrel Treefrog,55662,Dryophytes squirellus,Squirrel Treefrog,Native,LC,stable,4/30/2004,2019-1
+aSRBSx,Plethodon serratus,Southern Red-backed Salamander,59354,Plethodon serratus,Southern Redback Salamander,Native,LC,stable,2/27/2014,2019-1
+aSRSAx,Plethodon richmondi,Southern Ravine Salamander,59352,Plethodon richmondi,Ravine Salamander,Native,LC,stable,2/27/2014,2019-1
+aSSLSx,Batrachoseps kawia,Sequoia Slender Salamander,59126,Batrachoseps kawia,Sequoia Slender Salamander,Native,DD,unknown,4/30/2004,2019-1
+aSSSSx,Batrachoseps incognitus,San Simeon Slender Salamander,59125,Batrachoseps incognitus,San Simeon Slender Salamander,Native,DD,unknown,4/30/2004,2019-1
+aSTFRx,Pseudacris streckeri,Strecker's Chorus Frog,55898,Pseudacris streckeri,Strecker's Chorus Frog,Native,LC,unknown,8/19/2014,2019-1
+aSTLSx,Eurycea cirrigera,Southern Two-lined Salamander,59264,Eurycea cirrigera,Southern Two-lined Salamander,Native,LC,stable,4/30/2004,2019-1
+aSTNEx,Notophthalmus perstriatus,Striped Newt,14872,Notophthalmus perstriatus,Striped Newt,Native,NT,decreasing,4/30/2004,2019-1
+aSTOSx,Rhyacotriton variegatus,Southern Torrent Salamander,59438,Rhyacotriton variegatus,Southern Torrent Salamander,Native,LC,stable,4/30/2004,2019-1
+aSTRSx,Ambystoma barbouri,Streamside Salamander,59053,Ambystoma barbouri,Streamside Salamander,Native,NT,decreasing,4/30/2004,2019-1
+aSYLFx,Rana sierrae,Sierra Nevada Yellow-legged Frog,136114,Rana sierrae,Sierra Nevada Yellow-legged Frog,Native,EN,decreasing,,
+aSYSAx,Plethodon stormi,Siskiyou Mountains Salamander,17628,Plethodon stormi,Siskiyou Mountains Salamander,Native,EN,decreasing,4/30/2004,2019-1
+aSZSAx,Plethodon ventralis,Southern Zigzag Salamander,59359,Plethodon ventralis,Southern Zigzag Salamander,Native,LC,stable,2/26/2014,2019-1
+aTBSAx,Eurycea rathbuni,Texas Blind Salamander,39262,Eurycea rathbuni,Texas Blind Salamander,Native,VU,stable,4/30/2004,2019-1
+aTCSAx,Gyrinophilus palleucus,Tennessee Cave Salamander,59281,Gyrinophilus palleucus,Tennessee Cave Salamander,Native,VU,decreasing,,
+aTESAx,Plethodon aureolus,Tellico Salamander,59332,Plethodon aureolus,Tellico Salamander,Native,DD,unknown,4/30/2004,2019-1
+aTETOx,Anaxyrus speciosus,Texas Toad,54761,Anaxyrus speciosus,Texas Toad,Native,LC,stable,4/30/2004,2019-1
+aTHAMx,Amphiuma tridactylum,Three-toed Amphiuma,59076,Amphiuma tridactylum,Three-toed Amphiuma,Native,LC,stable,4/30/2004,2019-1
+aTLSAx,Eurycea guttolineata,Three-lined Salamander,59265,Eurycea guttolineata,Three-lined Salamander,Native,LC,stable,8/5/2014,2019-1
+aTSSAx,Batrachoseps stebbinsi,Tehachapi Slender Salamander,2648,Batrachoseps stebbinsi,Tehachapi Slender Salamander,Native,VU,unknown,1/12/2009,2019-1
+aTWAMx,Amphiuma means,Two-toed Amphiuma,59074,Amphiuma means,Two-toed Amphiuma,Native,LC,unknown,4/30/2004,2019-1
+aTXSAx,Eurycea neotenes,Texas Salamander,59272,Eurycea neotenes,Texas Salamander,Native,VU,unknown,4/30/2004,2019-1
+aUCFRx,Pseudacris feriarum,Upland Chorus Frog,55893,Pseudacris feriarum,Upland Chorus Frog,Native,LC,stable,1/1/2008,2019-1
+aVDSAx,Plethodon vandykei,Van Dyke's Salamander,59357,Plethodon vandykei,Van Dyke's Salamander,Native,LC,stable,2/27/2014,2019-1
+aVFSAx,Eurycea troglodytes,Valdina Farms Salamander,59276,Eurycea troglodytes,Eurycea Troglodytes Complex,Native,DD,unknown,4/30/2004,2019-1
+aVRSAx,Plethodon hoffmani,Valley And Ridge Salamander,59341,Plethodon hoffmani,Valley And Ridge Salamander,Native,LC,stable,2/27/2014,2019-1
+aWASAx,Aneides vagrans,Wandering Salamander,59119,Aneides vagrans,Wandering Salamander,Native,NT,decreasing,8/25/2015,2019-1
+aWBSAx,Plethodon websteri,Webster's Salamander,59361,Plethodon websteri,Webster's Salamander,Native,LC,decreasing,2/26/2014,2019-1
+aWCFRx,Pseudacris triseriata,Western Chorus Frog,55899,Pseudacris triseriata,Western Chorus Frog,Native,LC,decreasing,8/25/2015,2019-1
+aWESPx,Spea hammondii,Western Spadefoot,59045,Spea hammondii,Western Spadefoot Toad,Native,NT,decreasing,4/30/2004,2019-1
+aWHSAx,Plethodon wehrlei,Wehrle's Salamander,59362,Plethodon wehrlei,Wehrle's Salamander,Native,LC,stable,2/26/2014,2019-1
+aWLSAx,Plethodon welleri,Weller's Salamander,59363,Plethodon welleri,Weller's Salamander,Native,EN,decreasing,4/30/2004,2019-1
+aWNMTx,Gastrophryne olivacea,Western Narrow-mouthed Toad,57815,Gastrophryne olivacea,Great Plains Narrowmouth Toad,Native,LC,stable,4/30/2004,2019-1
+aWOFRx,Lithobates sylvaticus,Wood Frog,58728,Lithobates sylvaticus,Wood Frog,Native,LC,stable,8/25/2015,2019-1
+aWOTOx,Anaxyrus woodhousii,Woodhouse's Toad,54798,Anaxyrus woodhousii,Woodhouse's Toad,Native,LC,stable,4/30/2004,2019-1
+aWRBSx,Plethodon vehiculum,Western Red-backed Salamander,59358,Plethodon vehiculum,Western Redback Salamander,Native,LC,stable,8/25/2015,2019-1
+aWSSAx,Plethodon albagula,Western Slimy Salamander,59329,Plethodon albagula,White-throated Slimy Salamander,Native,LC,stable,1/1/2008,2019-1
+aWSSSx,Plethodon cylindraceus,White-spotted Slimy Salamander,59335,Plethodon cylindraceus,White-spotted Slimy Salamander,Native,LC,stable,2/28/2014,2019-1
+aWVSSx,Gyrinophilus subterraneus,West Virginia Spring Salamander,59283,Gyrinophilus subterraneus,West Virginia Spring Salamander,Native,EN,unknown,4/30/2004,2019-1
+aWYTOx,Anaxyrus baxteri,Wyoming Toad,54583,Anaxyrus baxteri,Wyoming Toad,Native,EW,decreasing,4/30/2004,2019-1
+aYOSAx,Plethodon yonahlossee,Yonahlossee Salamander,59364,Plethodon yonahlossee,Yonahlossee Salamander,Native,LC,stable,2/25/2014,2019-1
+aYOTOx,Anaxyrus canorus,Yosemite Toad,3180,Anaxyrus canorus,Yosemite Park Toad,Native,EN,decreasing,4/30/2004,2019-1
+bABDUx,Anas rubripes,American Black Duck,22680174,Anas rubripes,American Black Duck,Native,LC,decreasing,10/1/2016,2019-1
+bABTOx,Pipilo aberti,Abert's Towhee,22721315,Melozone aberti,Abert's Towhee,Native,LC,increasing,10/1/2016,2019-1
+bACFLx,Empidonax virescens,Acadian Flycatcher,22699842,Empidonax virescens,Acadian Flycatcher,Native,LC,stable,10/1/2016,2019-1
+bACWOx,Melanerpes formicivorus,Acorn Woodpecker,22680813,Melanerpes formicivorus,Acorn Woodpecker,Native,LC,increasing,10/1/2016,2019-1
+bALFLx,Empidonax alnorum,Alder Flycatcher,22699845,Empidonax alnorum,Alder Flycatcher,Native,LC,stable,10/1/2016,2019-1
+bALHUx,Selasphorus sasin,Allen's Hummingbird,22688299,Selasphorus sasin,Allen's Hummingbird,Native,LC,increasing,8/7/2018,2019-1
+bALORx,Icterus gularis,Altamira Oriole,22724108,Icterus gularis,Altamira Oriole,Native,LC,increasing,10/1/2016,2019-1
+bAMAVx,Recurvirostra americana,American Avocet,22693717,Recurvirostra americana,American Avocet,Native,LC,stable,10/1/2016,2019-1
+bAMBIx,Botaurus lentiginosus,American Bittern,22697340,Botaurus lentiginosus,American Bittern,Native,LC,decreasing,10/1/2016,2019-1
+bAMCOx,Fulica americana,American Coot,62169677,Fulica americana,American Coot,Native,LC,decreasing,10/1/2016,2019-1
+bAMCRx,Corvus brachyrhynchos,American Crow,22705990,Corvus brachyrhynchos,American Crow,Native,LC,increasing,8/9/2018,2019-1
+bAMDIx,Cinclus mexicanus,American Dipper,22708163,Cinclus mexicanus,American Dipper,Native,LC,stable,10/1/2016,2019-1
+bAMFLx,Phoenicopterus ruber,American Flamingo,22729706,Phoenicopterus ruber,American Flamingo,Native,LC,increasing,8/9/2018,2019-1
+bAMGOx,Carduelis tristis,American Goldfinch,22720407,Spinus tristis,American Goldfinch,Native,LC,increasing,10/1/2016,2019-1
+bAMKEx,Falco sparverius,American Kestrel,22696395,Falco sparverius,American Kestrel,Native,LC,stable,10/1/2016,2019-1
+bAMOYx,Haematopus palliatus,American Oystercatcher,22693644,Haematopus palliatus,American Oystercatcher,Native,LC,stable,10/1/2016,2019-1
+bAMPIx,Anthus rubescens,American Pipit,22718575,Anthus rubescens,Buff-bellied Pipit,Native,LC,decreasing,8/9/2018,2019-1
+bAMREx,Setophaga ruticilla,American Redstart,22721762,Setophaga ruticilla,American Redstart,Native,LC,decreasing,10/1/2016,2019-1
+bAMROx,Turdus migratorius,American Robin,103889499,Turdus migratorius,American Robin,Native,LC,increasing,10/1/2016,2019-1
+bAMWIx,Anas americana,American Wigeon,22680163,Mareca americana,American Wigeon,Native,LC,stable,10/1/2016,2019-1
+bAMWOx,Scolopax minor,American Woodcock,22693072,Scolopax minor,American Woodcock,Native,LC,decreasing,10/1/2016,2019-1
+bANHIx,Anhinga anhinga,Anhinga,22696702,Anhinga anhinga,Anhinga,Native,LC,decreasing,10/1/2016,2019-1
+bANHUx,Calypte anna,Anna's Hummingbird,22688199,Calypte anna,Anna's Hummingbird,Native,LC,increasing,10/1/2016,2019-1
+bANNIx,Chordeiles gundlachii,Antillean Nighthawk,22689717,Chordeiles gundlachii,Antillean Nighthawk,Native,LC,stable,10/1/2016,2019-1
+bAPFAx,Falco femoralis,Aplomado Falcon,22696450,Falco femoralis,Aplomado Falcon,Native,LC,decreasing,8/9/2018,2019-1
+bARTEx,Sterna paradisaea,Arctic Tern,22694629,Sterna paradisaea,Arctic Tern,Native,LC,decreasing,8/7/2018,2019-1
+bARWOx,Picoides arizonae,Arizona Woodpecker,22729044,Leuconotopicus arizonae,Arizona Woodpecker,Native,LC,increasing,10/1/2016,2019-1
+bASSPx,Oceanodroma homochroa,Ashy Storm-petrel,22698562,Hydrobates homochroa,Ashy Storm-petrel,Native,EN,decreasing,8/7/2018,2019-1
+bATBRx,Branta bernicla,Brant,22679946,Branta bernicla,Brent Goose,Native,LC,unknown,10/1/2016,2019-1
+bATFLx,Myiarchus cinerascens,Ash-throated Flycatcher,22700427,Myiarchus cinerascens,Ash-throated Flycatcher,Native,LC,increasing,10/1/2016,2019-1
+bATPUx,Fratercula arctica,Atlantic Puffin,22694927,Fratercula arctica,Atlantic Puffin,Native,VU,decreasing,8/7/2018,2019-1
+bATSPx,Spizella arborea,American Tree Sparrow,22721159,Passerella arborea,American Tree Sparrow,Native,LC,decreasing,8/9/2018,2019-1
+bATTWx,Picoides dorsalis,American Three-toed Woodpecker,22727137,Picoides tridactylus,Three-toed Woodpecker,Native,LC,stable,10/1/2016,2019-1
+bAUORx,Icterus graduacauda,Audubon's Oriole,22724081,Icterus graduacauda,Audubon's Oriole,Native,LC,decreasing,8/9/2018,2019-1
+bAWPEx,Pelecanus erythrorhynchos,American White Pelican,22697611,Pelecanus erythrorhynchos,American White Pelican,Native,LC,increasing,10/1/2016,2019-1
+bBACSx,Aimophila aestivalis,Bachman's Sparrow,22721256,Peucaea aestivalis,Bachman's Sparrow,Native,NT,decreasing,8/7/2018,2019-1
+bBADOx,Strix varia,Barred Owl,22689094,Strix varia,Barred Owl,Native,LC,increasing,10/1/2016,2019-1
+bBAEAx,Haliaeetus leucocephalus,Bald Eagle,22695144,Haliaeetus leucocephalus,Bald Eagle,Native,LC,increasing,10/1/2016,2019-1
+bBAGOx,Bucephala islandica,Barrow's Goldeneye,22680459,Bucephala islandica,Barrow's Goldeneye,Native,LC,increasing,8/7/2018,2019-1
+bBAISx,Ammodramus bairdii,Baird's Sparrow,22721141,Passerculus bairdii,Baird's Sparrow,Native,LC,decreasing,10/1/2016,2019-1
+bBANOx,Tyto alba,Barn Owl,22688504,Tyto alba,Common Barn-owl,Native,LC,stable,10/1/2016,2019-1
+bBANSx,Riparia riparia,Bank Swallow,103815961,Riparia riparia,Collared Sand Martin,Native,LC,decreasing,10/1/2016,2019-1
+bBAORx,Icterus galbula,Baltimore Oriole,22724126,Icterus galbula,Baltimore Oriole,Native,LC,stable,8/9/2018,2019-1
+bBARSx,Hirundo rustica,Barn Swallow,22712252,Hirundo rustica,Barn Swallow,Native,LC,decreasing,10/1/2016,2019-1
+bBAWWx,Mniotilta varia,Black-and-White Warbler,22721758,Mniotilta varia,Black-and-white Warbler,Native,LC,decreasing,10/1/2016,2019-1
+bBBCUx,Coccyzus erythropthalmus,Black-billed Cuckoo,22684328,Coccyzus erythropthalmus,Black-billed Cuckoo,Native,LC,decreasing,10/1/2016,2019-1
+bBBEHx,Amazilia yucatanensis,Buff-bellied Hummingbird,22687606,Amazilia yucatanensis,Buff-bellied Hummingbird,Native,LC,increasing,10/1/2016,2019-1
+bBBFLx,Empidonax fulvifrons,Buff-breasted Flycatcher,22699880,Empidonax fulvifrons,Buff-breasted Flycatcher,Native,LC,decreasing,10/1/2016,2019-1
+bBBIHx,Cynanthus latirostris,Broad-billed Hummingbird,22725767,Cynanthus latirostris,Broad-billed Hummingbird,Native,LC,increasing,10/1/2016,2019-1
+bBBMAx,Pica hudsonia,Black-billed Magpie,103727176,Pica hudsonia,Black-billed Magpie,Native,LC,stable,10/1/2016,2019-1
+bBBPLx,Pluvialis squatarola,Black-bellied Plover,22693749,Pluvialis squatarola,Grey Plover,Native,LC,decreasing,10/1/2016,2019-1
+bBBWAx,Dendroica castanea,Bay-breasted Warbler,22721734,Setophaga castanea,Bay-breasted Warbler,Native,LC,decreasing,8/9/2018,2019-1
+bBBWDx,Dendrocygna autumnalis,Black-bellied Whistling-Duck,22679780,Dendrocygna autumnalis,Black-bellied Whistling-duck,Native,LC,increasing,8/9/2018,2019-1
+bBBWOx,Picoides arcticus,Black-backed Woodpecker,22681181,Picoides arcticus,Black-backed Woodpecker,Native,LC,stable,10/1/2016,2019-1
+bBCCHx,Poecile atricapillus,Black-capped Chickadee,22711716,Poecile atricapillus,Black-capped Chickadee,Native,LC,increasing,10/1/2016,2019-1
+bBCFLx,Myiarchus tyrannulus,Brown-crested Flycatcher,22700436,Myiarchus tyrannulus,Brown-crested Flycatcher,Native,LC,increasing,10/1/2016,2019-1
+bBCHUx,Archilochus alexandri,Black-chinned Hummingbird,22688196,Archilochus alexandri,Black-chinned Hummingbird,Native,LC,increasing,10/1/2016,2019-1
+bBCNHx,Nycticorax nycticorax,Black-crowned Night-heron,22697211,Nycticorax nycticorax,Black-crowned Night-heron,Native,LC,decreasing,10/1/2016,2019-1
+bBCNIx,Caprimulgus ridgwayi,Buff-collared Nightjar,22689801,Antrostomus ridgwayi,Buff-collared Nightjar,Native,LC,decreasing,10/1/2016,2019-1
+bBCRFx,Leucosticte australis,Brown-capped Rosy-finch,22728985,Leucosticte australis,Brown-capped Rosy-finch,Native,EN,decreasing,8/7/2018,2019-1
+bBCSPx,Spizella atrogularis,Black-chinned Sparrow,22721185,Spizella atrogularis,Black-chinned Sparrow,Native,LC,decreasing,10/1/2016,2019-1
+bBCTIx,Baeolophus atricristatus,Black-crested Titmouse,22711989,Baeolophus atricristatus,Black-crested Titmouse,Native,LC,stable,10/1/2016,2019-1
+bBCVIx,Vireo atricapilla,Black-capped Vireo,22705159,Vireo atricapilla,Black-capped Vireo,Native,VU,decreasing,10/1/2016,2019-1
+bBEKIx,Megaceryle alcyon,Belted Kingfisher,22683623,Megaceryle alcyon,Belted Kingfisher,Native,LC,stable,10/1/2016,2019-1
+bBETHx,Toxostoma bendirei,Bendire's Thrasher,22711108,Toxostoma bendirei,Bendire's Thrasher,Native,VU,decreasing,10/1/2016,2019-1
+bBEVIx,Vireo bellii,Bell's Vireo,22705156,Vireo bellii,Bell's Vireo,Native,LC,increasing,8/7/2018,2019-1
+bBEWRx,Thryomanes bewickii,Bewick's Wren,22711377,Thryomanes bewickii,Bewick's Wren,Native,LC,stable,8/9/2018,2019-1
+bBGGNx,Polioptila caerulea,Blue-gray Gnatcatcher,22711581,Polioptila caerulea,Blue-grey Gnatcatcher,Native,LC,increasing,10/1/2016,2019-1
+bBHCOx,Molothrus ater,Brown-headed Cowbird,22724354,Molothrus ater,Brown-headed Cowbird,Native,LC,decreasing,8/9/2018,2019-1
+bBHGRx,Pheucticus melanocephalus,Black-headed Grosbeak,22723816,Pheucticus melanocephalus,Black-headed Grosbeak,Native,LC,increasing,10/1/2016,2019-1
+bBHNUx,Sitta pusilla,Brown-headed Nuthatch,103881613,Sitta pusilla,Brown-headed Nuthatch,Native,LC,decreasing,10/1/2016,2019-1
+bBHVIx,Vireo solitarius,Blue-headed Vireo,22705234,Vireo solitarius,Blue-headed Vireo,Native,LC,increasing,10/1/2016,2019-1
+bBITHx,Catharus bicknelli,Bicknell's Thrush,22728467,Catharus bicknelli,Bicknell's Thrush,Native,VU,decreasing,8/9/2018,2019-1
+bBLBWx,Dendroica fusca,Blackburnian Warbler,22721695,Setophaga fusca,Blackburnian Warbler,Native,LC,increasing,10/1/2016,2019-1
+bBLGRx,Passerina caerulea,Blue Grosbeak,22723939,Passerina caerulea,Blue Grosbeak,Native,LC,increasing,8/9/2018,2019-1
+bBLGUx,Cepphus grylle,Black Guillemot,22694861,Cepphus grylle,Black Guillemot,Native,LC,unknown,8/7/2018,2019-1
+bBLJAx,Cyanocitta cristata,Blue Jay,22705611,Cyanocitta cristata,Blue Jay,Native,LC,stable,10/1/2016,2019-1
+bBLOYx,Haematopus bachmani,Black Oystercatcher,62015238,Haematopus ater,Blackish Oystercatcher,Native,LC,unknown,10/1/2016,2019-1
+bBLPHx,Sayornis nigricans,Black Phoebe,22699892,Sayornis nigricans,Black Phoebe,Native,LC,increasing,10/1/2016,2019-1
+bBLPWx,Dendroica striata,Blackpoll Warbler,22721737,Setophaga striata,Blackpoll Warbler,Native,NT,decreasing,8/7/2018,2019-1
+bBLRAx,Laterallus jamaicensis,Black Rail,22692353,Laterallus jamaicensis,Black Rail,Native,NT,decreasing,10/1/2016,2019-1
+bBLRFx,Leucosticte atrata,Black Rosy-finch,22720488,Leucosticte atrata,Black Rosy-finch,Native,EN,decreasing,8/7/2018,2019-1
+bBLSCx,Melanitta nigra,Black Scoter,22732425,Melanitta americana,Black Scoter,Native,NT,decreasing,8/7/2018,2019-1
+bBLSKx,Rynchops niger,Black Skimmer,22694256,Rynchops niger,Black Skimmer,Native,LC,decreasing,10/1/2016,2019-1
+bBLSWx,Cypseloides niger,Black Swift,22686440,Cypseloides niger,Black Swift,Native,VU,decreasing,8/7/2018,2019-1
+bBLTEx,Chlidonias niger,Black Tern,22694787,Chlidonias niger,Black Tern,Native,LC,decreasing,8/7/2018,2019-1
+bBLTUx,Arenaria melanocephala,Black Turnstone,22693341,Arenaria melanocephala,Black Turnstone,Native,LC,stable,10/1/2016,2019-1
+bBLVUx,Coragyps atratus,Black Vulture,22697624,Coragyps atratus,American Black Vulture,Native,LC,increasing,10/1/2016,2019-1
+bBNSTx,Himantopus mexicanus,Black-necked Stilt,22727969,Himantopus himantopus,Black-winged Stilt,Native,LC,increasing,10/1/2016,2019-1
+bBOBOx,Dolichonyx oryzivorus,Bobolink,22724367,Dolichonyx oryzivorus,Bobolink,Native,LC,decreasing,10/1/2016,2019-1
+bBOCHx,Poecile hudsonica,Boreal Chickadee,22711759,Poecile hudsonicus,Boreal Chickadee,Native,LC,decreasing,10/1/2016,2019-1
+bBOGUx,Chroicocephalus philadelphia,Bonaparte's Gull,22694432,Larus philadelphia,Bonaparte's Gull,Native,LC,increasing,8/8/2018,2019-1
+bBOOWx,Aegolius funereus,Boreal Owl,22689362,Aegolius funereus,Boreal Owl,Native,LC,stable,10/1/2016,2019-1
+bBOSPx,Aimophila botterii,Botteri's Sparrow,22721264,Peucaea botterii,Botteri's Sparrow,Native,LC,stable,8/9/2018,2019-1
+bBOWAx,Bombycilla garrulus,Bohemian Waxwing,22708146,Bombycilla garrulus,Bohemian Waxwing,Native,LC,increasing,10/1/2016,2019-1
+bBRACx,Phalacrocorax penicillatus,Brandt's Cormorant,22696753,Urile penicillatus,Brandt's Cormorant,Native,LC,decreasing,8/13/2018,2019-1
+bBRBLx,Euphagus cyanocephalus,Brewer's Blackbird,22724332,Euphagus cyanocephalus,Brewer's Blackbird,Native,LC,decreasing,10/1/2016,2019-1
+bBRCRx,Certhia americana,Brown Creeper,22711244,Certhia americana,American Treecreeper,Native,LC,stable,10/1/2016,2019-1
+bBRJAx,Cyanocorax morio,Brown Jay,22705742,Cyanocorax morio,Brown Jay,Native,LC,increasing,10/1/2016,2019-1
+bBRNOx,Anous stolidus,Brown Noddy,22694794,Anous stolidus,Brown Noddy,Native,LC,stable,8/8/2018,2019-1
+bBROCx,Molothrus aeneus,Bronzed Cowbird,22732035,Molothrus aeneus,Bronzed Cowbird,Native,LC,stable,10/1/2016,2019-1
+bBRPEx,Pelecanus occidentalis,Brown Pelican,22733989,Pelecanus occidentalis,Brown Pelican,Native,LC,increasing,8/9/2018,2019-1
+bBRSPx,Spizella breweri,Brewer's Sparrow,22734705,Spizella breweri,Brewer's Sparrow,Native,LC,decreasing,8/7/2018,2019-1
+bBRTEx,Onychoprion anaethetus,Bridled Tern,22694730,Onychoprion anaethetus,Bridled Tern,Native,LC,unknown,8/7/2018,2019-1
+bBRTHx,Toxostoma rufum,Brown Thrasher,22711099,Toxostoma rufum,Brown Thrasher,Native,LC,decreasing,10/1/2016,2019-1
+bBRTIx,Baeolophus wollweberi,Bridled Titmouse,22711969,Baeolophus wollweberi,Bridled Titmouse,Native,LC,stable,10/1/2016,2019-1
+bBTAHx,Selasphorus platycercus,Broad-tailed Hummingbird,22688293,Selasphorus platycercus,Broad-tailed Hummingbird,Native,LC,stable,10/1/2016,2019-1
+bBTBWx,Dendroica caerulescens,Black-throated Blue Warbler,22721673,Setophaga caerulescens,Black-throated Blue Warbler,Native,LC,increasing,8/7/2018,2019-1
+bBTGNx,Polioptila melanura,Black-tailed Gnatcatcher,22711588,Polioptila melanura,Black-tailed Gnatcatcher,Native,LC,decreasing,8/9/2018,2019-1
+bBTGRx,Quiscalus major,Boat-tailed Grackle,22724311,Quiscalus major,Boat-tailed Grackle,Native,LC,increasing,10/1/2016,2019-1
+bBTHHx,Lampornis clemenciae,Blue-throated Hummingbird,22687664,Lampornis clemenciae,Blue-throated Hummingbird,Native,LC,increasing,10/1/2016,2019-1
+bBTNWx,Dendroica virens,Black-throated Green Warbler,22721689,Setophaga virens,Black-throated Green Warbler,Native,LC,decreasing,8/9/2018,2019-1
+bBTPIx,Patagioenas fasciata,Band-tailed Pigeon,22725264,Patagioenas fasciata,Northern Band-tailed Pigeon,Native,LC,decreasing,10/1/2016,2019-1
+bBTSPx,Amphispiza bilineata,Black-throated Sparrow,22721194,Amphispiza bilineata,Black-throated Sparrow,Native,LC,decreasing,8/9/2018,2019-1
+bBTYWx,Dendroica nigrescens,Black-throated Gray Warbler,22721679,Setophaga nigrescens,Black-throated Grey Warbler,Native,LC,stable,10/1/2016,2019-1
+bBUFFx,Bucephala albeola,Bufflehead,22680462,Bucephala albeola,Bufflehead,Native,LC,increasing,10/1/2016,2019-1
+bBUORx,Icterus bullockii,Bullock's Oriole,22729123,Icterus bullockiorum,Bullock's Oriole,Native,LC,stable,10/1/2016,2019-1
+bBUOWx,Athene cunicularia,Burrowing Owl,22689353,Athene cunicularia,Burrowing Owl,Native,LC,decreasing,10/1/2016,2019-1
+bBUSHx,Psaltriparus minimus,Bushtit,22712028,Psaltriparus minimus,American Bushtit,Native,LC,stable,8/9/2018,2019-1
+bBWHAx,Buteo platypterus,Broad-winged Hawk,22695891,Buteo platypterus,Broad-winged Hawk,Native,LC,increasing,10/1/2016,2019-1
+bBWTEx,Anas discors,Blue-winged Teal,22680229,Spatula discors,Blue-winged Teal,Native,LC,decreasing,10/1/2016,2019-1
+bBWVIx,Vireo altiloquus,Black-whiskered Vireo,22705254,Vireo altiloquus,Black-whiskered Vireo,Native,LC,unknown,10/1/2016,2019-1
+bBWWAx,Vermivora pinus,Blue-winged Warbler,22721610,Vermivora cyanoptera,Blue-winged Warbler,Native,LC,decreasing,8/9/2018,2019-1
+bCAAUx,Ptychoramphus aleuticus,Cassin's Auklet,22694903,Ptychoramphus aleuticus,Cassin's Auklet,Native,NT,decreasing,8/7/2018,2019-1
+bCACGx,Branta hutchinsii,Cackling Goose,22733619,Branta hutchinsii,Cackling Goose,Native,LC,unknown,10/1/2016,2019-1
+bCACHx,Poecile carolinensis,Carolina Chickadee,22711708,Poecile carolinensis,Carolina Chickadee,Native,LC,stable,10/1/2016,2019-1
+bCACOx,Gymnogyps californianus,California Condor,22697636,Gymnogyps californianus,California Condor,Native,CR,increasing,8/7/2018,2019-1
+bCACWx,Campylorhynchus brunneicapillus,Cactus Wren,22711287,Campylorhynchus brunneicapillus,Cactus Wren,Native,LC,decreasing,10/1/2016,2019-1
+bCAEGx,Bubulcus ibis,Cattle Egret,22697109,Bubulcus ibis,Cattle Egret,Native,LC,increasing,10/1/2016,2019-1
+bCAFIx,Carpodacus cassinii,Cassin's Finch,22720560,Haemorhous cassinii,Cassin's Finch,Native,NT,decreasing,10/1/2016,2019-1
+bCAGNx,Polioptila californica,California Gnatcatcher,22711585,Polioptila californica,California Gnatcatcher,Native,LC,decreasing,8/9/2018,2019-1
+bCAGUx,Larus californicus,California Gull,22694321,Larus californicus,California Gull,Native,LC,decreasing,8/8/2018,2019-1
+bCAHUx,Stellula calliope,Calliope Hummingbird,22688232,Selasphorus calliope,Calliope Hummingbird,Native,LC,stable,10/1/2016,2019-1
+bCAKIx,Tyrannus vociferans,Cassin's Kingbird,22700491,Tyrannus vociferans,Cassin's Kingbird,Native,LC,stable,10/1/2016,2019-1
+bCALTx,Pipilo crissalis,California Towhee,22721323,Melozone crissalis,California Towhee,Native,LC,decreasing,10/1/2016,2019-1
+bCANGx,Branta canadensis,Canada Goose,22679935,Branta canadensis,Canada Goose,Native,LC,increasing,8/9/2018,2019-1
+bCANTx,Pipilo fuscus,Canyon Towhee,22721331,Melozone fusca,Canyon Towhee,Native,LC,stable,8/9/2018,2019-1
+bCANVx,Aythya valisineria,Canvasback,22680364,Aythya valisineria,Canvasback,Native,LC,decreasing,10/1/2016,2019-1
+bCANWx,Catherpes mexicanus,Canyon Wren,22711335,Catherpes mexicanus,Canyon Wren,Native,LC,decreasing,10/1/2016,2019-1
+bCAQUx,Callipepla californica,California Quail,22679603,Callipepla californica,California Quail,Native,LC,increasing,8/9/2018,2019-1
+bCARWx,Thryothorus ludovicianus,Carolina Wren,103887192,Thryothorus ludovicianus,Carolina Wren,Native,LC,increasing,8/9/2018,2019-1
+bCASPx,Aimophila cassinii,Cassin's Sparrow,22721272,Peucaea cassinii,Cassin's Sparrow,Native,LC,decreasing,10/1/2016,2019-1
+bCASWx,Petrochelidon fulva,Cave Swallow,22712435,Petrochelidon fulva,Cave Swallow,Native,LC,increasing,10/1/2016,2019-1
+bCATEx,Hydroprogne caspia,Caspian Tern,22694524,Hydroprogne caspia,Caspian Tern,Native,LC,increasing,8/7/2018,2019-1
+bCATHx,Toxostoma redivivum,California Thrasher,22711124,Toxostoma redivivum,California Thrasher,Native,LC,decreasing,10/1/2016,2019-1
+bCAVIx,Vireo cassinii,Cassin's Vireo,22705228,Vireo cassinii,Cassin's Vireo,Native,LC,increasing,10/1/2016,2019-1
+bCAWAx,Wilsonia canadensis,Canada Warbler,22721882,Cardellina canadensis,Canada Warbler,Native,LC,decreasing,10/1/2016,2019-1
+bCBCHx,Poecile rufescens,Chestnut-backed Chickadee,22711767,Poecile rufescens,Chestnut-backed Chickadee,Native,LC,increasing,10/1/2016,2019-1
+bCBTHx,Toxostoma curvirostre,Curve-billed Thrasher,22711115,Toxostoma curvirostre,Curve-billed Thrasher,Native,LC,decreasing,8/9/2018,2019-1
+bCCLOx,Calcarius ornatus,Chestnut-collared Longspur,22721040,Calcarius ornatus,Chestnut-collared Longspur,Native,VU,decreasing,10/1/2017,2019-1
+bCCSPx,Spizella pallida,Clay-colored Sparrow,22721165,Spizella pallida,Clay-colored Sparrow,Native,LC,decreasing,10/1/2016,2019-1
+bCEDWx,Bombycilla cedrorum,Cedar Waxwing,22708153,Bombycilla cedrorum,Cedar Waxwing,Native,LC,increasing,10/1/2016,2019-1
+bCERWx,Dendroica cerulea,Cerulean Warbler,22721740,Setophaga cerulea,Cerulean Warbler,Native,VU,decreasing,8/9/2018,2019-1
+bCHRAx,Corvus cryptoleucus,Chihuahuan Raven,22706055,Corvus cryptoleucus,Chihuahuan Raven,Native,LC,stable,10/1/2016,2019-1
+bCHSPx,Spizella passerina,Chipping Sparrow,22721162,Spizella passerina,Chipping Sparrow,Native,LC,increasing,8/9/2018,2019-1
+bCHSWx,Chaetura pelagica,Chimney Swift,22686709,Chaetura pelagica,Chimney Swift,Native,VU,decreasing,8/7/2018,2019-1
+bCHUKx,Alectoris chukar,Chukar,22678691,Alectoris chukar,Chukar,Native,LC,stable,8/9/2018,2019-1
+bCITEx,Anas cyanoptera,Cinnamon Teal,22680233,Spatula cyanoptera,Cinnamon Teal,Native,LC,decreasing,10/1/2016,2019-1
+bCLGRx,Aechmophorus clarkii,Clark's Grebe,22696634,Aechmophorus clarkii,Clark's Grebe,Native,LC,decreasing,10/1/2016,2019-1
+bCLNUx,Nucifraga columbiana,Clark's Nutcracker,22705909,Nucifraga columbiana,Clark's Nutcracker,Native,LC,stable,8/7/2018,2019-1
+bCLRAx,Rallus longirostris,Clapper Rail,62155296,Rallus crepitans,Clapper Rail,Native,LC,decreasing,8/7/2018,2019-1
+bCLSWx,Petrochelidon pyrrhonota,Cliff Swallow,22712427,Petrochelidon pyrrhonota,Cliff Swallow,Native,LC,increasing,10/1/2016,2019-1
+bCMWAx,Dendroica tigrina,Cape May Warbler,22721670,Setophaga tigrina,Cape May Warbler,Native,LC,stable,10/1/2016,2019-1
+bCOBHx,Buteogallus anthracinus,Common Black-hawk,22735514,Buteogallus anthracinus,Common Black Hawk,Native,LC,decreasing,10/1/2016,2019-1
+bCOEIx,Somateria mollissima,Common Eider,22680405,Somateria mollissima,Common Eider,Native,NT,unknown,8/7/2018,2019-1
+bCOFLx,Empidonax occidentalis,Cordilleran Flycatcher,22699874,Empidonax occidentalis,Cordilleran Flycatcher,Native,LC,decreasing,10/1/2016,2019-1
+bCOGDx,Columbina passerina,Common Ground-dove,22690774,Columbina passerina,Common Ground-dove,Native,LC,decreasing,8/9/2018,2019-1
+bCOGOx,Bucephala clangula,Common Goldeneye,22680455,Bucephala clangula,Common Goldeneye,Native,LC,stable,8/7/2018,2019-1
+bCOGRx,Quiscalus quiscula,Common Grackle,22724320,Quiscalus quiscula,Common Grackle,Native,NT,decreasing,8/14/2018,2019-1
+bCOHAx,Accipiter cooperii,Cooper's Hawk,22695656,Accipiter cooperii,Cooper's Hawk,Native,LC,increasing,10/1/2016,2019-1
+bCOHUx,Calypte costae,Costa's Hummingbird,22688202,Calypte costae,Costa's Hummingbird,Native,LC,stable,10/1/2016,2019-1
+bCOKIx,Tyrannus couchii,Couch's Kingbird,22700488,Tyrannus couchii,Couch's Kingbird,Native,LC,increasing,10/1/2016,2019-1
+bCOLOx,Gavia immer,Common Loon,22697842,Gavia immer,Common Loon,Native,LC,stable,8/7/2018,2019-1
+bCOLWx,Vermivora crissalis,Colima Warbler,22721633,Leiothlypis crissalis,Colima Warbler,Native,LC,decreasing,10/1/2016,2019-1
+bCOMEx,Mergus merganser,Common Merganser,22680492,Mergus merganser,Goosander,Native,LC,unknown,8/7/2018,2019-1
+bCOMUx,Uria aalge,Common Murre,22694841,Uria aalge,Common Murre,Native,LC,increasing,8/7/2018,2019-1
+bCOMYx,Acridotheres tristis,Common Myna,22710921,Acridotheres tristis,Common Myna,Introduced,LC,increasing,10/1/2016,2019-1
+bCONIx,Chordeiles minor,Common Nighthawk,22689714,Chordeiles minor,Common Nighthawk,Native,LC,decreasing,10/1/2016,2019-1
+bCONWx,Oporornis agilis,Connecticut Warbler,22721818,Oporornis agilis,Connecticut Warbler,Native,LC,decreasing,10/1/2016,2019-1
+bCOPAx,Nyctidromus albicollis,Common Pauraque,22689731,Nyctidromus albicollis,Pauraque,Native,LC,decreasing,10/1/2016,2019-1
+bCOPOx,Phalaenoptilus nuttallii,Common Poorwill,22689735,Phalaenoptilus nuttallii,Common Poorwill,Native,LC,increasing,10/1/2016,2019-1
+bCORAx,Corvus corax,Common Raven,22706068,Corvus corax,Common Raven,Native,LC,increasing,10/1/2016,2019-1
+bCOREx,Carduelis flammea,Common Redpoll,22725044,Acanthis flammea,Redpoll,Native,LC,decreasing,8/9/2018,2019-1
+bCOTEx,Sterna hirundo,Common Tern,22694623,Sterna hirundo,Common Tern,Native,LC,unknown,8/7/2018,2019-1
+bCOYEx,Geothlypis trichas,Common Yellowthroat,22721836,Geothlypis trichas,Common Yellowthroat,Native,LC,stable,10/1/2016,2019-1
+bCRCAx,Caracara cheriway,Crested Caracara,22696255,Caracara cheriway,Crested Caracara,Native,LC,increasing,10/1/2016,2019-1
+bCRTHx,Toxostoma crissale,Crissal Thrasher,22711127,Toxostoma crissale,Crissal Thrasher,Native,LC,stable,10/1/2016,2019-1
+bCSWAx,Dendroica pensylvanica,Chestnut-sided Warbler,22721664,Setophaga pensylvanica,Chestnut-sided Warbler,Native,LC,decreasing,10/1/2016,2019-1
+bCWWIx,Caprimulgus carolinensis,Chuck-will's-widow,22689778,Antrostomus carolinensis,Chuck-will's-widow,Native,NT,decreasing,8/9/2018,2019-1
+bDCCOx,Phalacrocorax auritus,Double-crested Cormorant,22696776,Nannopterum auritus,Double-crested Cormorant,Native,LC,increasing,8/9/2018,2019-1
+bDCFLx,Myiarchus tuberculifer,Dusky-capped Flycatcher,22700399,Myiarchus tuberculifer,Dusky-capped Flycatcher,Native,LC,decreasing,10/1/2016,2019-1
+bDEJUx,Junco hyemalis,Dark-eyed Junco,22721097,Junco hyemalis,Dark-eyed Junco,Native,LC,stable,10/1/2016,2019-1
+bDICKx,Spiza americana,Dickcissel,22723796,Spiza americana,Dickcissel,Native,LC,stable,10/1/2016,2019-1
+bDOVEx,Alle alle,Dovekie,22694837,Alle alle,Little Auk,Native,LC,decreasing,8/7/2018,2019-1
+bDOWOx,Picoides pubescens,Downy Woodpecker,22681155,Dryobates pubescens,Downy Woodpecker,Native,LC,stable,10/1/2016,2019-1
+bDUFLx,Empidonax oberholseri,Dusky Flycatcher,22699864,Empidonax oberholseri,American Dusky Flycatcher,Native,LC,decreasing,10/1/2016,2019-1
+bDUGRx,Dendragapus obscurus,Dusky Grouse,22734690,Dendragapus obscurus,Dusky Grouse,Native,LC,decreasing,10/1/2016,2019-1
+bDUNLx,Calidris alpina,Dunlin,22693427,Calidris alpina,Dunlin,Native,LC,decreasing,10/1/2016,2019-1
+bEABLx,Sialia sialis,Eastern Bluebird,22708550,Sialia sialis,Eastern Bluebird,Native,LC,increasing,8/9/2018,2019-1
+bEAGRx,Podiceps nigricollis,Eared Grebe,22696610,Podiceps nigricollis,Black-necked Grebe,Native,LC,unknown,8/7/2018,2019-1
+bEAKIx,Tyrannus tyrannus,Eastern Kingbird,22700506,Tyrannus tyrannus,Eastern Kingbird,Native,LC,decreasing,10/1/2016,2019-1
+bEAMEx,Sturnella magna,Eastern Meadowlark,22735434,Sturnella magna,Eastern Meadowlark,Native,NT,increasing,8/7/2018,2019-1
+bEAPHx,Sayornis phoebe,Eastern Phoebe,22699886,Sayornis phoebe,Eastern Phoebe,Native,LC,increasing,10/1/2016,2019-1
+bEASOx,Megascops asio,Eastern Screech-owl,22688758,Megascops asio,Eastern Screech-owl,Native,LC,increasing,10/1/2016,2019-1
+bEATOx,Pipilo erythrophthalmus,Eastern Towhee,22721310,Pipilo erythrophthalmus,Eastern Towhee,Native,LC,stable,10/1/2016,2019-1
+bEAWPx,Contopus virens,Eastern Wood-pewee,22699816,Contopus virens,Eastern Wood-pewee,Native,LC,decreasing,10/1/2016,2019-1
+bELOWx,Micrathene whitneyi,Elf Owl,22689325,Micrathene whitneyi,Elf Owl,Native,LC,decreasing,10/1/2016,2019-1
+bELTEx,Thalasseus elegans,Elegant Tern,22694552,Thalasseus elegans,Elegant Tern,Native,NT,stable,8/7/2018,2019-1
+bETSPx,Passer montanus,Eurasian Tree Sparrow,22718270,Passer montanus,Eurasian Tree Sparrow,Introduced,LC,decreasing,10/1/2016,2019-1
+bEUCDx,Streptopelia decaocto,Eurasian Collared-dove,22727811,Streptopelia decaocto,Eurasian Collared-dove,Introduced,LC,increasing,8/9/2018,2019-1
+bEUSTx,Sturnus vulgaris,European Starling,22710886,Sturnus vulgaris,Common Starling,Introduced,LC,decreasing,10/1/2016,2019-1
+bEUWIx,Anas penelope,Eurasian Wigeon,22680157,Mareca penelope,Eurasian Wigeon,Native,LC,decreasing,10/1/2016,2019-1
+bEVGRx,Coccothraustes vespertinus,Evening Grosbeak,22720702,Hesperiphona vespertina,Evening Grosbeak,Native,VU,decreasing,8/7/2018,2019-1
+bEWCSx,Zonotrichia leucophrys,White-crowned Sparrow,22721088,Zonotrichia leucophrys,White-crowned Sparrow,Native,LC,stable,10/1/2016,2019-1
+bFEHAx,Buteo regalis,Ferruginous Hawk,22695970,Buteo regalis,Ferruginous Hawk,Native,LC,increasing,10/1/2016,2019-1
+bFEPOx,Glaucidium brasilianum,Ferruginous Pygmy-owl,61815999,Glaucidium brasilianum,Ferruginous Pygmy-owl,Native,LC,decreasing,10/1/2016,2019-1
+bFICRx,Corvus ossifragus,Fish Crow,22705993,Corvus ossifragus,Fish Crow,Native,LC,increasing,10/1/2016,2019-1
+bFISPx,Spizella pusilla,Field Sparrow,22721179,Spizella pusilla,Field Sparrow,Native,LC,decreasing,10/1/2016,2019-1
+bFLOWx,Otus flammeolus,Flammulated Owl,22688637,Psiloscops flammeolus,Flammulated Owl,Native,LC,decreasing,10/1/2016,2019-1
+bFLSJx,Aphelocoma coerulescens,Florida Scrub-jay,22705629,Aphelocoma coerulescens,Florida Scrub-jay,Native,VU,decreasing,10/1/2017,2019-1
+bFOSPx,Passerella iliaca,Fox Sparrow,103779110,Passerella iliaca,Red Fox-sparrow,Native,LC,stable,10/1/2016,2019-1
+bFOTEx,Sterna forsteri,Forster's Tern,22694646,Sterna forsteri,Forster's Tern,Native,LC,increasing,8/7/2018,2019-1
+bFRGUx,Leucophaeus pipixcan,Franklin's Gull,22694462,Larus pipixcan,Franklin's Gull,Native,LC,increasing,8/8/2018,2019-1
+bFSSPx,Aimophila quinquestriata,Five-striped Sparrow,22721200,Amphispiza quinquestriata,Five-striped Sparrow,Native,LC,stable,10/1/2016,2019-1
+bFTSPx,Oceanodroma furcata,Fork-tailed Storm-petrel,22698572,Hydrobates furcatus,Fork-tailed Storm-petrel,Native,LC,increasing,8/7/2018,2019-1
+bFUWDx,Dendrocygna bicolor,Fulvous Whistling-duck,22679746,Dendrocygna bicolor,Fulvous Whistling-duck,Native,LC,decreasing,10/1/2016,2019-1
+bGADWx,Anas strepera,Gadwall,22680149,Mareca strepera,Gadwall,Native,LC,increasing,10/1/2016,2019-1
+bGAQUx,Callipepla gambelii,Gambel's Quail,22679609,Callipepla gambelii,Gambel's Quail,Native,LC,stable,8/9/2018,2019-1
+bGBANx,Crotophaga sulcirostris,Groove-billed Ani,22684438,Crotophaga sulcirostris,Groove-billed Ani,Native,LC,decreasing,10/1/2016,2019-1
+bGBBGx,Larus marinus,Great Black-backed Gull,22694324,Larus marinus,Great Black-backed Gull,Native,LC,unknown,8/7/2018,2019-1
+bGBHEx,Ardea herodias,Great Blue Heron,22696998,Ardea herodias,Great Blue Heron,Native,LC,increasing,10/1/2016,2019-1
+bGBTEx,Gelochelidon nilotica,Gull-billed Tern,62026481,Gelochelidon nilotica,Common Gull-billed Tern,Native,LC,decreasing,8/7/2018,2019-1
+bGCFLx,Myiarchus crinitus,Great Crested Flycatcher,22700433,Myiarchus crinitus,Great Crested Flycatcher,Native,LC,stable,10/1/2016,2019-1
+bGCKIx,Regulus satrapa,Golden-crowned Kinglet,22712594,Regulus satrapa,Golden-crowned Kinglet,Native,LC,increasing,8/9/2018,2019-1
+bGCRFx,Leucosticte tephrocotis,Gray-crowned Rosy-finch,22720482,Leucosticte tephrocotis,Grey-crowned Rosy-Finch,Native,LC,stable,8/9/2018,2019-1
+bGCSPx,Zonotrichia atricapilla,Golden-crowned Sparrow,22721091,Zonotrichia atricapilla,Golden-crowned Sparrow,Native,LC,increasing,10/1/2016,2019-1
+bGCWAx,Dendroica chrysoparia,Golden-cheeked Warbler,22721692,Setophaga chrysoparia,Golden-cheeked Warbler,Native,EN,decreasing,8/7/2018,2019-1
+bGFWOx,Melanerpes aurifrons,Golden-fronted Woodpecker,22680862,Melanerpes aurifrons,Golden-fronted Woodpecker,Native,LC,stable,10/1/2016,2019-1
+bGGOWx,Strix nebulosa,Great Gray Owl,22689118,Strix nebulosa,Great Grey Owl,Native,LC,increasing,10/1/2016,2019-1
+bGHOWx,Bubo virginianus,Great Horned Owl,61752071,Bubo virginianus,Great Horned Owl,Native,LC,stable,8/9/2018,2019-1
+bGIFLx,Colaptes chrysoides,Gilded Flicker,22681290,Colaptes chrysoides,Gilded Flicker,Native,LC,decreasing,10/1/2016,2019-1
+bGIWOx,Melanerpes uropygialis,Gila Woodpecker,22680853,Melanerpes uropygialis,Gila Woodpecker,Native,LC,stable,10/1/2016,2019-1
+bGKINx,Chloroceryle americana,Green Kingfisher,22683652,Chloroceryle americana,Green Kingfisher,Native,LC,increasing,10/1/2016,2019-1
+bGKISx,Pitangus sulphuratus,Great Kiskadee,22700605,Pitangus sulphuratus,Great Kiskadee,Native,LC,increasing,8/9/2018,2019-1
+bGLGUx,Larus hyperboreus,Glaucous Gull,22694343,Larus hyperboreus,Glaucous Gull,Native,LC,stable,8/7/2018,2019-1
+bGLIBx,Plegadis falcinellus,Glossy Ibis,22697422,Plegadis falcinellus,Glossy Ibis,Native,LC,decreasing,10/1/2016,2019-1
+bGOEAx,Aquila chrysaetos,Golden Eagle,22696060,Aquila chrysaetos,Golden Eagle,Native,LC,stable,10/1/2016,2019-1
+bGRAJx,Perisoreus canadensis,Gray Jay,22705783,Perisoreus canadensis,Grey Jay,Native,LC,decreasing,8/7/2018,2019-1
+bGRAKx,Tyrannus dominicensis,Gray Kingbird,22700509,Tyrannus dominicensis,Grey Kingbird,Native,LC,stable,10/1/2016,2019-1
+bGRAPx,Perdix perdix,Gray Partridge,22678911,Perdix perdix,Grey Partridge,Introduced,LC,decreasing,10/1/2016,2019-1
+bGRCAx,Dumetella carolinensis,Gray Catbird,22711013,Dumetella carolinensis,Grey Catbird,Native,LC,stable,10/1/2016,2019-1
+bGRCOx,Phalacrocorax carbo,Great Cormorant,22696792,Phalacrocorax carbo,Great Cormorant,Native,LC,increasing,8/9/2018,2019-1
+bGREGx,Ardea alba,Great Egret,22697043,Ardea alba,Great White Egret,Native,LC,unknown,10/1/2016,2019-1
+bGREJx,Cyanocorax yncas,Green Jay,22705738,Cyanocorax yncas,Green Jay,Native,LC,increasing,10/1/2016,2019-1
+bGRFLx,Empidonax wrightii,Gray Flycatcher,22699860,Empidonax wrightii,American Grey Flycatcher,Native,LC,increasing,10/1/2016,2019-1
+bGRHEx,Butorides virescens,Green Heron,22728182,Butorides striata,Green-backed Heron,Native,LC,decreasing,10/1/2016,2019-1
+bGRPCx,Tympanuchus cupido,Greater Prairie-chicken,22679514,Tympanuchus cupido,Greater Prairie-chicken,Native,VU,decreasing,10/1/2016,2019-1
+bGRPEx,Contopus pertinax,Greater Pewee,22699798,Contopus pertinax,Greater Pewee,Native,LC,decreasing,10/1/2016,2019-1
+bGRROx,Geococcyx californianus,Greater Roadrunner,22684458,Geococcyx californianus,Greater Roadrunner,Native,LC,stable,10/1/2016,2019-1
+bGRSCx,Aythya marila,Greater Scaup,22680398,Aythya marila,Greater Scaup,Native,LC,decreasing,8/7/2018,2019-1
+bGRSGx,Centrocercus urophasianus,Greater Sage-grouse,22679503,Centrocercus urophasianus,Sage Grouse,Native,NT,decreasing,10/1/2016,2019-1
+bGRSPx,Ammodramus savannarum,Grasshopper Sparrow,22721144,Ammodramus savannarum,Grasshopper Sparrow,Native,LC,decreasing,8/9/2018,2019-1
+bGRVIx,Vireo vicinior,Gray Vireo,22705209,Vireo vicinior,Grey Vireo,Native,LC,increasing,10/1/2016,2019-1
+bGRWAx,Dendroica graciae,Grace's Warbler,22721708,Setophaga graciae,Grace's Warbler,Native,LC,decreasing,10/1/2016,2019-1
+bGRYEx,Tringa melanoleuca,Greater Yellowlegs,22693231,Tringa melanoleuca,Greater Yellowlegs,Native,LC,stable,10/1/2016,2019-1
+bGTGRx,Quiscalus mexicanus,Great-tailed Grackle,22724308,Quiscalus mexicanus,Great-tailed Grackle,Native,LC,stable,8/9/2018,2019-1
+bGTTOx,Pipilo chlorurus,Green-tailed Towhee,22721304,Pipilo chlorurus,Green-tailed Towhee,Native,LC,stable,10/1/2016,2019-1
+bGUSGx,Centrocercus minimus,Gunnison Sage-grouse,22728472,Centrocercus minimus,Gunnison Grouse ,Native,EN,decreasing,,
+bGWFGx,Anser albifrons,Greater White-fronted Goose,22679881,Anser albifrons,Greater White-fronted Goose,Native,LC,unknown,10/1/2016,2019-1
+bGWGUx,Larus glaucescens,Glaucous-winged Gull,22694334,Larus glaucescens,Glaucous-winged Gull,Native,LC,increasing,8/7/2018,2019-1
+bGWTEx,Anas crecca,Green-winged Teal,22729717,Anas crecca,Common Teal,Native,LC,unknown,10/1/2016,2019-1
+bGWWAx,Vermivora chrysoptera,Golden-winged Warbler,22721618,Vermivora chrysoptera,Golden-winged Warbler,Native,NT,decreasing,8/9/2018,2019-1
+bGYRFx,Falco rusticolus,Gyrfalcon,22696500,Falco rusticolus,Gyrfalcon,Native,LC,stable,10/1/2016,2019-1
+bHADUx,Histrionicus histrionicus,Harlequin Duck,22680423,Histrionicus histrionicus,Harlequin Duck,Native,LC,increasing,8/7/2018,2019-1
+bHAFLx,Empidonax hammondii,Hammond's Flycatcher,22699857,Empidonax hammondii,Hammond's Flycatcher,Native,LC,increasing,10/1/2016,2019-1
+bHASHx,Parabuteo unicinctus,Harris's Hawk,22695838,Parabuteo unicinctus,Harris's Hawk,Native,LC,decreasing,10/1/2016,2019-1
+bHASPx,Zonotrichia querula,Harris's Sparrow,22721082,Zonotrichia querula,Harris's Sparrow,Native,NT,decreasing,8/7/2018,2019-1
+bHAWOx,Picoides villosus,Hairy Woodpecker,22681166,Leuconotopicus villosus,Hairy Woodpecker,Native,LC,increasing,10/1/2016,2019-1
+bHBKIx,Chondrohierax uncinatus,Hook-billed Kite,22694971,Chondrohierax uncinatus,Hook-billed Kite,Native,LC,decreasing,10/1/2016,2019-1
+bHEEGx,Larus heermanni,Heermann's Gull,22694296,Larus heermanni,Heermann's Gull,Native,NT,unknown,8/8/2018,2019-1
+bHESPx,Ammodramus henslowii,Henslow's Sparrow,22721138,Passerculus henslowii,Henslow's Sparrow,Native,LC,increasing,8/7/2018,2019-1
+bHETAx,Piranga flava,Hepatic Tanager,103811627,Piranga hepatica,Hepatic Tanager,Native,LC,increasing,10/1/2016,2019-1
+bHETHx,Catharus guttatus,Hermit Thrush,22708667,Catharus guttatus,Hermit Thrush,Native,LC,increasing,10/1/2016,2019-1
+bHEWAx,Dendroica occidentalis,Hermit Warbler,22721686,Setophaga occidentalis,Hermit Warbler,Native,LC,stable,8/9/2018,2019-1
+bHOFIx,Carpodacus mexicanus,House Finch,22720563,Haemorhous mexicanus,House Finch,Native,LC,increasing,8/9/2018,2019-1
+bHOGRx,Podiceps auritus,Horned Grebe,22696606,Podiceps auritus,Horned Grebe,Native,VU,decreasing,8/7/2018,2019-1
+bHOLAx,Eremophila alpestris,Horned Lark,22717434,Eremophila alpestris,Horned Lark,Native,LC,decreasing,10/1/2016,2019-1
+bHOMEx,Lophodytes cucullatus,Hooded Merganser,22680472,Lophodytes cucullatus,Hooded Merganser,Native,LC,increasing,10/1/2016,2019-1
+bHOORx,Icterus cucullatus,Hooded Oriole,22724131,Icterus cucullatus,Hooded Oriole,Native,LC,increasing,10/1/2016,2019-1
+bHOSPx,Passer domesticus,House Sparrow,103818789,Passer domesticus,House Sparrow,Native,LC,decreasing,10/1/2016,2019-1
+bHOWAx,Wilsonia citrina,Hooded Warbler,22721876,Setophaga citrina,Hooded Warbler,Native,LC,increasing,10/1/2016,2019-1
+bHOWRx,Troglodytes aedon,House Wren,103886826,Troglodytes aedon,House Wren,Native,LC,increasing,10/1/2016,2019-1
+bHUVIx,Vireo huttoni,Hutton's Vireo,22705182,Vireo huttoni,Hutton's Vireo,Native,LC,stable,8/7/2018,2019-1
+bICGUx,Larus glaucoides,Iceland Gull,22729877,Larus glaucoides,Iceland Gull,Native,LC,stable,8/7/2018,2019-1
+bINBUx,Passerina cyanea,Indigo Bunting,22723951,Passerina cyanea,Indigo Bunting,Native,LC,decreasing,8/9/2018,2019-1
+bINDOx,Columbina inca,Inca Dove,22690762,Columbina inca,Inca Dove,Native,LC,increasing,10/1/2016,2019-1
+bISSJx,Aphelocoma insularis,Island Scrub-jay,103727785,Aphelocoma californica,Western Scrub-jay,Native,LC,stable,10/1/2016,2019-1
+bKEWAx,Oporornis formosus,Kentucky Warbler,22721812,Geothlypis formosa,Kentucky Warbler,Native,LC,decreasing,10/1/2016,2019-1
+bKIEIx,Somateria spectabilis,King Eider,22680409,Somateria spectabilis,King Eider,Native,LC,decreasing,8/7/2018,2019-1
+bKILLx,Charadrius vociferus,Killdeer,22693777,Charadrius vociferus,Killdeer,Native,LC,decreasing,10/1/2016,2019-1
+bKIRAx,Rallus elegans,King Rail,62155060,Rallus elegans,King Rail,Native,NT,decreasing,10/1/2016,2019-1
+bKIWAx,Dendroica kirtlandii,Kirtland's Warbler,22721722,Setophaga kirtlandii,Kirtland's Warbler,Native,NT,increasing,8/7/2018,2019-1
+bLAGOx,Carduelis lawrencei,Lawrence's Goldfinch,22720413,Spinus lawrencei,Lawrence's Goldfinch,Native,LC,decreasing,10/1/2016,2019-1
+bLAGUx,Leucophaeus atricilla,Laughing Gull,22694455,Larus atricilla,Laughing Gull,Native,LC,increasing,8/8/2018,2019-1
+bLALOx,Calcarius lapponicus,Lapland Longspur,22721033,Calcarius lapponicus,Lapland Longspur,Native,LC,increasing,10/1/2016,2019-1
+bLARBx,Calamospiza melanocorys,Lark Bunting,22721049,Calamospiza melanocorys,Lark Bunting,Native,LC,decreasing,8/7/2018,2019-1
+bLASPx,Chondestes grammacus,Lark Sparrow,22721191,Chondestes grammacus,Lark Sparrow,Native,LC,decreasing,10/1/2016,2019-1
+bLAZBx,Passerina amoena,Lazuli Bunting,22723948,Passerina amoena,Lazuli Bunting,Native,LC,increasing,10/1/2016,2019-1
+bLBBGx,Larus fuscus,Lesser Black-backed Gull,22694373,Larus fuscus,Lesser Black-backed Gull,Native,LC,increasing,8/8/2018,2019-1
+bLBCUx,Numenius americanus,Long-billed Curlew,22693195,Numenius americanus,Long-billed Curlew,Native,LC,decreasing,10/1/2016,2019-1
+bLBDOx,Limnodromus scolopaceus,Long-billed Dowitcher,22693348,Limnodromus scolopaceus,Long-billed Dowitcher,Native,LC,unknown,10/1/2016,2019-1
+bLBHEx,Egretta caerulea,Little Blue Heron,22696944,Egretta caerulea,Little Blue Heron,Native,LC,decreasing,10/1/2016,2019-1
+bLBTHx,Toxostoma longirostre,Long-billed Thrasher,22711102,Toxostoma longirostre,Long-billed Thrasher,Native,LC,increasing,10/1/2016,2019-1
+bLBWOx,Picoides scalaris,Ladder-backed Woodpecker,22681152,Dryobates scalaris,Ladder-backed Woodpecker,Native,LC,stable,10/1/2016,2019-1
+bLCSPx,Ammodramus leconteii,Le Conte's Sparrow,22721135,Ammospiza leconteii,Le Conte's Sparrow,Native,LC,decreasing,10/1/2016,2019-1
+bLCTHx,Toxostoma lecontei,Le Conte's Thrasher,22711121,Toxostoma lecontei,Le Conte's Thrasher,Native,LC,stable,8/13/2018,2019-1
+bLEBIx,Ixobrychus exilis,Least Bittern,22697314,Ixobrychus exilis,Least Bittern,Native,LC,stable,10/1/2016,2019-1
+bLEFLx,Empidonax minimus,Least Flycatcher,22699854,Empidonax minimus,Least Flycatcher,Native,LC,decreasing,10/1/2016,2019-1
+bLEGOx,Carduelis psaltria,Lesser Goldfinch,22720410,Spinus psaltria,Lesser Goldfinch,Native,LC,decreasing,8/9/2018,2019-1
+bLEGRx,Tachybaptus dominicus,Least Grebe,22696571,Tachybaptus dominicus,Least Grebe,Native,LC,stable,10/1/2016,2019-1
+bLENIx,Chordeiles acutipennis,Lesser Nighthawk,22689711,Chordeiles acutipennis,Lesser Nighthawk,Native,LC,increasing,10/1/2016,2019-1
+bLEOWx,Asio otus,Long-eared Owl,22689507,Asio otus,Northern Long-eared Owl,Native,LC,decreasing,8/9/2018,2019-1
+bLEPCx,Tympanuchus pallidicinctus,Lesser Prairie-chicken,22679519,Tympanuchus pallidicinctus,Lesser Prairie-chicken,Native,VU,decreasing,8/7/2018,2019-1
+bLESAx,Calidris minutilla,Least Sandpiper,22693396,Calidris minutilla,Least Sandpiper,Native,LC,decreasing,10/1/2016,2019-1
+bLESCx,Aythya affinis,Lesser Scaup,22680402,Aythya affinis,Lesser Scaup,Native,LC,decreasing,10/1/2016,2019-1
+bLESPx,Oceanodroma leucorhoa,Leach's Storm-petrel,132438298,Hydrobates leucorhous,Leach's Storm-petrel,Native,VU,decreasing,8/7/2018,2019-1
+bLETEx,Sternula antillarum,Least Tern,22694673,Sternula antillarum,Least Tern,Native,LC,decreasing,8/7/2018,2019-1
+bLEWOx,Melanerpes lewis,Lewis's Woodpecker,22680801,Melanerpes lewis,Lewis's Woodpecker,Native,LC,decreasing,10/1/2016,2019-1
+bLEYEx,Tringa flavipes,Lesser Yellowlegs,22693235,Tringa flavipes,Lesser Yellowlegs,Native,LC,decreasing,10/1/2016,2019-1
+bLIGUx,Hydrocoloeus minutus,Little Gull,22694469,Hydrocoloeus minutus,Little Gull,Native,LC,increasing,8/8/2018,2019-1
+bLIMPx,Aramus guarauna,Limpkin,22692174,Aramus guarauna,Limpkin,Native,LC,stable,10/1/2016,2019-1
+bLISPx,Melospiza lincolnii,Lincoln's Sparrow,22721064,Melospiza lincolnii,Lincoln's Sparrow,Native,LC,stable,10/1/2016,2019-1
+bLOSHx,Lanius ludovicianus,Loggerhead Shrike,22705042,Lanius ludovicianus,Loggerhead Shrike,Native,NT,decreasing,10/1/2017,2019-1
+bLOWAx,Seiurus motacilla,Louisiana Waterthrush,22721803,Parkesia motacilla,Louisiana Waterthrush,Native,LC,increasing,10/1/2016,2019-1
+bLTDUx,Clangula hyemalis,Long-tailed Duck,22680427,Clangula hyemalis,Long-tailed Duck,Native,VU,decreasing,8/7/2018,2019-1
+bLUHUx,Calothorax lucifer,Lucifer Hummingbird,22688185,Calothorax lucifer,Lucifer Hummingbird,Native,LC,stable,10/1/2016,2019-1
+bLUWAx,Vermivora luciae,Lucy's Warbler,22721636,Leiothlypis luciae,Lucy's Warbler,Native,LC,stable,10/1/2016,2019-1
+bMABOx,Sula dactylatra,Masked Booby,22736173,Sula dactylatra,Masked Booby,Native,LC,decreasing,8/10/2018,2019-1
+bMACUx,Coccyzus minor,Mangrove Cuckoo,22684337,Coccyzus minor,Mangrove Cuckoo,Native,LC,stable,10/1/2016,2019-1
+bMADUx,Nomonyx dominicus,Masked Duck,22679789,Nomonyx dominicus,Masked Duck,Native,LC,decreasing,10/1/2016,2019-1
+bMAFRx,Fregata magnificens,Magnificent Frigatebird,22697724,Fregata magnificens,Magnificent Frigatebird,Native,LC,increasing,8/10/2018,2019-1
+bMAGOx,Limosa fedoa,Marbled Godwit,22693162,Limosa fedoa,Marbled Godwit,Native,LC,decreasing,10/1/2016,2019-1
+bMAHUx,Eugenes fulgens,Magnificent Hummingbird,22687746,Eugenes fulgens,Magnificent Hummingbird,Native,LC,increasing,10/1/2016,2019-1
+bMALLx,Anas platyrhynchos,Mallard,22680186,Anas platyrhynchos,Mallard,Native,LC,increasing,10/1/2016,2019-1
+bMAMUx,Brachyramphus marmoratus,Marbled Murrelet,22694870,Brachyramphus marmoratus,Marbled Murrelet,Native,EN,decreasing,8/7/2018,2019-1
+bMASHx,Puffinus puffinus,Manx Shearwater,22698226,Puffinus puffinus,Manx Shearwater,Native,LC,unknown,8/17/2018,2019-1
+bMAWAx,Dendroica magnolia,Magnolia Warbler,22721667,Setophaga magnolia,Magnolia Warbler,Native,LC,increasing,10/1/2016,2019-1
+bMAWRx,Cistothorus palustris,Marsh Wren,22711374,Cistothorus palustris,Marsh Wren,Native,LC,increasing,10/1/2016,2019-1
+bMCLOx,Calcarius mccownii,Mccown's Longspur,22721025,Rhynchophanes mccownii,McCown's Longspur,Native,LC,decreasing,10/1/2016,2019-1
+bMECHx,Poecile sclateri,Mexican Chickadee,22711732,Poecile sclateri,Mexican Chickadee,Native,LC,decreasing,10/1/2016,2019-1
+bMEGUx,Larus canus,Mew Gull,22694308,Larus canus,Mew Gull,Native,LC,unknown,8/8/2018,2019-1
+bMEJAx,Aphelocoma ultramarina,Mexican Jay,22724967,Aphelocoma wollweberi,Mexican Jay,Native,LC,decreasing,10/1/2016,2019-1
+bMERLx,Falco columbarius,Merlin,22696453,Falco columbarius,Merlin,Native,LC,stable,10/1/2016,2019-1
+bMGWAx,Oporornis tolmiei,Macgillivray's Warbler,22721830,Geothlypis tolmiei,MacGillivray's Warbler,Native,LC,decreasing,8/9/2018,2019-1
+bMIKIx,Ictinia mississippiensis,Mississippi Kite,22695066,Ictinia mississippiensis,Mississippi Kite,Native,LC,increasing,10/1/2016,2019-1
+bMOBLx,Sialia currucoides,Mountain Bluebird,22708556,Sialia currucoides,Mountain Bluebird,Native,LC,increasing,10/1/2016,2019-1
+bMOCHx,Poecile gambeli,Mountain Chickadee,22711724,Poecile gambeli,Mountain Chickadee,Native,LC,stable,10/1/2016,2019-1
+bMODOx,Zenaida macroura,Mourning Dove,22690736,Zenaida macroura,Mourning Dove,Native,LC,increasing,10/1/2016,2019-1
+bMODUx,Anas fulvigula,Mottled Duck,22680178,Anas fulvigula,Mottled Duck,Native,LC,decreasing,10/1/2016,2019-1
+bMONQx,Cyrtonyx montezumae,Montezuma Quail,22728212,Cyrtonyx montezumae,Montezuma Quail,Native,LC,stable,10/1/2016,2019-1
+bMOPAx,Myiopsitta monachus,Monk Parakeet,45427277,Myiopsitta monachus,Monk Parakeet,Native,LC,increasing,8/9/2018,2019-1
+bMOPLx,Charadrius montanus,Mountain Plover,22693876,Charadrius montanus,Mountain Plover,Native,NT,decreasing,8/9/2018,2019-1
+bMOUQx,Oreortyx pictus,Mountain Quail,22679591,Oreortyx pictus,Mountain Quail,Native,LC,stable,8/9/2018,2019-1
+bMOWAx,Oporornis philadelphia,Mourning Warbler,22721824,Geothlypis philadelphia,Mourning Warbler,Native,LC,decreasing,10/1/2016,2019-1
+bMUDUx,Cairina moschata,Muscovy Duck,22680061,Cairina moschata,Muscovy Duck,Native,LC,decreasing,8/9/2018,2019-1
+bMUSWx,Cygnus olor,Mute Swan,22679839,Cygnus olor,Mute Swan,Introduced,LC,increasing,10/1/2016,2019-1
+bNAWAx,Vermivora ruficapilla,Nashville Warbler,22721627,Leiothlypis ruficapilla,Nashville Warbler,Native,LC,increasing,10/1/2016,2019-1
+bNECOx,Phalacrocorax brasilianus,Neotropic Cormorant,22696773,Nannopterum brasilianus,Neotropical Cormorant,Native,LC,increasing,8/7/2018,2019-1
+bNOBOx,Colinus virginianus,Northern Bobwhite,22728956,Colinus virginianus,Northern Bobwhite,Native,NT,decreasing,10/1/2016,2019-1
+bNOBTx,Camptostoma imberbe,Northern Beardless-tyrannulet,22699177,Camptostoma imberbe,Northern Beardless Tyrannulet,Native,LC,increasing,10/1/2016,2019-1
+bNOCAx,Cardinalis cardinalis,Northern Cardinal,22723819,Cardinalis cardinalis,Northern Cardinal,Native,LC,stable,8/9/2018,2019-1
+bNOCRx,Corvus caurinus,Northwestern Crow,22705986,Corvus caurinus,Northwestern Crow,Native,LC,increasing,10/1/2016,2019-1
+bNOFLx,Colaptes auratus,Northern Flicker,22726404,Colaptes auratus,Yellow-shafted Flicker,Native,LC,decreasing,10/1/2016,2019-1
+bNOGOx,Accipiter gentilis,Northern Goshawk,22695683,Accipiter gentilis,Northern Goshawk,Native,LC,unknown,10/1/2016,2019-1
+bNOHAx,Circus cyaneus,Northern Harrier,22727740,Circus hudsonius,Northern Harrier,Native,LC,decreasing,10/1/2016,2019-1
+bNOMOx,Mimus polyglottos,Northern Mockingbird,22711026,Mimus polyglottos,Northern Mockingbird,Native,LC,stable,10/1/2016,2019-1
+bNOPAx,Parula americana,Northern Parula,22721639,Setophaga americana,Northern Parula,Native,LC,increasing,8/9/2018,2019-1
+bNOPIx,Anas acuta,Northern Pintail,22680301,Anas acuta,Northern Pintail,Native,LC,decreasing,10/1/2016,2019-1
+bNOPOx,Glaucidium gnoma,Northern Pygmy-owl,61791401,Glaucidium californicum,Northern Pygmy-owl,Native,LC,increasing,10/1/2016,2019-1
+bNOWAx,Seiurus noveboracensis,Northern Waterthrush,22721793,Parkesia noveboracensis,Northern Waterthrush,Native,LC,stable,10/1/2016,2019-1
+bNRWSx,Stelgidopteryx serripennis,Northern Rough-winged Swallow,22712152,Stelgidopteryx serripennis,Northern Rough-winged Swallow,Native,LC,decreasing,10/1/2016,2019-1
+bNSHOx,Anas clypeata,Northern Shoveler,22680247,Spatula clypeata,Northern Shoveler,Native,LC,decreasing,10/1/2016,2019-1
+bNSTSx,Ammodramus nelsoni,Nelson's Sharp-tailed Sparrow,22728393,Ammospiza nelsoni,Nelson's Sparrow,Native,LC,stable,8/9/2018,2019-1
+bNSWOx,Aegolius acadicus,Northern Saw-whet Owl,22689366,Aegolius acadicus,Northern Saw-whet Owl,Native,LC,decreasing,10/1/2016,2019-1
+bNUWOx,Picoides nuttallii,Nuttall's Woodpecker,22681149,Dryobates nuttallii,Nuttall's Woodpecker,Native,LC,increasing,10/1/2016,2019-1
+bOATIx,Baeolophus inornatus,Oak Titmouse,22711978,Baeolophus inornatus,Oak Titmouse,Native,LC,stable,10/1/2016,2019-1
+bOCWAx,Vermivora celata,Orange-crowned Warbler,22721624,Leiothlypis celata,Orange-crowned Warbler,Native,LC,increasing,10/1/2016,2019-1
+bOLSPx,Arremonops rufivirgatus,Olive Sparrow,22721392,Arremonops rufivirgatus,Olive Sparrow,Native,LC,increasing,8/9/2018,2019-1
+bOLWAx,Peucedramus taeniatus,Olive Warbler,22720027,Peucedramus taeniatus,Olive Warbler,Native,LC,decreasing,10/1/2016,2019-1
+bORORx,Icterus spurius,Orchard Oriole,103793298,Icterus spurius,Orchard Oriole,Native,LC,stable,10/1/2016,2019-1
+bOSFLx,Contopus cooperi,Olive-sided Flycatcher,22699787,Contopus cooperi,Olive-sided Flycatcher,Native,NT,decreasing,10/1/2016,2019-1
+bOSPRx,Pandion haliaetus,Osprey,22694938,Pandion haliaetus,Osprey,Native,LC,increasing,10/1/2016,2019-1
+bOVENx,Seiurus aurocapilla,Ovenbird,22721779,Seiurus aurocapilla,Ovenbird,Native,LC,stable,8/9/2018,2019-1
+bPABUx,Passerina ciris,Painted Bunting,22723957,Passerina ciris,Painted Bunting,Native,LC,stable,8/7/2018,2019-1
+bPAGPx,Pluvialis fulva,Pacific Golden-plover,22693735,Pluvialis fulva,Pacific Golden Plover,Native,LC,decreasing,10/1/2016,2019-1
+bPAJAx,Stercorarius parasiticus,Parasitic Jaeger,22694245,Stercorarius parasiticus,Arctic Jaeger,Native,LC,stable,8/7/2018,2019-1
+bPALOx,Gavia pacifica,Pacific Loon,22697839,Gavia pacifica,Pacific Loon,Native,LC,increasing,8/7/2018,2019-1
+bPAREx,Myioborus pictus,Painted Redstart,22721894,Myioborus pictus,Painted Whitestart,Native,LC,increasing,10/1/2016,2019-1
+bPAWAx,Dendroica palmarum,Palm Warbler,22721731,Setophaga palmarum,Palm Warbler,Native,LC,increasing,8/9/2018,2019-1
+bPBGRx,Podilymbus podiceps,Pied-billed Grebe,22696574,Podilymbus podiceps,Pied-billed Grebe,Native,LC,stable,10/1/2016,2019-1
+bPECOx,Phalacrocorax pelagicus,Pelagic Cormorant,22728950,Urile pelagicus,Pelagic Cormorant,Native,LC,decreasing,8/13/2018,2019-1
+bPEFAx,Falco peregrinus,Peregrine Falcon,45354964,Falco peregrinus,Peregrine Falcon,Native,LC,stable,10/1/2016,2019-1
+bPHAIx,Phainopepla nitens,Phainopepla,22708139,Phainopepla nitens,Phainopepla,Native,LC,stable,10/1/2016,2019-1
+bPHVIx,Vireo philadelphicus,Philadelphia Vireo,22705240,Vireo philadelphicus,Philadelphia Vireo,Native,LC,increasing,10/1/2016,2019-1
+bPIGRx,Pinicola enucleator,Pine Grosbeak,22720625,Pinicola enucleator,Pine Grosbeak,Native,LC,decreasing,8/9/2018,2019-1
+bPIGUx,Cepphus columba,Pigeon Guillemot,22694864,Cepphus columba,Pigeon Guillemot,Native,LC,stable,8/7/2018,2019-1
+bPIJAx,Gymnorhinus cyanocephalus,Pinyon Jay,22705608,Gymnorhinus cyanocephalus,Pinyon Jay,Native,VU,decreasing,10/1/2016,2019-1
+bPIPLx,Charadrius melodus,Piping Plover,22693811,Charadrius melodus,Piping Plover,Native,NT,increasing,8/9/2018,2019-1
+bPISIx,Carduelis pinus,Pine Siskin,22720359,Spinus pinus,Pine Siskin,Native,LC,stable,10/1/2016,2019-1
+bPIWAx,Dendroica pinus,Pine Warbler,22721719,Setophaga pinus,Pine Warbler,Native,LC,increasing,10/1/2016,2019-1
+bPIWOx,Dryocopus pileatus,Pileated Woodpecker,22681363,Hylatomus pileatus,Pileated Woodpecker,Native,LC,increasing,10/1/2016,2019-1
+bPLCHx,Ortalis vetula,Plain Chachalaca,22678305,Ortalis vetula,Plain Chachalaca,Native,LC,stable,8/9/2018,2019-1
+bPLVIx,Vireo plumbeus,Plumbeous Vireo,22705231,Vireo plumbeus,Plumbeous Vireo,Native,LC,increasing,8/7/2018,2019-1
+bPRAWx,Dendroica discolor,Prairie Warbler,22721725,Setophaga discolor,Prairie Warbler,Native,LC,decreasing,10/1/2016,2019-1
+bPRFAx,Falco mexicanus,Prairie Falcon,22696504,Falco mexicanus,Prairie Falcon,Native,LC,increasing,10/1/2016,2019-1
+bPROWx,Protonotaria citrea,Prothonotary Warbler,22721765,Protonotaria citrea,Prothonotary Warbler,Native,LC,decreasing,10/1/2016,2019-1
+bPSFLx,Empidonax difficilis,Pacific-slope Flycatcher,22699871,Empidonax difficilis,Pacific-slope Flycatcher,Native,LC,decreasing,10/1/2016,2019-1
+bPUFIx,Carpodacus purpureus,Purple Finch,22720553,Haemorhous purpureus,Purple Finch,Native,LC,decreasing,10/1/2016,2019-1
+bPUGAx,Porphyrio martinica,Purple Gallinule,22692827,Porphyrio martinicus,Purple Gallinule,Native,LC,decreasing,10/1/2016,2019-1
+bPUMAx,Progne subis,Purple Martin,22712098,Progne subis,Purple Martin,Native,LC,stable,10/1/2016,2019-1
+bPUSAx,Calidris maritima,Purple Sandpiper,22693420,Calidris maritima,Purple Sandpiper,Native,LC,decreasing,8/9/2018,2019-1
+bPYNUx,Sitta pygmaea,Pygmy Nuthatch,22711170,Sitta pygmaea,Pygmy Nuthatch,Native,LC,increasing,10/1/2016,2019-1
+bPYRRx,Cardinalis sinuatus,Pyrrhuloxia,22723825,Cardinalis sinuatus,Pyrrhuloxia,Native,LC,decreasing,10/1/2016,2019-1
+bRAZOx,Alca torda,Razorbill,22694852,Alca torda,Razorbill,Native,NT,decreasing,8/7/2018,2019-1
+bRBGRx,Pheucticus ludovicianus,Rose-breasted Grosbeak,22723813,Pheucticus ludovicianus,Rose-breasted Grosbeak,Native,LC,decreasing,8/9/2018,2019-1
+bRBGUx,Larus delawarensis,Ring-billed Gull,22694317,Larus delawarensis,Ring-billed Gull,Native,LC,increasing,8/8/2018,2019-1
+bRBMEx,Mergus serrator,Red-breasted Merganser,22680485,Mergus serrator,Red-breasted Merganser,Native,LC,stable,8/7/2018,2019-1
+bRBNUx,Sitta canadensis,Red-breasted Nuthatch,22711196,Sitta canadensis,Red-breasted Nuthatch,Native,LC,increasing,8/9/2018,2019-1
+bRBPIx,Patagioenas flavirostris,Red-billed Pigeon,22690296,Patagioenas flavirostris,Red-billed Pigeon,Native,LC,decreasing,10/1/2016,2019-1
+bRBSAx,Sphyrapicus ruber,Red-breasted Sapsucker,22680874,Sphyrapicus ruber,Red-breasted Sapsucker,Native,LC,decreasing,8/7/2018,2019-1
+bRBWOx,Melanerpes carolinus,Red-bellied Woodpecker,22680856,Melanerpes carolinus,Red-bellied Woodpecker,Native,LC,increasing,10/1/2016,2019-1
+bRCKIx,Regulus calendula,Ruby-crowned Kinglet,22712567,Regulus calendula,Ruby-crowned Kinglet,Native,LC,increasing,10/1/2016,2019-1
+bRCPAx,Amazona viridigenalis,Red-crowned Parrot,22686259,Amazona viridigenalis,Red-crowned Amazon,Native,EN,decreasing,8/9/2018,2019-1
+bRCSPx,Aimophila ruficeps,Rufous-crowned Sparrow,22721288,Aimophila ruficeps,Rufous-crowned Sparrow,Native,LC,decreasing,8/9/2018,2019-1
+bRCWOx,Picoides borealis,Red-cockaded Woodpecker,22681158,Leuconotopicus borealis,Red-cockaded Woodpecker,Native,NT,decreasing,10/1/2016,2019-1
+bRECRx,Loxia curvirostra,Red Crossbill,22720646,Loxia curvirostra,Red Crossbill,Native,LC,stable,10/1/2016,2019-1
+bREDHx,Aythya americana,Redhead,22680367,Aythya americana,Redhead,Native,LC,increasing,10/1/2016,2019-1
+bREEGx,Egretta rufescens,Reddish Egret,22696916,Egretta rufescens,Reddish Egret,Native,NT,increasing,10/1/2016,2019-1
+bREKNx,Calidris canutus,Red Knot,22693363,Calidris canutus,Red Knot,Native,NT,decreasing,8/10/2018,2019-1
+bREPHx,Phalaropus fulicarius,Red Phalarope,22693494,Phalaropus fulicarius,Red Phalarope,Native,LC,unknown,8/8/2018,2019-1
+bREVIx,Vireo olivaceus,Red-eyed Vireo,22705243,Vireo olivaceus,Red-eyed Vireo,Native,LC,increasing,10/1/2016,2019-1
+bRFWAx,Cardellina rubrifrons,Red-faced Warbler,22721885,Cardellina rubrifrons,Red-faced Warbler,Native,LC,decreasing,10/1/2016,2019-1
+bRHAUx,Cerorhinca monocerata,Rhinoceros Auklet,22694924,Cerorhinca monocerata,Rhinoceros Auklet,Native,LC,decreasing,8/7/2018,2019-1
+bRHWOx,Melanerpes erythrocephalus,Red-headed Woodpecker,22680810,Melanerpes erythrocephalus,Red-headed Woodpecker,Native,LC,decreasing,8/7/2018,2019-1
+bRLHAx,Buteo lagopus,Rough-legged Hawk,22695973,Buteo lagopus,Rough-legged Buzzard,Native,LC,stable,10/1/2016,2019-1
+bRNDUx,Aythya collaris,Ring-necked Duck,22680370,Aythya collaris,Ring-necked Duck,Native,LC,increasing,10/1/2016,2019-1
+bRNEPx,Phasianus colchicus,Ring-necked Pheasant,45100023,Phasianus colchicus,Common Pheasant,Introduced,LC,decreasing,10/1/2016,2019-1
+bRNGRx,Podiceps grisegena,Red-necked Grebe,22696599,Podiceps grisegena,Red-necked Grebe,Introduced,LC,decreasing,8/7/2018,2019-1
+bRNSAx,Sphyrapicus nuchalis,Red-naped Sapsucker,22680871,Sphyrapicus nuchalis,Red-naped Sapsucker,Introduced,LC,decreasing,8/7/2018,2019-1
+bROGOx,Chen rossii,Ross's Goose,22679909,Anser rossii,Ross's Goose,Native,LC,increasing,10/1/2016,2019-1
+bROPIx,Columba livia,Rock Pigeon,22690066,Columba livia,Rock Dove,Introduced,LC,decreasing,10/1/2016,2019-1
+bROSAx,Calidris ptilocnemis,Rock Sandpiper,22693424,Calidris ptilocnemis,Rock Sandpiper,Introduced,LC,decreasing,8/9/2018,2019-1
+bROSPx,Platalea ajaja,Roseate Spoonbill,22697574,Platalea ajaja,Roseate Spoonbill,Native,LC,stable,10/1/2016,2019-1
+bROSTx,Sterna dougallii,Roseate Tern,22694601,Sterna dougallii,Roseate Tern,Native,LC,unknown,8/7/2018,2019-1
+bROWRx,Salpinctes obsoletus,Rock Wren,22711332,Salpinctes obsoletus,Rock Wren,Native,LC,decreasing,10/1/2016,2019-1
+bROYTx,Thalasseus maximus,Royal Tern,22694542,Thalasseus maximus,Royal Tern,Native,LC,stable,8/7/2018,2019-1
+bRSHAx,Buteo lineatus,Red-shouldered Hawk,22695883,Buteo lineatus,Red-shouldered Hawk,Native,LC,increasing,10/1/2016,2019-1
+bRTBEx,Pachyramphus aglaiae,Rose-throated Becard,22700670,Pachyramphus aglaiae,Rose-throated Becard,Native,LC,stable,10/1/2016,2019-1
+bRTHAx,Buteo jamaicensis,Red-tailed Hawk,22695933,Buteo jamaicensis,Red-tailed Hawk,Native,LC,increasing,10/1/2016,2019-1
+bRTHUx,Archilochus colubris,Ruby-throated Hummingbird,22688193,Archilochus colubris,Ruby-throated Hummingbird,Native,LC,increasing,10/1/2016,2019-1
+bRTLOx,Gavia stellata,Red-throated Loon,22697829,Gavia stellata,Red-throated Loon,Native,LC,decreasing,8/7/2018,2019-1
+bRUBLx,Euphagus carolinus,Rusty Blackbird,22724329,Euphagus carolinus,Rusty Blackbird,Native,VU,decreasing,8/7/2018,2019-1
+bRUDUx,Oxyura jamaicensis,Ruddy Duck,22727750,Oxyura jamaicensis,Ruddy Duck,Native,LC,decreasing,8/9/2018,2019-1
+bRUGRx,Bonasa umbellus,Ruffed Grouse,22679500,Bonasa umbellus,Ruffed Grouse,Native,LC,decreasing,8/9/2018,2019-1
+bRUHUx,Selasphorus rufus,Rufous Hummingbird,22688296,Selasphorus rufus,Rufous Hummingbird,Native,NT,decreasing,8/7/2018,2019-1
+bRUTUx,Arenaria interpres,Ruddy Turnstone,22693336,Arenaria interpres,Ruddy Turnstone,Native,LC,decreasing,10/1/2016,2019-1
+bRWBLx,Agelaius phoeniceus,Red-winged Blackbird,22724191,Agelaius phoeniceus,Red-winged Blackbird,Native,LC,decreasing,8/9/2018,2019-1
+bRWSPx,Aimophila carpalis,Rufous-winged Sparrow,22721280,Peucaea carpalis,Rufous-winged Sparrow,Native,LC,stable,10/1/2016,2019-1
+bSACRx,Grus canadensis,Sandhill Crane,22692078,Antigone canadensis,Sandhill Crane,Native,LC,increasing,10/1/2016,2019-1
+bSAGSx,Amphispiza belli,Sage Sparrow,103780166,Artemisiospiza nevadensis,Sagebrush Sparrow,Native,LC,decreasing,10/1/2016,2019-1
+bSANDx,Calidris alba,Sanderling,22693369,Calidris alba,Sanderling,Native,LC,unknown,10/1/2016,2019-1
+bSAPHx,Sayornis saya,Say's Phoebe,22699889,Sayornis saya,Say's Phoebe,Native,LC,increasing,10/1/2016,2019-1
+bSATEx,Thalasseus sandvicensis,Sandwich Tern,22694591,Thalasseus sandvicensis,Sandwich Tern,Native,LC,stable,8/7/2018,2019-1
+bSATHx,Oreoscoptes montanus,Sage Thrasher,22711096,Oreoscoptes montanus,Sage Thrasher,Native,LC,decreasing,10/1/2016,2019-1
+bSAVSx,Passerculus sandwichensis,Savannah Sparrow,103780243,Passerculus sandwichensis,Savannah Sparrow,Native,LC,stable,10/1/2016,2019-1
+bSBAOx,Icterus pustulatus,Streak-backed Oriole,22724111,Icterus pustulatus,Streak-backed Oriole,Native,LC,stable,10/1/2016,2019-1
+bSBDOx,Limnodromus griseus,Short-billed Dowitcher,22693344,Limnodromus griseus,Short-billed Dowitcher,Native,LC,decreasing,10/1/2016,2019-1
+bSBFLx,Myiodynastes luteiventris,Sulphur-bellied Flycatcher,22700580,Myiodynastes luteiventris,Sulphur-bellied Flycatcher,Native,LC,stable,10/1/2016,2019-1
+bSBORx,Icterus pectoralis,Spot-breasted Oriole,22724105,Icterus pectoralis,Spot-breasted Oriole,Native,LC,decreasing,8/9/2018,2019-1
+bSCORx,Icterus parisorum,Scott's Oriole,22724160,Icterus parisorum,Scott's Oriole,Native,LC,increasing,10/1/2016,2019-1
+bSCQUx,Callipepla squamata,Scaled Quail,22679594,Callipepla squamata,Scaled Quail,Native,LC,decreasing,8/9/2018,2019-1
+bSCTAx,Piranga olivacea,Scarlet Tanager,22722466,Piranga olivacea,Scarlet Tanager,Native,LC,stable,10/1/2016,2019-1
+bSEOWx,Asio flammeus,Short-eared Owl,22689531,Asio flammeus,Short-eared Owl,Native,LC,decreasing,10/1/2016,2019-1
+bSEPLx,Charadrius semipalmatus,Semipalmated Plover,22693764,Charadrius semipalmatus,Semipalmated Plover,Native,LC,stable,10/1/2016,2019-1
+bSESPx,Ammodramus maritimus,Seaside Sparrow,22721123,Ammospiza maritima,Seaside Sparrow,Native,LC,decreasing,8/9/2018,2019-1
+bSEWRx,Cistothorus platensis,Sedge Wren,103887005,Cistothorus stellaris,Sedge Wren,Native,LC,increasing,10/1/2016,2019-1
+bSHCOx,Molothrus bonariensis,Shiny Cowbird,22724345,Molothrus bonariensis,Shiny Cowbird,Native,LC,increasing,8/7/2018,2019-1
+bSMLOx,Calcarius pictus,Smith's Longspur,22721037,Calcarius pictus,Smith's Longspur,Native,LC,stable,10/1/2016,2019-1
+bSNBUx,Plectrophenax nivalis,Snow Bunting,22721043,Plectrophenax nivalis,Snow Bunting,Native,LC,decreasing,10/1/2016,2019-1
+bSNEGx,Egretta thula,Snowy Egret,22696974,Egretta thula,Snowy Egret,Native,LC,increasing,10/1/2016,2019-1
+bSNGOx,Chen caerulescens,Snow Goose,22679896,Anser caerulescens,Snow Goose,Native,LC,increasing,8/9/2018,2019-1
+bSNKIx,Rostrhamus sociabilis,Snail Kite,22695048,Rostrhamus sociabilis,Snail Kite,Native,LC,increasing,10/1/2016,2019-1
+bSNOWx,Bubo scandiacus,Snowy Owl,22689055,Bubo scandiacus,Snowy Owl,Native,VU,decreasing,10/1/2017,2019-1
+bSNPLx,Charadrius nivosus,Snowy Plover,22725033,Charadrius nivosus,Snowy Plover,Native,NT,decreasing,10/1/2016,2019-1
+bSOGRx,Dendragapus fuliginosus,Sooty Grouse,22734695,Dendragapus fuliginosus,Sooty Grouse,Native,LC,decreasing,10/1/2016,2019-1
+bSORAx,Porzana carolina,Sora,22692684,Porzana carolina,Sora,Native,LC,increasing,10/1/2016,2019-1
+bSOSAx,Tringa solitaria,Solitary Sandpiper,22693239,Tringa solitaria,Solitary Sandpiper,Native,LC,decreasing,8/7/2018,2019-1
+bSOSPx,Melospiza melodia,Song Sparrow,22721058,Melospiza melodia,Song Sparrow,Native,LC,stable,10/1/2016,2019-1
+bSOTEx,Onychoprion fuscatus,Sooty Tern,22694740,Onychoprion fuscatus,Sooty Tern,Native,LC,unknown,8/9/2018,2019-1
+bSPDOx,Streptopelia chinensis,Spotted Dove,60482887,Spilopelia chinensis,Eastern Spotted Dove,Introduced,LC,increasing,10/1/2016,2019-1
+bSPGRx,Falcipennis canadensis,Spruce Grouse,61204079,Falcipennis canadensis,Spruce Grouse,Native,LC,stable,10/1/2016,2019-1
+bSPOWx,Strix occidentalis,Spotted Owl,22689089,Strix occidentalis,Spotted Owl,Native,NT,decreasing,10/1/2017,2019-1
+bSPPIx,Anthus spragueii,Sprague's Pipit,22718591,Anthus spragueii,Sprague's Pipit,Native,VU,decreasing,8/9/2018,2019-1
+bSPSAx,Actitis macularius,Spotted Sandpiper,22693277,Actitis macularius,Spotted Sandpiper,Native,LC,decreasing,10/1/2016,2019-1
+bSPTOx,Pipilo maculatus,Spotted Towhee,103772680,Pipilo maculatus,Spotted Towhee,Native,LC,stable,10/1/2016,2019-1
+bSSHAx,Accipiter striatus,Sharp-shinned Hawk,22734130,Accipiter striatus,Sharp-shinned Hawk,Native,LC,increasing,10/1/2016,2019-1
+bSSTSx,Ammodramus caudacutus,Saltmarsh Sharp-tailed Sparrow,22721129,Ammospiza caudacuta,Saltmarsh Sparrow,Native,EN,decreasing,8/7/2018,2019-1
+bSTFLx,Tyrannus forficatus,Scissor-tailed Flycatcher,22700500,Tyrannus forficatus,Scissor-tailed Flycatcher,Native,LC,decreasing,10/1/2016,2019-1
+bSTGRx,Tympanuchus phasianellus,Sharp-tailed Grouse,22679511,Tympanuchus phasianellus,Sharp-tailed Grouse,Native,LC,decreasing,10/1/2016,2019-1
+bSTHAx,Buteo brachyurus,Short-tailed Hawk,22695897,Buteo brachyurus,Short-tailed Hawk,Native,LC,increasing,10/1/2016,2019-1
+bSTJAx,Cyanocitta stelleri,Steller's Jay,22705614,Cyanocitta stelleri,Steller's Jay,Native,LC,increasing,10/1/2016,2019-1
+bSTKIx,Elanoides forficatus,Swallow-tailed Kite,22695017,Elanoides forficatus,Swallow-tailed Kite,Native,LC,increasing,10/1/2016,2019-1
+bSTSAx,Calidris himantopus,Stilt Sandpiper,22693437,Calidris himantopus,Stilt Sandpiper,Native,LC,increasing,10/1/2016,2019-1
+bSURFx,Aphriza virgata,Surfbird,22693356,Calidris virgata,Surfbird,Native,LC,decreasing,10/1/2016,2019-1
+bSUSCx,Melanitta perspicillata,Surf Scoter,22680441,Melanitta perspicillata,Surf Scoter,Native,LC,decreasing,8/7/2018,2019-1
+bSUTAx,Piranga rubra,Summer Tanager,22722456,Piranga rubra,Summer Tanager,Native,LC,stable,10/1/2016,2019-1
+bSWHAx,Buteo swainsoni,Swainson's Hawk,22695903,Buteo swainsoni,Swainson's Hawk,Native,LC,stable,10/1/2016,2019-1
+bSWSPx,Melospiza georgiana,Swamp Sparrow,22721070,Melospiza georgiana,Swamp Sparrow,Native,LC,increasing,8/9/2018,2019-1
+bSWTHx,Catharus ustulatus,Swainson's Thrush,103881981,Catharus swainsoni,Swainson's Thrush,Native,LC,unknown,8/9/2018,2019-1
+bSWWAx,Limnothlypis swainsonii,Swainson's Warbler,22721776,Limnothlypis swainsonii,Swainson's Warbler,Native,LC,increasing,8/9/2018,2019-1
+bTACRx,Corvus imparatus,Tamaulipas Crow,22705996,Corvus imparatus,Tamaulipas Crow,Native,LC,stable,10/1/2016,2019-1
+bTBKIx,Tyrannus crassirostris,Thick-billed Kingbird,22700494,Tyrannus crassirostris,Thick-billed Kingbird,Native,LC,increasing,10/1/2016,2019-1
+bTBMUx,Uria lomvia,Thick-billed Murre,22694847,Uria lomvia,Thick-billed Murre,Native,LC,increasing,8/7/2018,2019-1
+bTEWAx,Vermivora peregrina,Tennessee Warbler,22721621,Leiothlypis peregrina,Tennessee Warbler,Native,LC,stable,10/1/2016,2019-1
+bTHGUx,Larus thayeri,Thayer's Gull,22729877,Larus glaucoides,Iceland Gull,Native,LC,stable,8/7/2018,2019-1
+bTOSOx,Myadestes townsendi,Townsend's Solitaire,22708587,Myadestes townsendi,Townsend's Solitaire,Native,LC,increasing,8/9/2018,2019-1
+bTOWAx,Dendroica townsendi,Townsend's Warbler,22721683,Setophaga townsendi,Townsend's Warbler,Native,LC,stable,10/1/2016,2019-1
+bTRBLx,Agelaius tricolor,Tricolored Blackbird,22724196,Agelaius tricolor,Tricolored Blackbird,Native,EN,decreasing,8/9/2018,2019-1
+bTRESx,Tachycineta bicolor,Tree Swallow,22712057,Tachycineta bicolor,Tree Swallow,Native,LC,stable,10/1/2016,2019-1
+bTRHEx,Egretta tricolor,Tricolored Heron,22696931,Egretta tricolor,Tricolored Heron,Native,LC,stable,10/1/2016,2019-1
+bTRKIx,Tyrannus melancholicus,Tropical Kingbird,22700485,Tyrannus melancholicus,Tropical Kingbird,Native,LC,increasing,10/1/2016,2019-1
+bTRPAx,Parula pitiayumi,Tropical Parula,103798640,Setophaga pitiayumi,Tropical Parula,Native,LC,increasing,8/9/2018,2019-1
+bTRUSx,Cygnus buccinator,Trumpeter Swan,22679859,Cygnus buccinator,Trumpeter Swan,Native,LC,increasing,10/1/2016,2019-1
+bTUPUx,Fratercula cirrhata,Tufted Puffin,22694934,Fratercula cirrhata,Tufted Puffin,Native,LC,decreasing,8/7/2018,2019-1
+bTUTIx,Baeolophus bicolor,Tufted Titmouse,22711983,Baeolophus bicolor,Tufted Titmouse,Native,LC,increasing,10/1/2016,2019-1
+bTUVUx,Cathartes aura,Turkey Vulture,22697627,Cathartes aura,Turkey Vulture,Native,LC,stable,8/9/2018,2019-1
+bUPSAx,Bartramia longicauda,Upland Sandpiper,22693203,Bartramia longicauda,Upland Sandpiper,Native,LC,increasing,10/1/2016,2019-1
+bVABUx,Passerina versicolor,Varied Bunting,22723954,Passerina versicolor,Varied Bunting,Native,LC,stable,8/9/2018,2019-1
+bVASWx,Chaetura vauxi,Vaux's Swift,22733935,Chaetura vauxi,Vaux's Swift,Native,LC,increasing,10/1/2016,2019-1
+bVATHx,Ixoreus naevius,Varied Thrush,22708385,Ixoreus naevius,Varied Thrush,Native,LC,decreasing,10/1/2016,2019-1
+bVCHUx,Amazilia violiceps,Violet-crowned Hummingbird,22687624,Amazilia violiceps,Violet-crowned Hummingbird,Native,LC,unknown,10/1/2016,2019-1
+bVEERx,Catharus fuscescens,Veery,22708655,Catharus fuscescens,Veery,Native,LC,decreasing,8/9/2018,2019-1
+bVEFLx,Pyrocephalus rubinus,Vermilion Flycatcher,103682912,Pyrocephalus rubinus,Common Vermilion Flycatcher,Native,LC,decreasing,10/1/2016,2019-1
+bVERDx,Auriparus flaviceps,Verdin,22711568,Auriparus flaviceps,Verdin,Native,LC,stable,10/1/2016,2019-1
+bVESPx,Pooecetes gramineus,Vesper Sparrow,22721188,Pooecetes gramineus,Vesper Sparrow,Native,LC,decreasing,10/1/2016,2019-1
+bVGSWx,Tachycineta thalassina,Violet-green Swallow,22712077,Tachycineta thalassina,Violet-green Swallow,Native,LC,increasing,10/1/2016,2019-1
+bVIRAx,Rallus limicola,Virginia Rail,22692479,Rallus limicola,Virginia Rail,Native,LC,increasing,10/1/2016,2019-1
+bVIWAx,Vermivora virginiae,Virginia's Warbler,22721630,Leiothlypis virginiae,Virginia's Warbler,Native,LC,decreasing,10/1/2016,2019-1
+bWATAx,Tringa incana,Wandering Tattler,22693305,Tringa incana,Wandering Tattler,Native,LC,stable,10/1/2016,2019-1
+bWAVIx,Vireo gilvus,Warbling Vireo,22735122,Vireo gilvus,Warbling Vireo,Native,LC,increasing,10/1/2016,2019-1
+bWBNUx,Sitta carolinensis,White-breasted Nuthatch,22711202,Sitta carolinensis,White-breasted Nuthatch,Native,LC,increasing,10/1/2016,2019-1
+bWCPIx,Patagioenas leucocephala,White-crowned Pigeon,22690229,Patagioenas leucocephala,White-crowned Pigeon,Native,NT,decreasing,10/1/2016,2019-1
+bWCSEx,Sporophila torqueola,White-collared Seedeater,22731776,Sporophila morelleti,White-collared Seedeater,Native,LC,increasing,10/1/2016,2019-1
+bWEBLx,Sialia mexicana,Western Bluebird,22708553,Sialia mexicana,Western Bluebird,Native,LC,increasing,10/1/2016,2019-1
+bWEGRx,Aechmophorus occidentalis,Western Grebe,22696631,Aechmophorus occidentalis,Western Grebe,Native,LC,decreasing,10/1/2016,2019-1
+bWEGUx,Larus occidentalis,Western Gull,22694337,Larus occidentalis,Western Gull,Native,LC,increasing,8/8/2018,2019-1
+bWEKIx,Tyrannus verticalis,Western Kingbird,22700497,Tyrannus verticalis,Western Kingbird,Native,LC,increasing,10/1/2016,2019-1
+bWEMEx,Sturnella neglecta,Western Meadowlark,22724256,Sturnella neglecta,Western Meadowlark,Native,LC,decreasing,8/9/2018,2019-1
+bWESAx,Calidris mauri,Western Sandpiper,22693376,Calidris mauri,Western Sandpiper,Native,LC,decreasing,10/1/2016,2019-1
+bWESJx,Aphelocoma californica,Western Scrub-jay,103727785,Aphelocoma californica,Western Scrub-jay,Native,LC,stable,10/1/2016,2019-1
+bWESOx,Megascops kennicottii,Western Screech-owl,22688747,Megascops kennicottii,Western Screech-owl,Native,LC,decreasing,10/1/2016,2019-1
+bWETAx,Piranga ludoviciana,Western Tanager,22722471,Piranga ludoviciana,Western Tanager,Native,LC,increasing,10/1/2016,2019-1
+bWEVIx,Vireo griseus,White-eyed Vireo,22705188,Vireo griseus,White-eyed Vireo,Native,LC,increasing,10/1/2016,2019-1
+bWEWAx,Helmitheros vermivorum,Worm-eating Warbler,22721768,Helmitheros vermivorum,Worm-eating Warbler,Native,LC,increasing,10/1/2016,2019-1
+bWEWPx,Contopus sordidulus,Western Wood-pewee,22699811,Contopus sordidulus,Western Wood-pewee,Native,LC,decreasing,10/1/2016,2019-1
+bWFIBx,Plegadis chihi,White-faced Ibis,22697426,Plegadis chihi,White-faced Ibis,Native,LC,increasing,10/1/2016,2019-1
+bWHCRx,Grus americana,Whooping Crane,22692156,Grus americana,Whooping Crane,Native,EN,increasing,10/1/2016,2019-1
+bWHIBx,Eudocimus albus,White Ibis,22697411,Eudocimus albus,White Ibis,Native,LC,stable,10/1/2016,2019-1
+bWHIMx,Numenius phaeopus,Whimbrel,22693178,Numenius phaeopus,Whimbrel,Native,LC,decreasing,10/1/2016,2019-1
+bWHSOx,Megascops trichopsis,Whiskered Screech-owl,22688766,Megascops trichopsis,Whiskered Screech-owl,Native,LC,increasing,10/1/2016,2019-1
+bWHSWx,Cygnus columbianus,Tundra Swan,22679862,Cygnus columbianus,Tundra Swan,Native,LC,unknown,10/1/2016,2019-1
+bWHWOx,Picoides albolarvatus,White-headed Woodpecker,22681169,Leuconotopicus albolarvatus,White-headed Woodpecker,Native,LC,stable,10/1/2016,2019-1
+bWIFLx,Empidonax traillii,Willow Flycatcher,22699848,Empidonax traillii,Willow Flycatcher,Native,LC,decreasing,10/1/2016,2019-1
+bWILLx,Tringa semipalmata,Willet,22693319,Tringa semipalmata,Willet,Native,LC,stable,10/1/2016,2019-1
+bWIPHx,Phalaropus tricolor,Wilson's Phalarope,22693472,Steganopus tricolor,Wilson's Phalarope,Native,LC,increasing,10/1/2016,2019-1
+bWIPLx,Charadrius wilsonia,Wilson's Plover,22693774,Charadrius wilsonia,Wilson's Plover,Native,LC,decreasing,10/1/2016,2019-1
+bWISAx,Sphyrapicus thyroideus,Williamson's Sapsucker,22680877,Sphyrapicus thyroideus,Williamson's Sapsucker,Native,LC,stable,10/1/2016,2019-1
+bWISNx,Gallinago delicata,Wilson's Snipe,22729867,Gallinago delicata,Wilson's Snipe,Native,LC,decreasing,10/1/2016,2019-1
+bWITUx,Meleagris gallopavo,Wild Turkey,22679525,Meleagris gallopavo,Wild Turkey,Native,LC,increasing,8/9/2018,2019-1
+bWIWAx,Wilsonia pusilla,Wilson's Warbler,22721879,Cardellina pusilla,Wilson's Warbler,Native,LC,decreasing,10/1/2016,2019-1
+bWIWRx,Troglodytes troglodytes,Winter Wren,103885731,Troglodytes hiemalis,Winter Wren,Native,LC,unknown,10/1/2016,2019-1
+bWODUx,Aix sponsa,Wood Duck,22680104,Aix sponsa,Wood Duck,Native,LC,increasing,10/1/2016,2019-1
+bWOSTx,Mycteria americana,Wood Stork,22697648,Mycteria americana,Wood Stork,Native,LC,decreasing,10/1/2016,2019-1
+bWOTHx,Hylocichla mustelina,Wood Thrush,22708670,Hylocichla mustelina,Wood Thrush,Native,NT,decreasing,10/1/2016,2019-1
+bWPWIx,Caprimulgus vociferus,Whip-poor-will,22736393,Antrostomus vociferus,Eastern Whip-poor-will,Native,NT,decreasing,8/9/2018,2019-1
+bWRENx,Chamaea fasciata,Wrentit,22716861,Chamaea fasciata,Wrentit,Native,LC,stable,10/1/2016,2019-1
+bWTDOx,Leptotila verreauxi,White-tipped Dove,22690854,Leptotila verreauxi,White-tipped Dove,Native,LC,increasing,10/1/2016,2019-1
+bWTHAx,Buteo albicaudatus,White-tailed Hawk,22695906,Geranoaetus albicaudatus,White-tailed Hawk,Native,LC,increasing,10/1/2016,2019-1
+bWTKIx,Elanus leucurus,White-tailed Kite,22695036,Elanus leucurus,White-tailed Kite,Native,LC,increasing,10/1/2016,2019-1
+bWTPTx,Lagopus leucura,White-tailed Ptarmigan,22679473,Lagopus leucura,White-tailed Ptarmigan,Native,LC,decreasing,8/9/2018,2019-1
+bWTSPx,Zonotrichia albicollis,White-throated Sparrow,22721085,Zonotrichia albicollis,White-throated Sparrow,Native,LC,stable,8/9/2018,2019-1
+bWTSWx,Aeronautes saxatalis,White-throated Swift,22686733,Aeronautes saxatalis,White-throated Swift,Native,LC,decreasing,10/1/2016,2019-1
+bWWCRx,Loxia leucoptera,White-winged Crossbill,22728944,Loxia leucoptera,Two-barred Crossbill,Native,LC,decreasing,10/1/2016,2019-1
+bWWDOx,Zenaida asiatica,White-winged Dove,22733956,Zenaida asiatica,White-winged Dove,Native,LC,increasing,10/1/2016,2019-1
+bWWSCx,Melanitta fusca,White-winged Scoter,22734194,Melanitta deglandi,White-winged Scoter,Native,LC,decreasing,8/7/2018,2019-1
+bXAMUx,Synthliboramphus hypoleucus,Xantus's Murrelet,62101215,Synthliboramphus hypoleucus,Guadalupe Murrelet,Native,EN,decreasing,,
+bYBCHx,Icteria virens,Yellow-breasted Chat,22722057,Icteria virens,Yellow-breasted Chat,Native,LC,stable,8/9/2018,2019-1
+bYBCUx,Coccyzus americanus,Yellow-billed Cuckoo,22684331,Coccyzus americanus,Yellow-billed Cuckoo,Native,LC,decreasing,10/1/2016,2019-1
+bYBFLx,Empidonax flaviventris,Yellow-bellied Flycatcher,22699839,Empidonax flaviventris,Yellow-bellied Flycatcher,Native,LC,increasing,10/1/2016,2019-1
+bYBMAx,Pica nuttalli,Yellow-billed Magpie,22705874,Pica nutalli,Yellow-billed Magpie,Native,VU,stable,8/14/2018,2019-1
+bYBSAx,Sphyrapicus varius,Yellow-bellied Sapsucker,22680868,Sphyrapicus varius,Yellow-bellied Sapsucker,Native,LC,decreasing,10/1/2016,2019-1
+bYCNHx,Nyctanassa violacea,Yellow-crowned Night-heron,22697203,Nyctanassa violacea,Yellow-crowned Night-heron,Native,LC,stable,8/9/2018,2019-1
+bYEJUx,Junco phaeonotus,Yellow-eyed Junco,103778667,Junco phaeonotus,Yellow-eyed Junco,Native,LC,decreasing,10/1/2016,2019-1
+bYERAx,Coturnicops noveboracensis,Yellow Rail,22692275,Coturnicops noveboracensis,Yellow Rail,Native,LC,stable,10/1/2016,2019-1
+bYFGUx,Larus livens,Yellow-footed Gull,22694340,Larus livens,Yellow-footed Gull,Native,LC,stable,8/16/2018,2019-1
+bYGVIx,Vireo flavoviridis,Yellow-green Vireo,22705248,Vireo flavoviridis,Yellow-green Vireo,Native,LC,stable,8/7/2018,2019-1
+bYHBLx,Xanthocephalus xanthocephalus,Yellow-headed Blackbird,22724169,Xanthocephalus xanthocephalus,Yellow-headed Blackbird,Native,LC,increasing,10/1/2016,2019-1
+bYRWAx,Dendroica coronata,Yellow-rumped Warbler,103798425,Setophaga coronata,Myrtle Warbler,Native,LC,unknown,10/1/2016,2019-1
+bYTVIx,Vireo flavifrons,Yellow-throated Vireo,22705237,Vireo flavifrons,Yellow-throated Vireo,Native,LC,increasing,10/1/2016,2019-1
+bYTWAx,Dendroica dominica,Yellow-throated Warbler,22724793,Setophaga dominica,Yellow-throated Warbler,Native,LC,increasing,8/9/2018,2019-1
+bYWARx,Dendroica petechia,Yellow Warbler,22721657,Setophaga petechia,American Yellow Warbler,Native,LC,stable,10/1/2016,2019-1
+bZTHAx,Buteo albonotatus,Zone-tailed Hawk,22695926,Buteo albonotatus,Zone-tailed Hawk,Native,LC,increasing,10/1/2016,2019-1
+mABBEx,Ursus americanus,American Black Bear,41687,Ursus americanus,American Black Bear,Native,LC,increasing,3/18/2016,2019-1
+mABEBx,Idionycteris phyllotis,Allen's Big-eared Bat,10790,Idionycteris phyllotis,Allen's Big-eared Bat,Native,LC,stable,8/26/2016,2019-1
+mABSQx,Sciurus aberti,Abert's Squirrel,42461,Sciurus aberti,Abert's Squirrel,Native,LC,stable,1/11/2017,2019-1
+mACRAx,Sigmodon arizonae,Arizona Cotton Rat,20211,Sigmodon arizonae,Arizona Cotton Rat,Native,LC,unknown,2/1/2016,2019-1
+mACSHx,Sorex arcticus,Arctic Shrew,41385,Sorex arcticus,Arctic Shrew,Native,LC,stable,8/18/2016,2019-1
+mAGSQx,Sciurus arizonensis,Arizona Gray Squirrel,20005,Sciurus arizonensis,Arizona Gray Squirrel,Native,DD,unknown,6/30/2008,2019-1
+mAHNSx,Conepatus leuconotus,American Hog-nosed Skunk,41632,Conepatus leuconotus,American Hog-nosed Skunk,Native,LC,decreasing,3/1/2015,2019-1
+mAKRAx,Dipodomys agilis,Agile Kangaroo Rat,6684,Dipodomys agilis,Agile Kangaroo Rat,Native,LC,decreasing,1/25/2016,2019-1
+mALCHx,Tamias alpinus,Alpine Chipmunk,42568,Neotamias alpinus,Alpine Chipmunk,Native,LC,stable,1/21/2016,2019-1
+mALWOx,Neotoma magister,Allegheny Woodrat,14581,Neotoma magister,Allegheny Woodrat,Native,NT,decreasing,6/30/2008,2019-1
+mAMBAx,Taxidea taxus,American Badger,41663,Taxidea taxus,American Badger,Native,LC,decreasing,3/1/2015,2019-1
+mAMBEx,Castor canadensis,American Beaver,4003,Castor canadensis,American Beaver,Native,LC,stable,8/7/2016,2019-1
+mAMMAx,Martes americana,American Marten,41648,Martes americana,American Marten,Native,LC,decreasing,3/1/2015,2019-1
+mAMMIx,Neovison vison,American Mink,41661,Neovison vison,American Mink,Native,LC,stable,3/1/2015,2019-1
+mANJAx,Lepus alleni,Antelope Jackrabbit,41272,Lepus alleni,Antelope Jackrabbit,Native,LC,stable,6/30/2008,2019-1
+mAPCOx,Sylvilagus obscurus,Appalachian Cottontail,41301,Sylvilagus obscurus,Appalachian Cottontail,Native,NT,decreasing,6/30/2008,2019-1
+mAPGOx,Geomys attwateri,Attwater's Pocket Gopher,136380,Geomys attwateri,Attwater's Pocket Gopher,Native,LC,stable,1/26/2016,2019-1
+mAPMOx,Perognathus amplus,Arizona Pocket Mouse,16633,Perognathus amplus,Arizona Pocket Mouse,Native,LC,stable,1/31/2016,2019-1
+mAPSHx,Sorex hoyi,American Pygmy Shrew,41400,Sorex hoyi,American Pygmy Shrew,Native,LC,stable,8/18/2016,2019-1
+mARMYx,Myotis occultus,Arizona Myotis,136650,Myotis occultus,Arizona Myotis,Native,LC,stable,3/5/2018,2019-1
+mARSHx,Sorex arizonae,Arizona Shrew,20396,Sorex arizonae,Arizona Shrew,Native,LC,unknown,9/1/2016,2019-1
+mAWSHx,Sorex palustris,American Water Shrew,41410,Sorex palustris,American Water Shrew,Native,LC,stable,8/18/2016,2019-1
+mAZWOx,Neotoma devia,Arizona Woodrat,14586,Neotoma devia,Arizona Woodrat,Native,LC,stable,1/26/2016,2019-1
+mBASHx,Ammotragus lervia,Barbary Sheep,1151,Ammotragus lervia,Aoudad,Introduced,VU,decreasing,6/30/2008,2019-1
+mBBBAx,Eptesicus fuscus,Big Brown Bat,7928,Eptesicus fuscus,Big Brown Bat,Native,LC,increasing,8/8/2016,2019-1
+mBCPMx,Chaetodipus rudinoris,Baja California Pocket Mouse,136837,Chaetodipus rudinoris,Baja Pocket Mouse,Native,LC,stable,1/27/2016,2019-1
+mBDSHx,Sorex bairdi,Baird's Shrew,41387,Sorex bairdi,Baird's Shrew,Native,LC,unknown,1/26/2016,2019-1
+mBEDEx,Peromyscus melanotis,Black-eared Deermouse,16678,Peromyscus melanotis,Black-eared Mouse,Native,LC,unknown,9/3/2016,2019-1
+mBEWOx,Neotoma macrotis,Big-eared Woodrat,14597,Neotoma macrotis,Big-eared Woodrat,Native,LC,unknown,1/28/2016,2019-1
+mBFFEx,Mustela nigripes,Black-footed Ferret,14020,Mustela nigripes,Black-footed Ferret,Reintroduced,EN,decreasing,5/19/2015,2019-1
+mBFMOx,Scapanus latimanus,Broad-footed Mole,41473,Scapanus latimanus,Broad-footed Mole,Native,LC,stable,8/20/2016,2019-1
+mBFTBx,Nyctinomops macrotis,Big Free-tailed Bat,14996,Nyctinomops macrotis,Big Free-tailed Bat,Native,LC,unknown,7/20/2015,2019-1
+mBGSQx,Urocitellus beldingi,Belding's Ground Squirrel,42464,Urocitellus beldingi,Belding's Ground Squirrel,Native,LC,stable,8/18/2016,2019-1
+mBISHx,Ovis canadensis,Bighorn Sheep,15735,Ovis canadensis,Bighorn Sheep,Native,LC,stable,6/30/2008,2019-1
+mBISOx,Bison bison,American Bison,2815,Bison bison,American Bison,Native,NT,stable,9/1/2016,2019-1
+mBOBCx,Lynx rufus,Bobcat,12521,Lynx rufus,Bobcat,Native,LC,stable,2/11/2016,2019-1
+mBOGOx,Thomomys bottae,Botta's Pocket Gopher,21799,Thomomys bottae,Botta's Pocket Gopher,Native,LC,stable,9/3/2016,2019-1
+mBPGOx,Geomys breviceps,Baird's Pocket Gopher,136840,Geomys breviceps,Baird's Pocket Gopher,Native,LC,stable,8/8/2016,2019-1
+mBPMOx,Chaetodipus baileyi,Bailey's Pocket Mouse,4328,Chaetodipus baileyi,Bailey's Pocket Mouse,Native,LC,stable,9/1/2016,2019-1
+mBRBEx,Ursus arctos,Brown Bear,41688,Ursus arctos,Brown Bear,Native,LC,stable,2/2/2016,2019-1
+mBRDEx,Peromyscus boylii,Brush Deermouse,16652,Peromyscus boylii,Brush Mouse,Native,LC,stable,9/3/2016,2019-1
+mBRRAx,Sylvilagus bachmani,Brush Rabbit,41302,Sylvilagus bachmani,Brush Rabbit,Native,LC,stable,6/30/2008,2019-1
+mBTJAx,Lepus californicus,Black-tailed Jackrabbit,41276,Lepus californicus,Black-tailed Jackrabbit,Native,LC,stable,6/30/2008,2019-1
+mBTKRx,Dipodomys spectabilis,Banner-tailed Kangaroo Rat,6693,Dipodomys spectabilis,Banner-tailed Kangaroo Rat,Native,NT,decreasing,6/30/2008,2019-1
+mBTWOx,Neotoma cinerea,Bushy-tailed Woodrat,42673,Neotoma cinerea,Bushy-tailed Woodrat,Native,LC,stable,8/9/2016,2019-1
+mCADEx,Peromyscus californicus,California Deermouse,16654,Peromyscus californicus,California Mouse,Native,LC,stable,1/28/2016,2019-1
+mCALYx,Lynx canadensis,Canadian Lynx,12518,Lynx canadensis,Canada Lynx,Native,LC,stable,5/12/2014,2019-1
+mCAMYx,Myotis californicus,Californian Myotis,14150,Myotis californicus,Californian Myotis,Native,LC,unknown,8/29/2016,2019-1
+mCARIx,Rangifer tarandus,Caribou,29742,Rangifer tarandus,Reindeer,Native,VU,decreasing,12/24/2015,2019-1
+mCASEx,Zalophus californianus,California Sealion,41666,Zalophus californianus,Californian Sea Lion,Native,LC,increasing,12/12/2014,2019-1
+mCASQx,Otospermophilus beecheyi,California Ground Squirrel,20481,Otospermophilus beecheyi,California Ground Squirrel,Native,LC,stable,7/11/2016,2019-1
+mCAVOx,Microtus californicus,California Vole,13427,Microtus californicus,Amargosa Vole,Native,LC,stable,1/31/2016,2019-1
+mCCDEx,Peromyscus eremicus,Cactus Deermouse,16659,Peromyscus eremicus,Cactus Mouse,Native,LC,stable,9/3/2016,2019-1
+mCFCHx,Tamias obscurus,California Chipmunk,21359,Neotamias obscurus,California Chipmunk,Native,LC,stable,1/25/2016,2019-1
+mCGGSx,Callospermophilus saturatus,Cascade Golden-mantled Ground Squirrel,42562,Callospermophilus saturatus,Cascade Golden-mantled Ground Squirrel,Native,LC,stable,1/26/2016,2019-1
+mCGMOx,Onychomys arenicola,Chihuahuan Grasshopper Mouse,15337,Onychomys arenicola,Chihuahuan Grasshopper Mouse,Native,LC,stable,9/3/2016,2019-1
+mCGSHx,Notiosorex cockrumi,Cockrum's Gray Shrew,136666,Notiosorex cockrumi,Cockrum's Grey Shrew,Native,LC,stable,1/10/2017,2019-1
+mCHITx,Axis axis,Chital,41783,Axis axis,Chital,Introduced,LC,unknown,11/14/2014,2019-1
+mCHPMx,Chaetodipus eremicus,Chihuahuan Pocket Mouse,136606,Chaetodipus eremicus,Chihuahuan Desert Pocket Mouse,Native,LC,unknown,9/1/2016,2019-1
+mCISHx,Sorex cinereus,Cinereus Shrew,41392,Sorex cinereus,Cinereus Shrew,Native,LC,stable,8/18/2016,2019-1
+mCKRAx,Dipodomys californicus,California Kangaroo Rat,42599,Dipodomys californicus,California Kangaroo Rat,Native,LC,stable,8/7/2016,2019-1
+mCLCHx,Tamias dorsalis,Cliff Chipmunk,42571,Neotamias dorsalis,Gray-collared Chipmunk,Native,LC,stable,9/1/2016,2019-1
+mCLEBx,Macrotus californicus,Californian Leaf-nosed Bat,12652,Macrotus californicus,Californian Leaf-nosed Bat,Native,LC,stable,2/27/2018,2019-1
+mCMMUx,Ondatra zibethicus,Common Muskrat,15324,Ondatra zibethicus,Muskrat,Native,LC,stable,8/20/2016,2019-1
+mCNDEx,Peromyscus crinitus,Canyon Deermouse,16656,Peromyscus crinitus,Canyon Mouse,Native,LC,stable,9/3/2016,2019-1
+mCOCHx,Tamias quadrivittatus,Colorado Chipmunk,42576,Neotamias quadrivittatus,Colorado Chipmunk,Native,LC,stable,8/9/2016,2019-1
+mCODEx,Peromyscus gossypinus,Cotton Deermouse,42653,Peromyscus gossypinus,Key Largo Cotton Mouse,Native,LC,stable,8/19/2016,2019-1
+mCOORx,Oryzomys couesi,Coues' Oryzomys,15592,Oryzomys couesi,Coues's Rice Rat,Native,LC,unknown,9/1/2016,2019-1
+mCOPEx,Pecari tajacu,Collared Peccary,41777,Pecari tajacu,Collared Peccary,Native,LC,stable,6/24/2011,2019-1
+mCOSQx,Urocitellus columbianus,Columbian Ground Squirrel,42466,Urocitellus columbianus,Columbian Ground Squirrel,Native,LC,stable,8/18/2016,2019-1
+mCOUGx,Puma concolor,Cougar,18868,Puma concolor,Puma,Native,LC,decreasing,4/17/2014,2019-1
+mCOYOx,Canis latrans,Coyote,3745,Canis latrans,Coyote,Native,LC,increasing,1/10/2018,2019-1
+mCOYPx,Myocastor coypus,Coypu,14085,Myocastor coypus,Coypu,Introduced,LC,decreasing,8/4/2016,2019-1
+mCPGOx,Thomomys bulbivorus,Camas Pocket Gopher,42594,Thomomys bulbivorus,Camas Pocket Gopher,Native,LC,stable,3/18/2016,2019-1
+mCPMOx,Chaetodipus californicus,California Pocket Mouse,4329,Chaetodipus californicus,California Pocket Mouse,Native,LC,stable,9/2/2016,2019-1
+mCRGSx,Notiosorex crawfordi,Crawford's Gray Shrew,41456,Notiosorex crawfordi,Desert Shrew,Native,LC,stable,9/8/2016,2019-1
+mCRVOx,Microtus oregoni,Creeping Vole,42632,Microtus oregoni,Creeping Vole,Native,LC,stable,8/8/2016,2019-1
+mCSMOx,Scapanus orarius,Coast Mole,41474,Scapanus orarius,Coast Mole,Native,LC,stable,8/18/2016,2019-1
+mCTKRx,Dipodomys microps,Chisel-toothed Kangaroo Rat,42603,Dipodomys microps,Houserock Chisel-toothed Kangaroo Rat,Native,LC,stable,2/1/2016,2019-1
+mCTPGx,Geomys texensis,Central Texas Pocket Gopher,9062,Geomys texensis,Central Texas Pocket Gopher,Native,LC,unknown,3/18/2016,2019-1
+mCVMYx,Myotis velifer,Cave Myotis,14208,Myotis velifer,Cave Myotis,Native,LC,stable,6/30/2008,2019-1
+mDECOx,Sylvilagus audubonii,Desert Cottontail,41297,Sylvilagus audubonii,Desert Cottontail,Native,LC,stable,6/30/2008,2019-1
+mDEWOx,Neotoma lepida,Desert Woodrat,116988741,Neotoma lepida,Desert Woodrat,Native,LC,stable,8/23/2017,2019-1
+mDFWOx,Neotoma fuscipes,Dusky-footed Woodrat,14587,Neotoma fuscipes,Dusky-footed Woodrat,Native,LC,stable,1/28/2016,2019-1
+mDKMOx,Microdipodops megacephalus,Dark Kangaroo Mouse,42606,Microdipodops megacephalus,Owyhee River Kangaroo Mouse,Native,LC,decreasing,7/11/2016,2019-1
+mDKRAx,Dipodomys deserti,Desert Kangaroo Rat,6686,Dipodomys deserti,Desert Kangaroo Rat,Native,LC,stable,1/28/2016,2019-1
+mDOSQx,Tamiasciurus douglasii,Douglas's Squirrel,42586,Tamiasciurus douglasii,Douglas's Squirrel,Native,LC,stable,8/18/2016,2019-1
+mDPGOx,Geomys arenarius,Desert Pocket Gopher,9054,Geomys arenarius,Desert Pocket Gopher,Native,NT,unknown,6/30/2008,2019-1
+mDPMOx,Chaetodipus penicillatus,Desert Pocket Mouse,4336,Chaetodipus penicillatus,Desert Pocket Mouse,Native,LC,stable,9/1/2016,2019-1
+mDUSHx,Sorex monticolus,Dusky Shrew,41405,Sorex monticolus,Montane Shrew,Native,LC,stable,9/1/2016,2019-1
+mDWSHx,Sorex nanus,Dwarf Shrew,41406,Sorex nanus,Dwarf Shrew,Native,LC,unknown,8/18/2016,2019-1
+mDZRAx,Dipodomys simulans,Dulzura Kangaroo Rat,136630,Dipodomys simulans,Dulzura Kangaroo Rat,Native,LC,unknown,9/3/2016,2019-1
+mEACOx,Sylvilagus floridanus,Eastern Cottontail,41299,Sylvilagus floridanus,Eastern Cottontail,Native,LC,increasing,6/30/2008,2019-1
+mEAMOx,Scalopus aquaticus,Eastern Mole,41471,Scalopus aquaticus,Eastern Mole,Native,LC,stable,8/18/2016,2019-1
+mEAPIx,Pipistrellus subflavus,Eastern Pipistrelle,17366,Perimyotis subflavus,Eastern Pipistrelle,Native,VU,decreasing,2/16/2018,2019-1
+mEAWOx,Neotoma floridana,Eastern Woodrat,42650,Neotoma floridana,Eastern Woodrat,Native,LC,decreasing,8/9/2016,2019-1
+mEBSQx,Sciurus carolinensis,Eastern Gray Squirrel,42462,Sciurus carolinensis,Eastern Gray Squirrel,Native,LC,increasing,2/2/2016,2019-1
+mEFSQx,Sciurus niger,Eastern Fox Squirrel,20016,Sciurus niger,Delmarva Fox Squirrel,Native,LC,stable,8/5/2016,2019-1
+mEHMOx,Reithrodontomys humulis,Eastern Harvest Mouse,42678,Reithrodontomys humulis,Eastern Harvest Mouse,Native,LC,stable,8/18/2016,2019-1
+mEHVOx,Phenacomys ungava,Eastern Heather Vole,42637,Phenacomys ungava,Eastern Heather Vole,Native,LC,stable,8/20/2016,2019-1
+mELK1x,Cervus elaphus,Elk,56003281,Alces alces,Moose,Native,LC,increasing,9/27/2015,2019-1
+mERBAx,Lasiurus borealis,Eastern Red Bat,11347,Lasiurus borealis,Eastern Red Bat,Native,LC,stable,7/20/2015,2019-1
+mERMIx,Mustela erminea,Ermine,29674,Mustela erminea,Stoat,Native,LC,stable,5/2/2015,2019-1
+mESFMx,Myotis leibii,Eastern Small-footed Myotis,14172,Myotis leibii,Eastern Small-footed Myotis,Native,EN,decreasing,2/12/2018,2019-1
+mESSKx,Spilogale putorius,Eastern Spotted Skunk,41636,Spilogale putorius,Eastern Spotted Skunk,Native,VU,decreasing,10/6/2015,2019-1
+mESTSx,Blarina hylophaga,Elliot's Short-tailed Shrew,41453,Blarina hylophaga,Elliot's Short-tailed Shrew,Native,LC,stable,9/1/2016,2019-1
+mEVBAx,Nycticeius humeralis,Evening Bat,14944,Nycticeius humeralis,Evening Bat,Native,LC,stable,6/30/2008,2019-1
+mFADEx,Dama dama,Fallow Deer,42188,Dama dama,Persian Fallow Deer,Introduced,LC,unknown,6/30/2008,2019-1
+mFBBAx,Eumops floridanus,Florida Bonneted Bat,136433,Eumops floridanus,Florida Bonneted Bat,Native,VU,decreasing,10/16/2015,2019-1
+mFGSQx,Poliocitellus franklinii,Franklin's Ground Squirrel,41787,Poliocitellus franklinii,Franklin's Ground Squirrel,Native,LC,decreasing,2/2/2016,2019-1
+mFHMOx,Reithrodontomys fulvescens,Fulvous Harvest Mouse,19407,Reithrodontomys fulvescens,Fulvous Harvest Mouse,Native,LC,stable,8/18/2016,2019-1
+mFISHx,Martes pennanti,Fisher,41651,Martes pennanti,Fisher,Native,LC,unknown,3/3/2015,2019-1
+mFLDEx,Podomys floridanus,Florida Deermouse,17830,Podomys floridanus,Florida Deermouse,Native,VU,decreasing,6/30/2008,2019-1
+mFOSHx,Sorex sonomae,Fog Shrew,41418,Sorex sonomae,Fog Shrew,Native,LC,stable,1/12/2017,2019-1
+mFRMYx,Myotis thysanodes,Fringed Myotis,14206,Myotis thysanodes,Fringed Myotis,Native,LC,stable,8/29/2016,2019-1
+mGBBAx,Eumops perotis,Greater Bonneted Bat,8247,Eumops perotis,Western Mastiff Bat,Native,LC,decreasing,7/20/2015,2019-1
+mGBPMx,Perognathus parvus,Great Basin Pocket Mouse,42610,Perognathus parvus,Great Basin Pocket Mouse,Native,LC,stable,8/18/2016,2019-1
+mGCCHx,Tamias cinereicollis,Gray-collared Chipmunk,42570,Neotamias cinereicollis,Gray-collared Chipmunk,Native,LC,stable,5/18/2016,2019-1
+mGCKRx,Dipodomys compactus,Gulf Coast Kangaroo Rat,6685,Dipodomys compactus,Gulf Coast Kangaroo Rat,Native,LC,stable,8/7/2016,2019-1
+mGFCHx,Tamias canipes,Gray-footed Chipmunk,21364,Neotamias canipes,Gray-footed Chipmunk,Native,LC,stable,6/1/2016,2019-1
+mGFSEx,Arctocephalus townsendi,Guadalupe Fur Seal,2061,Arctocephalus townsendi,Guadalupe Fur Seal,Native,LC,increasing,10/10/2014,2019-1
+mGKRAx,Dipodomys ingens,Giant Kangaroo Rat,6678,Dipodomys ingens,Giant Kangaroo Rat,Native,EN,decreasing,,
+mGMGSx,Callospermophilus lateralis,Golden-mantled Ground Squirrel,42468,Callospermophilus lateralis,Green River Basin Golden-mantled Ground Squirrel,Native,LC,stable,8/7/2016,2019-1
+mGOMOx,Ochrotomys nuttalli,Golden Mouse,42674,Ochrotomys nuttalli,Golden Mouse,Native,LC,stable,8/9/2016,2019-1
+mGPDOx,Cynomys gunnisoni,Gunnison's Prairie Dog,42453,Cynomys gunnisoni,Gunnison's Prairie Dog,Native,LC,decreasing,9/8/2016,2019-1
+mGRFOx,Urocyon cinereoargenteus,Gray Fox,22780,Urocyon cinereoargenteus,Grey Fox,Native,LC,stable,3/1/2016,2019-1
+mGRMYx,Myotis grisescens,Gray Myotis,14132,Myotis grisescens,Grey Bat,Native,VU,increasing,2/24/2017,2019-1
+mGRWOx,Canis lupus,Gray Wolf,3746,Canis lupus,Grey Wolf,Native,LC,stable,8/30/2018,2019-1
+mGTVOx,Microtus canicaudus,Gray-tailed Vole,42625,Microtus canicaudus,Gray-tailed Vole,Native,LC,stable,5/31/2016,2019-1
+mHASEx,Phoca vitulina,Harbor Seal,17013,Phoca vitulina,Harbor Seal,Native,LC,unknown,1/4/2016,2019-1
+mHASQx,Ammospermophilus harrisii,Harris' Antelope Squirrel,42399,Ammospermophilus harrisii,Harris's Antelope Squirrel,Native,LC,unknown,9/1/2016,2019-1
+mHCRAx,Sigmodon hispidus,Hispid Cotton Rat,20213,Sigmodon hispidus,Hispid Cotton Rat,Native,LC,increasing,8/18/2016,2019-1
+mHKRAx,Dipodomys heermanni,Heermann's Kangaroo Rat,42600,Dipodomys heermanni,Heermann's Kangaroo Rat,Native,LC,unknown,1/26/2016,2019-1
+mHOBAx,Lasiurus cinereus,Hoary Bat,11345,Lasiurus cinereus,Hoary Bat,Native,LC,unknown,7/20/2015,2019-1
+mHOCHx,Tamias rufus,Hopi Chipmunk,42578,Neotamias rufus,Hopi Chipmunk,Native,LC,stable,8/9/2016,2019-1
+mHOMAx,Marmota caligata,Hoary Marmot,42456,Marmota caligata,Hoary Marmot,Native,LC,stable,8/21/2016,2019-1
+mHOMOx,Mus musculus,House Mouse,13972,Mus musculus,House Mouse,Introduced,LC,stable,9/11/2016,2019-1
+mHOSKx,Mephitis macroura,Hooded Skunk,41634,Mephitis macroura,Hooded Skunk,Native,LC,increasing,3/1/2015,2019-1
+mHPMOx,Chaetodipus hispidus,Hispid Pocket Mouse,4333,Chaetodipus hispidus,Hispid Pocket Mouse,Native,LC,stable,9/1/2016,2019-1
+mHTMOx,Parascalops breweri,Hairy-tailed Mole,41469,Parascalops breweri,Hairy-tailed Mole,Native,LC,stable,8/9/2016,2019-1
+mIGSQx,Urocitellus brunneus,Idaho Ground Squirrel,20497,Urocitellus brunneus,Norhern Idaho Ground Squirrel,Native,CR,unknown,6/30/2000,2019-1
+mINMYx,Myotis sodalis,Indiana Myotis,14136,Myotis sodalis,Indiana Bat,Native,NT,stable,1/7/2016,2019-1
+mINSHx,Sorex tenellus,Inyo Shrew,41419,Sorex tenellus,Inyo Shrew,Native,LC,stable,1/28/2016,2019-1
+mIPGOx,Thomomys idahoensis,Idaho Pocket Gopher,21809,Thomomys idahoensis,Idaho Pocket Gopher,Native,LC,unknown,1/12/2017,2019-1
+mISFOx,Urocyon littoralis,Island Fox,22781,Urocyon littoralis,Island Fox,Native,NT,increasing,7/23/2013,2019-1
+mJAGDx,Puma yagouarondi,Jaguarundi,9948,Herpailurus yagouaroundi,Jaguarundi,Native,LC,decreasing,5/9/2014,2019-1
+mJAGUx,Panthera onca,Jaguar,15953,Panthera onca,Jaguar,Native,NT,decreasing,8/5/2016,2019-1
+mKEMYx,Myotis keenii,Keen's Myotis,14171,Myotis keenii,Keen's Myotis,Native,LC,stable,9/30/2016,2019-1
+mKIFOx,Vulpes macrotis,Kit Fox,41587,Vulpes macrotis,Kit Fox,Native,LC,decreasing,7/22/2014,2019-1
+mKJPGx,Geomys knoxjonesi,Knox Jones's Pocket Gopher,136258,Geomys knoxjonesi,Knox Jones's Pocket Gopher,Native,LC,unknown,1/21/2016,2019-1
+mLBMYx,Myotis lucifugus,Little Brown Myotis,14176,Myotis lucifugus,Little Brown Bat,Native,EN,decreasing,2/9/2018,2019-1
+mLECHx,Tamias minimus,Least Chipmunk,42572,Neotamias minimus,Least Chipmunk,Native,LC,stable,8/9/2016,2019-1
+mLEMYx,Myotis evotis,Long-eared Myotis,14157,Myotis evotis,Long-eared Myotis,Native,LC,stable,8/29/2016,2019-1
+mLEWEx,Mustela nivalis,Least Weasel,70207409,Mustela nivalis,Least Weasel,Native,LC,stable,5/2/2015,2019-1
+mLLMYx,Myotis volans,Long-legged Myotis,14210,Myotis volans,Long-legged Myotis,Native,LC,stable,6/30/2008,2019-1
+mLOCHx,Tamias speciosus,Lodgepole Chipmunk,42582,Neotamias speciosus,Lodgepole Chipmunk,Native,LC,stable,9/1/2016,2019-1
+mLOECx,Tamias quadrimaculatus,Long-eared Chipmunk,42575,Neotamias quadrimaculatus,Long-eared Chipmunk,Native,LC,stable,6/1/2016,2019-1
+mLPMOx,Perognathus longimembris,Little Pocket Mouse,16636,Perognathus longimembris,Los Angeles Little Pocket Mouse,Native,LC,stable,8/9/2016,2019-1
+mLTPMx,Chaetodipus formosus,Long-tailed Pocket Mouse,4331,Chaetodipus formosus,Long-tailed Pocket Mouse,Native,LC,stable,2/1/2016,2019-1
+mLTSHx,Sorex dispar,Long-tailed Shrew,41394,Sorex dispar,Long-tailed Shrew,Native,LC,unknown,9/7/2016,2019-1
+mLTVOx,Microtus longicaudus,Long-tailed Vole,42627,Microtus longicaudus,San Bernardino Long-tailed Vole,Native,LC,stable,8/8/2016,2019-1
+mLTWEx,Mustela frenata,Long-tailed Weasel,41654,Mustela frenata,Long-tailed Weasel,Native,LC,stable,3/1/2015,2019-1
+mMAORx,Oryzomys palustris,Marsh Oryzomys,42675,Oryzomys palustris,Marsh Rice Rat,Native,LC,stable,8/9/2016,2019-1
+mMARAx,Sylvilagus palustris,Marsh Rabbit,41303,Sylvilagus palustris,Marsh Rabbit,Native,LC,unknown,6/30/2008,2019-1
+mMEDEx,Peromyscus merriami,Merriam's Deermouse,16680,Peromyscus merriami,Mesquite Mouse,Native,LC,unknown,9/3/2016,2019-1
+mMESHx,Sorex merriami,Merriam's Shrew,41403,Sorex merriami,Merriam's Shrew,Native,LC,unknown,8/18/2016,2019-1
+mMESQx,Ictidomys mexicanus,Mexican Ground Squirrel,20487,Ictidomys mexicanus,Mexican Ground Squirrel,Native,LC,stable,9/1/2016,2019-1
+mMEVOx,Microtus pennsylvanicus,Meadow Vole,13452,Microtus pennsylvanicus,Chihuahua Vole,Native,LC,stable,8/8/2016,2019-1
+mMEWOx,Neotoma mexicana,Mexican Woodrat,14590,Neotoma mexicana,Mexican Woodrat,Native,LC,stable,8/3/2016,2019-1
+mMFSQx,Sciurus nayaritensis,Mexican Fox Squirrel,20015,Sciurus nayaritensis,Mexican Fox Squirrel,Native,LC,unknown,8/18/2016,2019-1
+mMFTBx,Tadarida brasiliensis,Mexican Free-tailed Bat,21314,Tadarida brasiliensis,Brazilian Free-tailed Bat,Native,LC,stable,7/20/2015,2019-1
+mMGSQx,Urocitellus canus,Merriam's Ground Squirrel,42465,Urocitellus canus,Merriam's Ground Squirrel,Native,LC,unknown,10/11/2016,2019-1
+mMGVOx,Microtus mogollonensis,Mogollon Vole,13443,Microtus mexicanus,Mexican Vole,Native,LC,unknown,8/18/2016,2019-1
+mMJMOx,Zapus hudsonius,Meadow Jumping Mouse,42613,Zapus hudsonius,Meadow Jumping Mouse,Native,LC,stable,8/18/2016,2019-1
+mMKRAx,Dipodomys merriami,Merriam's Kangaroo Rat,92465716,Dipodomys merriami,Merriam's Kangaroo Rat,Native,LC,stable,7/11/2016,2019-1
+mMLNBx,Leptonycteris nivalis,Mexican Long-nosed Bat,11697,Leptonycteris nivalis,Greater Long-nosed Bat,Native,EN,decreasing,2/21/2015,2019-1
+mMLSHx,Sorex lyelli,Mt. Lyell Shrew,41402,Sorex lyelli,Mount Lyell Shrew,Native,LC,stable,1/12/2017,2019-1
+mMLTBx,Choeronycteris mexicana,Mexican Long-tongued Bat,4776,Choeronycteris mexicana,Mexican Long-tongued Bat,Native,NT,unknown,1/20/2018,2019-1
+mMMCHx,Tamias merriami,Merriam's Chipmunk,21358,Neotamias merriami,Merriam's Chipmunk,Native,LC,stable,1/26/2016,2019-1
+mMOCOx,Sylvilagus nuttallii,Mountain Cottontail,41300,Sylvilagus nuttallii,Mountain Cottontail,Native,LC,unknown,6/30/2008,2019-1
+mMOGOx,Oreamnos americanus,Mountain Goat,42680,Oreamnos americanus,Mountain Goat,Native,LC,stable,6/30/2008,2019-1
+mMOOSx,Alces americanus,Moose,56003281,Alces alces,Moose,Native,LC,increasing,9/27/2015,2019-1
+mMOSQx,Xerospermophilus mohavensis,Mohave Ground Squirrel,20474,Xerospermophilus mohavensis,Mohave Ground Squirrel,Native,NT,decreasing,7/11/2016,2019-1
+mMOVOx,Microtus montanus,Montane Vole,42630,Microtus montanus,Pahranagat Valley Montane Vole,Native,LC,stable,2/2/2016,2019-1
+mMPGOx,Thomomys monticola,Mountain Pocket Gopher,42596,Thomomys monticola,Mountain Pocket Gopher,Native,LC,stable,1/26/2016,2019-1
+mMPMOx,Perognathus merriami,Merriam's Pocket Mouse,16637,Perognathus merriami,Great Basin Pocket Mouse,Native,LC,stable,9/3/2016,2019-1
+mMRSHx,Sorex bendirii,Marsh Shrew,41389,Sorex bendirii,Marsh Shrew,Native,LC,unknown,8/18/2016,2019-1
+mMSPMx,Liomys irroratus,Mexican Spiny Pocket Mouse,12074,Heteromys irroratus,Mexican Spiny Pocket Mouse,Native,LC,stable,9/1/2016,2019-1
+mMUDEx,Odocoileus hemionus,Mule Deer,42393,Odocoileus hemionus,Mule Deer,Native,LC,stable,12/16/2015,2019-1
+mNADEx,Peromyscus maniculatus,North American Deermouse,16672,Peromyscus maniculatus,North American Deermouse,Native,LC,stable,2/2/2016,2019-1
+mNALSx,Cryptotis parva,North American Least Shrew,41377,Cryptotis parva,North American Least Shrew,Native,LC,stable,9/7/2016,2019-1
+mNAPOx,Erethizon dorsata,North American Porcupine,8004,Erethizon dorsatum,North American Porcupine,Native,LC,stable,6/10/2016,2019-1
+mNAROx,Lontra canadensis,North American River Otter,12302,Lontra canadensis,North American River Otter,Native,LC,stable,6/1/2014,2019-1
+mNASQx,Ammospermophilus nelsoni,Nelson's Antelope Squirrel,1149,Ammospermophilus nelsoni,Nelson's Antelope Squirrel,Native,EN,decreasing,,
+mNAWVx,Microtus richardsoni,North American Water Vole,42634,Microtus richardsoni,Water Vole,Native,LC,stable,8/8/2016,2019-1
+mNBARx,Dasypus novemcinctus,Nine-banded Armadillo,6290,Dasypus novemcinctus,Nine-banded Armadillo,Native,LC,stable,10/2/2013,2019-1
+mNBDEx,Peromyscus fraterculus,Northern Baja Deermouse,136412,Peromyscus fraterculus,Northern Baja Deermouse,Native,LC,unknown,9/3/2016,2019-1
+mNBLEx,Synaptomys borealis,Northern Bog Lemming,42638,Synaptomys borealis,Okanagan Bog Lemming,Native,LC,unknown,9/19/2016,2019-1
+mNESEx,Mirounga angustirostris,Northern Elephant Seal,13581,Mirounga angustirostris,Northern Elephant Seal,Native,LC,increasing,12/8/2014,2019-1
+mNFKRx,Dipodomys venustus,Narrow-faced Kangaroo Rat,42605,Dipodomys venustus,Narrow-faced Kangaroo Rat,Native,LC,decreasing,5/27/2016,2019-1
+mNFSEx,Callorhinus ursinus,Northern Fur Seal,3590,Callorhinus ursinus,Northern Fur Seal,Native,VU,decreasing,3/26/2015,2019-1
+mNFSQx,Glaucomys sabrinus,Northern Flying Squirrel,39553,Glaucomys sabrinus,Carolina Flying Squirrel,Native,LC,stable,8/19/2016,2019-1
+mNGCOx,Sylvilagus transitionalis,New England Cottontail,21212,Sylvilagus transitionalis,New England Cottontail,Native,VU,decreasing,6/30/2008,2019-1
+mNGMOx,Onychomys leucogaster,Northern Grasshopper Mouse,15338,Onychomys leucogaster,Northern Grasshopper Mouse,Native,LC,stable,8/11/2016,2019-1
+mNMSHx,Sorex neomexicanus,New Mexico Shrew,136608,Sorex neomexicanus,New Mexico Shrew,Native,DD,unknown,6/30/2008,2019-1
+mNODEx,Peromyscus keeni,Northwestern Deermouse,135164,Peromyscus keeni,Northwestern Deermouse,Native,LC,stable,8/18/2016,2019-1
+mNOMYx,Myotis septentrionalis,Northern Myotis,14201,Myotis septentrionalis,Northern Myotis,Native,NT,decreasing,2/14/2018,2019-1
+mNOSSx,Blarina brevicauda,Northern Short-tailed Shrew,41451,Blarina brevicauda,Northern Short-tailed Shrew,Native,LC,stable,8/19/2016,2019-1
+mNPGOx,Thomomys talpoides,Northern Pocket Gopher,42597,Thomomys talpoides,Vancouver Pocket Gopher,Native,LC,stable,8/18/2016,2019-1
+mNPMOx,Chaetodipus nelsoni,Nelson's Pocket Mouse,4335,Chaetodipus nelsoni,Nelson's Pocket Mouse,Native,LC,stable,9/1/2016,2019-1
+mNPYMx,Baiomys taylori,Northern Pygmy Mouse,2466,Baiomys taylori,Northern Pygmy Mouse,Native,LC,stable,9/1/2016,2019-1
+mNRDEx,Peromyscus nasutus,Northern Rock Deermouse,16682,Peromyscus nasutus,Northern Rock Mouse,Native,LC,unknown,9/3/2016,2019-1
+mNYBAx,Lasiurus intermedius,Northern Yellow Bat,11352,Lasiurus intermedius,Northern Yellow Bat,Native,LC,unknown,8/8/2016,2019-1
+mOBPMx,Perognathus fasciatus,Olive-backed Pocket Mouse,42608,Perognathus fasciatus,Olive-backed Pocket Mouse,Native,LC,stable,8/9/2016,2019-1
+mOCELx,Leopardus pardalis,Ocelot,11509,Leopardus pardalis,Ocelot,Native,LC,decreasing,5/10/2014,2019-1
+mOKRAx,Dipodomys ordii,Ord's Kangaroo Rat,6691,Dipodomys ordii,Ord's Kangaroo Rat,Native,LC,stable,8/7/2016,2019-1
+mOLDEx,Peromyscus polionotus,Oldfield Deermouse,42654,Peromyscus polionotus,Choctawhatchee Beach Mouse,Native,LC,unknown,8/18/2016,2019-1
+mOLMAx,Marmota olympus,Olympic Marmot,42459,Marmota olympus,Olympic Marmot,Native,LC,decreasing,6/1/2016,2019-1
+mORSHx,Sorex ornatus,Ornate Shrew,41408,Sorex ornatus,Ornate Shrew,Native,LC,stable,9/1/2016,2019-1
+mPABAx,Antrozous pallidus,Pallid Bat,1790,Antrozous pallidus,Pallid Bat,Native,LC,stable,8/26/2016,2019-1
+mPACHx,Tamias palmeri,Palmer's Chipmunk,21355,Neotamias palmeri,Palmer's Chipmunk,Native,EN,decreasing,7/11/2016,2019-1
+mPASHx,Sorex pacificus,Pacific Shrew,41409,Sorex pacificus,Pacific Shrew,Native,LC,stable,5/18/2016,2019-1
+mPBSHx,Sorex preblei,Preble's Shrew,41413,Sorex preblei,Preble's Shrew,Native,LC,unknown,8/18/2016,2019-1
+mPFTBx,Nyctinomops femorosaccus,Pocketed Free-tailed Bat,14994,Nyctinomops femorosaccus,Pocketed Free-tailed Bat,Native,LC,stable,7/20/2015,2019-1
+mPGFBx,Mormoops megalophylla,Peters's Ghost-faced Bat,13878,Mormoops megalophylla,Peters's Ghost-faced Bat,Native,LC,decreasing,6/30/2008,2019-1
+mPGSQx,Urocitellus mollis,Piute Ground Squirrel,42469,Urocitellus mollis,Piute Ground Squirrel,Native,LC,unknown,8/18/2016,2019-1
+mPHMOx,Reithrodontomys montanus,Plains Harvest Mouse,19413,Reithrodontomys montanus,Plains Harvest Mouse,Native,LC,stable,9/3/2016,2019-1
+mPIDEx,Peromyscus truei,Pinon Deermouse,16694,Peromyscus truei,Pinyon Mouse,Native,LC,stable,8/18/2016,2019-1
+mPIKAx,Ochotona princeps,American Pika,41267,Ochotona princeps,American Pika,Native,LC,decreasing,7/8/2016,2019-1
+mPJMOx,Zapus trinotatus,Pacific Jumping Mouse,23192,Zapus trinotatus,Point Reyes Jumping Mouse,Native,LC,unknown,8/18/2016,2019-1
+mPKMOx,Microdipodops pallidus,Pale Kangaroo Mouse,42607,Microdipodops pallidus,Soda Spring Valley Kangaroo Mouse,Native,LC,decreasing,7/11/2016,2019-1
+mPKRAx,Dipodomys panamintinus,Panamint Kangaroo Rat,42604,Dipodomys panamintinus,Panamint Kangaroo Rat,Native,LC,stable,8/7/2016,2019-1
+mPMBAx,Molossus molossus,Pallas's Mastiff Bat,13648,Molossus molossus,Pallas's Mastiff Bat,Native,LC,unknown,7/20/2015,2019-1
+mPNCHx,Tamias panamintinus,Panamint Chipmunk,42574,Neotamias panamintinus,Panamint Chipmunk,Native,LC,stable,1/25/2016,2019-1
+mPPGOx,Geomys bursarius,Plains Pocket Gopher,42588,Geomys bursarius,Plains Pocket Gopher,Native,LC,stable,8/8/2016,2019-1
+mPPMOx,Perognathus flavescens,Plains Pocket Mouse,16634,Perognathus flavescens,Plains Pocket Mouse,Native,LC,stable,9/3/2016,2019-1
+mPRONx,Antilocapra americana,Pronghorn,1677,Antilocapra americana,Pronghorn,Native,LC,stable,6/14/2016,2019-1
+mPRSHx,Sorex haydeni,Prairie Shrew,41399,Sorex haydeni,Prairie Shrew,Native,LC,stable,8/18/2016,2019-1
+mPRVOx,Microtus ochrogaster,Prairie Vole,42631,Microtus ochrogaster,Prairie Vole,Native,LC,stable,8/8/2016,2019-1
+mPTPDx,Cynomys ludovicianus,Black-tailed Prairie Dog,6091,Cynomys ludovicianus,Arizona Black-tailed Prairie Dog,Native,LC,decreasing,9/8/2016,2019-1
+mPYRAx,Brachylagus idahoensis,Pygmy Rabbit,2963,Brachylagus idahoensis,Pygmy Rabbit,Native,LC,unknown,7/20/2016,2019-1
+mRACCx,Procyon lotor,Raccoon,41686,Procyon lotor,Northern Raccoon,Native,LC,increasing,3/1/2015,2019-1
+mRBEBx,Corynorhinus rafinesquii,Rafinesque's Big-eared Bat,17600,Corynorhinus rafinesquii,Rafinesque's Big-eared Bat,Native,LC,increasing,8/26/2016,2019-1
+mRBSQx,Sciurus aureogaster,Red-bellied Squirrel,20006,Sciurus aureogaster,Mexican Grey Squirrel,Introduced,LC,stable,1/12/2017,2019-1
+mREFOx,Vulpes vulpes,Red Fox,23062,Vulpes vulpes,Red Fox,Native,LC,stable,3/1/2016,2019-1
+mRESQx,Tamiasciurus hudsonicus,Red Squirrel,42587,Tamiasciurus hudsonicus,Red Squirrel,Native,LC,stable,8/18/2016,2019-1
+mRGSQx,Urocitellus richardsonii,Richardson's Ground Squirrel,42561,Urocitellus richardsonii,Richardson's Ground Squirrel,Native,LC,stable,8/18/2016,2019-1
+mRINGx,Bassariscus astutus,Ringtail,41680,Bassariscus astutus,Ringtail,Native,LC,unknown,3/1/2015,2019-1
+mROCOx,Sylvilagus robustus,Robust Cottontail,41310,Sylvilagus robustus,Robust Cottontail,Native,EN,unknown,6/30/2008,2019-1
+mROSQx,Otospermophilus variegatus,Rock Squirrel,20495,Otospermophilus variegatus,Rock Squirrel,Native,LC,stable,9/3/2016,2019-1
+mROVOx,Microtus chrotorrhinus,Rock Vole,42626,Microtus chrotorrhinus,Southern Rock Vole,Native,LC,decreasing,8/8/2016,2019-1
+mRPMOx,Chaetodipus intermedius,Rock Pocket Mouse,4334,Chaetodipus intermedius,Rock Pocket Mouse,Native,LC,stable,9/2/2016,2019-1
+mRTCHx,Tamias ruficaudus,Red-tailed Chipmunk,42577,Neotamias ruficaudus,Red-tailed Chipmunk,Native,LC,stable,1/31/2016,2019-1
+mRTGSx,Xerospermophilus tereticaudus,Round-tailed Ground Squirrel,20493,Xerospermophilus tereticaudus,Round-tailed Ground Squirrel,Native,LC,stable,9/3/2016,2019-1
+mRTMUx,Neofiber alleni,Round-tailed Muskrat,14520,Neofiber alleni,Round-tailed Muskrat,Native,LC,decreasing,5/4/2016,2019-1
+mRTVOx,Arborimus longicaudus,Red Tree Vole,42615,Arborimus longicaudus,Red Tree Vole,Native,NT,decreasing,7/11/2016,2019-1
+mSACOx,Nasua narica,South American Coati,41683,Nasua narica,White-nosed Coati,Native,LC,decreasing,2/18/2015,2019-1
+mSADEx,Peromyscus gratus,Saxicoline Deermouse,16663,Peromyscus gratus,Osgood's Mouse,Native,LC,unknown,9/3/2016,2019-1
+mSAMBx,Rusa unicolor,Sambar,41790,Rusa unicolor,Sambar,Introduced,VU,decreasing,11/17/2014,2019-1
+mSAVOx,Lemmiscus curtatus,Sagebrush Vole,42624,Lemmiscus curtatus,Sagebrush Vole,Native,LC,stable,8/8/2016,2019-1
+mSBLEx,Synaptomys cooperi,Southern Bog Lemming,42639,Synaptomys cooperi,Southern Bog Lemming,Native,LC,unknown,8/18/2016,2019-1
+mSDPMx,Chaetodipus fallax,San Diego Pocket Mouse,4330,Chaetodipus fallax,San Diego Pocket Mouse,Native,LC,unknown,1/25/2016,2019-1
+mSEBAx,Lasiurus seminolus,Seminole Bat,11353,Lasiurus seminolus,Seminole Bat,Native,LC,unknown,6/30/2008,2019-1
+mSEGOx,Geomys pinetis,Southeastern Pocket Gopher,42589,Geomys pinetis,Southeastern Pocket Gopher,Native,LC,unknown,8/8/2016,2019-1
+mSEMYx,Myotis austroriparius,Southeastern Myotis,14147,Myotis austroriparius,Southeastern Myotis,Native,LC,stable,8/29/2016,2019-1
+mSEOTx,Enhydra lutris,Sea Otter,7750,Enhydra lutris,Sea Otter,Native,EN,decreasing,1/5/2013,2019-1
+mSEWEx,Aplodontia rufa,Sewellel,1869,Aplodontia rufa,Mountain Beaver,Native,LC,stable,9/9/2016,2019-1
+mSFSQx,Glaucomys volans,Southern Flying Squirrel,9240,Glaucomys volans,Southern Flying Squirrel,Native,LC,stable,8/8/2016,2019-1
+mSGMOx,Onychomys torridus,Southern Grasshopper Mouse,15339,Onychomys torridus,Southern Grasshopper Mouse,Native,LC,stable,9/3/2016,2019-1
+mSGSQx,Xerospermophilus spilosoma,Spotted Ground Squirrel,42563,Xerospermophilus spilosoma,Spotted Ground Squirrel,Native,LC,stable,9/3/2016,2019-1
+mSHBAx,Lasionycteris noctivagans,Silver-haired Bat,11339,Lasionycteris noctivagans,Silver-haired Bat,Native,LC,stable,6/30/2008,2019-1
+mSHCHx,Tamias senex,Shadow Chipmunk,42579,Neotamias senex,Shadow Chipmunk,Native,LC,stable,1/28/2016,2019-1
+mSHMOx,Neurotrichus gibbsii,Shrew-mole,41468,Neurotrichus gibbsii,Shrew-mole,Native,LC,stable,8/9/2016,2019-1
+mSICHx,Tamias siskiyou,Siskiyou Chipmunk,42580,Neotamias siskiyou,Siskiyou Chipmunk,Native,LC,stable,6/1/2016,2019-1
+mSIKAx,Cervus nippon,Sika,41788,Cervus nippon,Sika Deer,Introduced,LC,increasing,11/17/2014,2019-1
+mSJKRx,Dipodomys nitratoides,San Joaquin Kangaroo Rat,6683,Dipodomys nitratoides,Fresno Kangaroo Rat,Introduced,VU,decreasing,,
+mSJPMx,Perognathus inornatus,San Joaquin Pocket Mouse,42609,Perognathus inornatus,San Joaquin Pocket Mouse,Native,LC,unknown,5/13/2016,2019-1
+mSKRAx,Dipodomys stephensi,Stephen's Kangaroo Rat,6682,Dipodomys stephensi,Stephens' Kangaroo Rat,Native,VU,decreasing,,
+mSLMOx,Perognathus flavus,Silky Pocket Mouse,16635,Perognathus flavus,Silky Pocket Mouse,Native,LC,stable,9/3/2016,2019-1
+mSMHMx,Reithrodontomys raviventris,Salt-marsh Harvest Mouse,19401,Reithrodontomys raviventris,Salt-marsh Harvest Mouse,Native,EN,decreasing,,
+mSMSHx,Sorex fumeus,Smoky Shrew,41396,Sorex fumeus,Smoky Shrew,Native,LC,stable,2/2/2016,2019-1
+mSNHAx,Lepus americanus,Snowshoe Hare,41273,Lepus americanus,Snowshoe Hare,Native,LC,stable,6/30/2008,2019-1
+mSNMOx,Condylura cristata,Star-nosed Mole,41458,Condylura cristata,Star-nosed Mole,Native,LC,stable,8/7/2016,2019-1
+mSOCHx,Tamias sonomae,Sonoma Chipmunk,42581,Neotamias sonomae,Sonoma Chipmunk,Native,LC,stable,9/1/2016,2019-1
+mSOTSx,Blarina carolinensis,Southern Short-tailed Shrew,41452,Blarina carolinensis,Southern Short-tailed Shrew,Native,LC,stable,8/19/2016,2019-1
+mSPBAx,Euderma maculatum,Spotted Bat,8166,Euderma maculatum,Spotted Bat,Native,LC,stable,8/26/2016,2019-1
+mSPGOx,Thomomys umbrinus,Southern Pocket Gopher,21800,Thomomys umbrinus,Animas Mountains Pocket Gopher,Native,LC,unknown,9/3/2016,2019-1
+mSPMOx,Chaetodipus spinatus,Spiny Pocket Mouse,4338,Chaetodipus spinatus,Spiny Pocket Mouse,Native,LC,unknown,9/1/2016,2019-1
+mSPSHx,Sorex longirostris,Southeastern Shrew,41401,Sorex longirostris,Southeastern Shrew,Native,LC,stable,8/18/2016,2019-1
+mSPWOx,Neotoma micropus,Southern Plains Woodrat,14591,Neotoma micropus,Southern Plains Woodrat,Native,LC,stable,9/2/2016,2019-1
+mSRBVx,Myodes gapperi,Southern Red-backed Vole,42617,Myodes gapperi,Southern Red-backed Vole,Native,LC,stable,8/9/2016,2019-1
+mSSLIx,Eumetopias jubatus,Steller Sea Lion,8239,Eumetopias jubatus,Steller Sea Lion,Native,NT,increasing,2/4/2016,2019-1
+mSTSKx,Mephitis mephitis,Striped Skunk,41635,Mephitis mephitis,Striped Skunk,Native,LC,stable,3/1/2015,2019-1
+mSTVOx,Arborimus pomo,Sonoma Tree Vole,2018,Arborimus pomo,Sonoma Tree Vole,Native,NT,decreasing,6/30/2008,2019-1
+mSTWOx,Neotoma stephensi,Stephen's Woodrat,42651,Neotoma stephensi,Stephen's Woodrat,Native,LC,stable,8/9/2016,2019-1
+mSWFOx,Vulpes velox,Swift Fox,23059,Vulpes velox,Swift Fox,Native,LC,stable,7/25/2016,2019-1
+mSWMYx,Myotis auriculus,Southwestern Myotis,14145,Myotis auriculus,Southwestern Myotis,Native,LC,unknown,8/29/2016,2019-1
+mSWRAx,Sylvilagus aquaticus,Swamp Rabbit,41296,Sylvilagus aquaticus,Swamp Rabbit,Native,LC,decreasing,6/30/2008,2019-1
+mSYBAx,Lasiurus ega,Southern Yellow Bat,11350,Lasiurus ega,Southern Yellow Bat,Native,LC,unknown,7/25/2016,2019-1
+mTASQx,Ammospermophilus interpres,Texas Antelope Squirrel,42451,Ammospermophilus interpres,Texas Antelope Squirrel,Native,LC,unknown,9/1/2016,2019-1
+mTBCRx,Sigmodon fulviventer,Tawny-bellied Cotton Rat,20212,Sigmodon fulviventer,Tawny-bellied Cotton Rat,Native,LC,stable,1/31/2016,2019-1
+mTBEBx,Corynorhinus townsendii,Townsend's Big-eared Bat,17598,Corynorhinus townsendii,Townsend's Big-eared Bat,Native,LC,stable,8/26/2016,2019-1
+mTGSQx,Urocitellus townsendii,Townsend's Ground Squirrel,20476,Urocitellus townsendii,Townsend's Ground Squirrel,Native,VU,decreasing,,
+mTKRAx,Dipodomys elator,Texas Kangaroo Rat,6675,Dipodomys elator,Texas Kangaroo Rat,Native,VU,decreasing,,
+mTLGSx,Ictidomys tridecemlineatus,Thirteen-lined Ground Squirrel,42564,Ictidomys tridecemlineatus,Thirteen-lined Ground Squirrel,Native,LC,stable,8/8/2016,2019-1
+mTOCHx,Tamias townsendii,Townsend's Chipmunk,42584,Neotamias townsendii,Townsend's Chipmunk,Native,LC,stable,8/9/2016,2019-1
+mTOMOx,Scapanus townsendii,Townsend's Mole,41475,Scapanus townsendii,Townsend's Mole,Native,LC,stable,5/18/2016,2019-1
+mTOVOx,Microtus townsendii,Townsend's Vole,13487,Microtus townsendii,Townsend's Vole,Native,LC,stable,8/9/2016,2019-1
+mTPGOx,Thomomys townsendii,Townsend's Pocket Gopher,42598,Thomomys townsendii,Townsend's Pocket Gopher,Native,LC,stable,8/18/2016,2019-1
+mTRSHx,Sorex trowbridgii,Trowbridge's Shrew,41421,Sorex trowbridgii,Trowbridge's Shrew,Native,LC,stable,8/18/2016,2019-1
+mTXDEx,Peromyscus attwateri,Texas Deermouse,42652,Peromyscus attwateri,Texas Deermouse,Native,LC,stable,8/19/2016,2019-1
+mTXGOx,Geomys personatus,Texas Pocket Gopher,9055,Geomys personatus,Texas Pocket Gopher,Native,LC,unknown,1/24/2016,2019-1
+mUGSQx,Urocitellus armatus,Uinta Ground Squirrel,42463,Urocitellus armatus,Uinta Ground Squirrel,Native,LC,unknown,1/28/2016,2019-1
+mUICHx,Tamias umbrinus,Uinta Chipmunk,42585,Neotamias umbrinus,Uinta Chipmunk,Native,LC,stable,8/9/2016,2019-1
+mUMBAx,Eumops underwoodi,Underwood's Mastiff Bat,8248,Eumops underwoodi,Underwood's Bonneted Bat,Native,LC,unknown,7/1/2016,2019-1
+mUPDOx,Cynomys parvidens,Utah Prairie Dog,6090,Cynomys parvidens,Utah Prairie Dog,Native,EN,decreasing,7/11/2016,2019-1
+mVASHx,Sorex vagrans,Vagrant Shrew,41425,Sorex vagrans,Vagrant Shrew,Native,LC,stable,9/1/2016,2019-1
+mVIOPx,Didelphis virginiana,Virginia Opossum,40502,Didelphis virginiana,Virginia Opossum,Native,LC,increasing,8/5/2015,2019-1
+mWADEx,Peromyscus pectoralis,White-ankled Deermouse,16684,Peromyscus pectoralis,White-ankled Mouse,Native,LC,stable,9/3/2016,2019-1
+mWASQx,Urocitellus washingtoni,Washington Ground Squirrel,20475,Urocitellus washingtoni,Washington Ground Squirrel,Native,NT,decreasing,7/11/2016,2019-1
+mWEMOx,Zapus princeps,Western Jumping Mouse,42614,Zapus princeps,Pacific Jumping Mouse,Native,LC,stable,8/18/2016,2019-1
+mWEPIx,Pipistrellus hesperus,Western Pipistrelle,17341,Pipistrellus hesperus,Western Pipistrelle,Native,LC,stable,6/30/2008,2019-1
+mWEPMx,Perognathus alticolus,White-eared Pocket Mouse,16631,Perognathus alticola,White-eared Pocket Mouse,Native,VU,decreasing,,
+mWFDEx,Peromyscus leucopus,White-footed Deermouse,16669,Peromyscus leucopus,White-footed Mouse,Native,LC,stable,8/18/2016,2019-1
+mWFVOx,Arborimus albipes,White-footed Vole,2017,Arborimus albipes,White-footed Vole,Native,LC,unknown,12/26/2015,2019-1
+mWGSQx,Sciurus griseus,Western Gray Squirrel,20011,Sciurus griseus,Western Gray Squirrel,Native,LC,unknown,9/3/2016,2019-1
+mWHMOx,Reithrodontomys megalotis,Western Harvest Mouse,19410,Reithrodontomys megalotis,Southern Marsh Harvest Mouse,Native,LC,stable,8/18/2016,2019-1
+mWHVOx,Phenacomys intermedius,Western Heather Vole,42636,Phenacomys intermedius,Western Heather Vole,Native,LC,stable,8/19/2016,2019-1
+mWIBOx,Sus scrofa,Wild Boar,41775,Sus scrofa,Wild Boar,Introduced,LC,unknown,6/30/2008,2019-1
+mWIMAx,Trichechus manatus,West Indian Manatee,22103,Trichechus manatus,American Manatee,Native,VU,decreasing,6/30/2008,2019-1
+mWJMOx,Napaeozapus insignis,Woodland Jumping Mouse,42612,Napaeozapus insignis,Woodland Jumping Mouse,Native,LC,stable,8/9/2016,2019-1
+mWOLVx,Gulo gulo,Wolverine,9561,Gulo gulo,Wolverine,Native,LC,decreasing,5/15/2015,2019-1
+mWOODx,Marmota monax,Woodchuck,42458,Marmota monax,Woodchuck,Native,LC,stable,8/8/2016,2019-1
+mWOVOx,Microtus pinetorum,Woodland Vole,42633,Microtus pinetorum,Woodland Vole,Native,LC,stable,8/8/2016,2019-1
+mWPGOx,Thomomys mazama,Western Pocket Gopher,21810,Thomomys mazama,Western Pocket Gopher,Native,LC,decreasing,8/18/2016,2019-1
+mWRBAx,Lasiurus blossevillii,Western Red Bat,88151055,Lasiurus blossevillii,Southern Red Bat,Native,LC,unknown,3/14/2016,2019-1
+mWRBVx,Myodes californicus,Western Red-backed Vole,42616,Myodes californicus,Western Red-backed Vole,Native,LC,stable,8/9/2016,2019-1
+mWSFMx,Myotis ciliolabrum,Western Small-footed Myotis,14153,Myotis ciliolabrum,Western Small-footed Myotis,Native,LC,stable,8/29/2016,2019-1
+mWSJAx,Lepus callotis,White-sided Jackrabbit,11792,Lepus callotis,White-sided Jackrabbit,Native,NT,decreasing,6/30/2008,2019-1
+mWSSKx,Spilogale gracilis,Western Spotted Skunk,136797,Spilogale gracilis,Western Spotted Skunk,Native,LC,decreasing,3/1/2015,2019-1
+mWTASx,Ammospermophilus leucurus,White-tailed Antelope Squirrel,42452,Ammospermophilus leucurus,White-tailed Antelope Squirrel,Native,LC,stable,9/1/2016,2019-1
+mWTDEx,Odocoileus virginianus,White-tailed Deer,42394,Odocoileus virginianus,White-tailed Deer,Native,LC,stable,6/20/2015,2019-1
+mWTHWx,Neotoma albigula,White-throated Woodrat,14582,Neotoma albigula,White-throated Woodrat,Native,LC,stable,9/3/2016,2019-1
+mWTJAx,Lepus townsendii,White-tailed Jackrabbit,41288,Lepus townsendii,White-tailed Jackrabbit,Native,LC,decreasing,6/30/2008,2019-1
+mWTPDx,Cynomys leucurus,White-tailed Prairie Dog,42454,Cynomys leucurus,White-tailed Prairie Dog,Native,LC,decreasing,1/31/2016,2019-1
+mWTWOx,Neotoma leucodon,White-toothed Woodrat,136793,Neotoma leucodon,White-toothed Woodrat,Native,LC,stable,9/3/2016,2019-1
+mWYBAx,Lasiurus xanthinus,Western Yellow Bat,41532,Lasiurus xanthinus,Western Yellow Bat,Native,LC,stable,8/29/2016,2019-1
+mWYGOx,Thomomys clusius,Wyoming Pocket Gopher,42595,Thomomys clusius,Wyoming Pocket Gopher,Native,LC,unknown,1/12/2017,2019-1
+mWYSQx,Urocitellus elegans,Wyoming Ground Squirrel,42467,Urocitellus elegans,Wyoming Ground Squirrel,Native,LC,unknown,10/11/2016,2019-1
+mYCCHx,Tamias ochrogenys,Yellow-cheeked Chipmunk,42573,Neotamias ochrogenys,Yellow-cheeked Chipmunk,Native,LC,stable,6/1/2016,2019-1
+mYEMAx,Marmota flaviventris,Yellow-bellied Marmot,42457,Marmota flaviventris,Yellow-bellied Marmot,Native,LC,stable,8/8/2016,2019-1
+mYFPGx,Cratogeomys castanops,Yellow-faced Pocket Gopher,16025,Cratogeomys castanops,Yellow-faced Pocket Gopher,Native,LC,stable,8/7/2016,2019-1
+mYNCRx,Sigmodon ochrognathus,Yellow-nosed Cotton Rat,20217,Sigmodon ochrognathus,Yellow-nosed Cotton Rat,Native,LC,unknown,9/3/2016,2019-1
+mYPCHx,Tamias amoenus,Yellow-pine Chipmunk,42569,Neotamias amoenus,Yellow-pine Chipmunk,Native,LC,stable,8/9/2016,2019-1
+mYUMYx,Myotis yumanensis,Yuma Myotis,14213,Myotis yumanensis,Yuma Myotis,Native,LC,stable,6/30/2008,2019-1
+rALTUx,Graptemys pulchra,Alabama Map Turtle,170494,Graptemys pulchra,Alabama Map Turtle,Native,NT,unknown,8/1/2010,2019-1
+rAMALx,Alligator mississippiensis,American Alligator,46583,Alligator mississippiensis,American Alligator,Native,LR/lc,,8/1/1996,2019-1
+rANLIx,Xantusia arizonae,Arizona Night Lizard,64361,Xantusia arizonae,Arizona Night Lizard,Native,LC,stable,3/1/2007,2019-1
+rAQGAx,Thamnophis atratus,Aquatic Gartersnake,63970,Thamnophis atratus,Pacific Coast Aquatic Garter Snake,Native,LC,stable,3/1/2007,2019-1
+rARBCx,Pseudemys alabamensis,Alabama Red-bellied Cooter,18458,Pseudemys alabamensis,Alabama Red-bellied Cooter,Native,EN,,8/1/1996,2019-1
+rASTUx,Macrochelys temminckii,Alligator Snapping Turtle,12589,Macrochelys temminckii,Alligator Snapping Turtle,Native,VU,,8/1/1996,2019-1
+rASWHx,Aspidoscelis arizonae,Arizona Striped Whiptail,64249,Aspidoscelis arizonae,Arizona Striped Whiptail,Native,NT,stable,3/1/2007,2019-1
+rAZTUx,Kinosternon arizonense,Arizona Mud Turtle,63666,Kinosternon arizonense,Arizona Mud Turtle,Native,LC,stable,3/1/2007,2019-1
+rBARAx,Pantherophis bairdi,Baird's Ratsnake,63860,Pantherophis bairdi,Baird's Rat Snake,Native,LC,stable,3/1/2007,2019-1
+rBCBLx,Urosaurus nigricaudus,Baja California Brush Lizard,64173,Urosaurus nigricaudus,Baja California Brush Lizard,Native,LC,stable,3/1/2007,2019-1
+rBCCLx,Crotaphytus vestigium,Baja California Collared Lizard,64013,Crotaphytus vestigium,Baja California Collared Lizard,Native,LC,stable,3/1/2007,2019-1
+rBCRAx,Bogertophis rosaliae,Baja California Ratsnake,63736,Bogertophis rosaliae,Baja California Rat Snake,Native,LC,stable,3/1/2007,2019-1
+rBHLIx,Phrynosoma blainvillii,Blainville's Horned Lizard,64073,Phrynosoma coronatum,Blainville Horned Lizard,Native,LC,decreasing,3/1/2007,2019-1
+rBHSKx,Plestiodon laticeps,Broad-headed Skink,64231,Plestiodon laticeps,Broad-headed Skink,Native,LC,stable,3/1/2007,2019-1
+rBKMTx,Graptemys nigrinoda,Black-knobbed Map Turtle,9502,Graptemys nigrinoda,Black-knobbed Sawback,Native,LC,stable,8/1/2010,2019-1
+rBLSSx,Seminatrix pygaea,Black Swampsnake,63916,Liodytes pygaea,Black Swamp Snake,Native,LC,stable,3/3/2007,2019-1
+rBMTUx,Graptemys barbouri,Barbour's Map Turtle,9496,Graptemys barbouri,Barbour's Map Turtle,Native,VU,decreasing,8/1/2010,2019-1
+rBNGAx,Thamnophis cyrtopsis,Black-necked Gartersnake,63975,Thamnophis cyrtopsis,Black-necked Gartersnake,Native,LC,stable,5/10/2012,2019-1
+rBNLIx,Xantusia bezyi,Bezy's Night Lizard,64362,Xantusia bezyi,Bezy's Night Lizard,Native,LC,unknown,3/1/2007,2019-1
+rBNLLx,Gambelia sila,Blunt-nosed Leopard Lizard,40690,Gambelia sila,Blunt-nosed Leopard Lizard,Native,EN,decreasing,,
+rBOTUx,Glyptemys muhlenbergii,Bog Turtle,4967,Glyptemys muhlenbergii,Bog Turtle,Native,CR,unknown,8/1/2010,2019-1
+rBRLIx,Petrosaurus mearnsi,Banded Rock Lizard,64067,Petrosaurus mearnsi,Banded Rock Lizard,Native,LC,stable,3/1/2007,2019-1
+rBRVWx,Nerodia harteri,Brazos River Watersnake,62238,Nerodia harteri,Brazos River Watersnake,Native,NT,stable,3/1/2007,2019-1
+rBRWAx,Nerodia taxispilota,Brown Watersnake,63857,Nerodia taxispilota,Brown Water Snake,Native,LC,stable,3/1/2007,2019-1
+rBTRAx,Crotalus molossus,Black-tailed Rattlesnake,64324,Crotalus molossus,Black-tailed Rattlesnake,Native,LC,stable,3/1/2007,2019-1
+rBTURx,Emydoidea blandingii,Blanding's Turtle,7709,Emydoidea blandingii,Blanding's Turtle,Native,EN,decreasing,8/1/2010,2019-1
+rBUGAx,Thamnophis butleri,Butler's Gartersnake,63972,Thamnophis butleri,Butler's Garter Snake,Native,LC,stable,3/1/2007,2019-1
+rCAISx,Drymarchon melanurus,Central American Indigo Snake,63774,Drymarchon melanurus,Western Indigo Snake,Native,LC,stable,10/25/2013,2019-1
+rCALIx,Sceloporus merriami,Canyon Lizard,64126,Sceloporus merriami,Canyon Lizard,Native,LC,stable,3/1/2007,2019-1
+rCBHSx,Tantilla wilcoxi,Chihuahuan Black-headed Snake,63965,Tantilla wilcoxi,Chihuahuan Black-headed Snake,Native,LC,stable,3/1/2007,2019-1
+rCCHUx,Sauromalus ater,Common Chuckwalla,64054,Sauromalus ater,Northern Chuckwalla,Native,LC,stable,3/1/2007,2019-1
+rCCHWx,Aspidoscelis neotesselata,Colorado Checkered Whiptail,64279,Aspidoscelis neotesselata,Triploid Checkered Whiptail,Native,NT,decreasing,3/1/2007,2019-1
+rCCWHx,Aspidoscelis tesselata,Common Checkered Whiptail,64289,Aspidoscelis tesselata,Diploid Checkered Whiptail,Native,LC,stable,3/1/2007,2019-1
+rCDFLx,Uma notata,Colorado Desert Fringe-toed Lizard,64163,Uma notata,Colorado Desert Fringe-toed Lizard,Native,NT,decreasing,3/1/2007,2019-1
+rCFLSx,Plestiodon fasciatus,Common Five-lined Skink,64227,Plestiodon fasciatus,Common Five-lined Skink,Native,LC,stable,3/1/2007,2019-1
+rCFTLx,Uma inornata,Coachella Fringe-toed Lizard,22727,Uma inornata,Coachella Valley Fringe-toed Lizard,Native,EN,decreasing,3/1/2007,2019-1
+rCHGAx,Thamnophis marcianus,Checkered Gartersnake,198521,Thamnophis marcianus,Checkered Garter Snake,Native,LC,unknown,9/14/2005,2019-1
+rCHNSx,Gyalopion canum,Chihuahuan Hook-nosed Snake,63817,Gyalopion canum,Chihuahuan Hook-nosed Snake,Native,LC,stable,3/1/2007,2019-1
+rCKINx,Lampropeltis getula,Common Kingsnake,63828,Lampropeltis getula,Common Kingsnake,Native,LC,stable,3/1/2007,2019-1
+rCLELx,Holbrookia maculata,Common Lesser Earless Lizard,64065,Holbrookia maculata,Lesser Earless Lizard,Native,LC,stable,3/1/2007,2019-1
+rCLIZx,Anniella pulchra,California Legless Lizard,62227,Anniella pulchra,Black Legless Lizard,Native,LC,decreasing,3/1/2007,2019-1
+rCLLIx,Gambelia copeii,Cope's Leopard Lizard,64014,Gambelia copeii,Long-nosed Leopard Lizard,Native,LC,decreasing,3/1/2007,2019-1
+rCLSLx,Sceloporus clarkii,Clark's Spiny Lizard,64095,Sceloporus clarkii,Clark's Spiny Lizard,Native,LC,stable,3/1/2007,2019-1
+rCMKIx,Lampropeltis zonata,California Mountain Kingsnake,63834,Lampropeltis zonata,California Mountain Kingsnake,Native,LC,decreasing,3/1/2007,2019-1
+rCMTUx,Graptemys caglei,Cagle's Map Turtle,9497,Graptemys caglei,Cagle's Map Turtle,Native,EN,decreasing,8/1/2010,2019-1
+rCOGAx,Thamnophis sirtalis,Common Gartersnake,62240,Thamnophis sirtalis,Common Gartersnake,Native,LC,stable,3/3/2007,2019-1
+rCOPPx,Agkistrodon contortrix,Copperhead,64297,Agkistrodon contortrix,Northern Copperhead,Native,LC,stable,3/1/2007,2019-1
+rCOSKx,Plestiodon anthracinus,Coal Skink,64220,Plestiodon anthracinus,Coal Skink,Native,LC,stable,3/1/2007,2019-1
+rCOSLx,Sceloporus graciosus,Common Sagebrush Lizard,64106,Sceloporus graciosus,Common Sagebrush Lizard,Native,LC,stable,3/1/2007,2019-1
+rCOTTx,Agkistrodon piscivorus,Cottonmouth,64298,Agkistrodon piscivorus,Cottonmouth,Native,LC,stable,3/1/2007,2019-1
+rCOWAx,Nerodia paucimaculata,Concho Watersnake,14631,Nerodia paucimaculata,Concho Water Snake,Native,NT,stable,3/1/2007,2019-1
+rCROCx,Crocodylus acutus,American Crocodile,5659,Crocodylus acutus,American Crocodile,Native,VU,increasing,6/30/2009,2019-1
+rCRSLx,Sceloporus poinsettii,Crevice Spiny Lizard,64138,Sceloporus poinsettii,Crevice Spiny Lizard,Native,LC,stable,3/1/2007,2019-1
+rCSBLx,Uta stansburiana,Common Side-blotched Lizard,64180,Uta stansburiana,Common Side-blotched Lizard,Native,LC,stable,3/1/2007,2019-1
+rCSPWx,Aspidoscelis gularis,Common Spotted Whiptail,64267,Aspidoscelis gularis,Eastern Spotted Whiptail,Native,LC,stable,3/1/2007,2019-1
+rCSWHx,Aspidoscelis burti,Canyon Spotted Whiptail,64251,Aspidoscelis burti,Canyon Spotted Whiptail,Native,LC,stable,3/1/2007,2019-1
+rCWHIx,Aspidoscelis exsanguis,Chihuahuan Spotted Whiptail,64264,Aspidoscelis exsanguis,Chihuahuan Spotted Whiptail,Native,LC,stable,3/1/2007,2019-1
+rDBTEx,Malaclemys terrapin,Diamond-backed Terrapin,12695,Malaclemys terrapin,Diamondback Terrapin,Native,LR/nt,,8/1/1996,2019-1
+rDBWAx,Nerodia rhombifer,Diamond-backed Watersnake,63856,Nerodia rhombifer,Diamond-backed Watersnake,Native,LC,stable,3/1/2007,2019-1
+rDEBRx,Storeria dekayi,Dekay's Brownsnake,63928,Storeria dekayi,Brown Snake,Native,LC,stable,5/10/2012,2019-1
+rDEIGx,Dipsosaurus dorsalis,Desert Iguana,64053,Dipsosaurus dorsalis,Common Desert Iguana,Native,LC,stable,3/1/2007,2019-1
+rDETOx,Gopherus agassizii,Desert Tortoise,9400,Gopherus agassizii,Mojave Desert Tortoise,Native,VU,,8/1/1996,2019-1
+rDGWHx,Aspidoscelis uniparens,Desert Grassland Whiptail,64291,Aspidoscelis uniparens,Desert Grassland Whiptail,Native,LC,stable,3/1/2007,2019-1
+rDHLIx,Phrynosoma platyrhinos,Desert Horned Lizard,64080,Phrynosoma platyrhinos,Desert Horned Lizard,Native,LC,stable,3/1/2007,2019-1
+rDNLIx,Xantusia vigilis,Desert Night Lizard,64368,Xantusia vigilis,Desert Night Lizard,Native,LC,stable,3/1/2007,2019-1
+rDSALx,Sceloporus arenicolus,Dunes Sagebrush Lizard,64087,Sceloporus arenicolus,Dunes Sagebrush Lizard,Native,VU,decreasing,,
+rDSLIx,Sceloporus magister,Desert Spiny Lizard,64123,Sceloporus magister,Desert Spiny Lizard,Native,LC,stable,3/1/2007,2019-1
+rEAFOx,Pantherophis gloydi,Eastern Foxsnake,63862,Pantherophis gloydi,Eastern Fox Snake,Native,NT,decreasing,3/1/2007,2019-1
+rEARAx,Pantherophis alleghaniensis,Eastern Ratsnake,63864,Pantherophis obsoletus,Western Ratsnake,Native,LC,stable,3/1/2007,2019-1
+rEARIx,Thamnophis sauritus,Eastern Ribbonsnake,63991,Thamnophis sauritus,Eastern Ribbon Snake,Native,LC,stable,3/1/2007,2019-1
+rEBTUx,Terrapene carolina,Eastern Box Turtle,21641,Terrapene carolina,Eastern Box Turtle,Native,VU,decreasing,8/1/2010,2019-1
+rECLIx,Crotaphytus collaris,Eastern Collared Lizard,64007,Crotaphytus collaris,Eastern Collared Lizard,Native,LC,stable,3/1/2007,2019-1
+rEDBRx,Crotalus adamanteus,Eastern Diamond-backed Rattlesnake,64308,Crotalus adamanteus,Eastern Diamond-backed Rattlesnake,Native,LC,decreasing,3/1/2007,2019-1
+rEELIx,Holbrookia elegans,Elegant Earless Lizard,64063,Holbrookia elegans,Elegant Earless Lizard,Native,LC,stable,3/1/2007,2019-1
+rEFLIx,Sceloporus undulatus,Eastern Fence Lizard,64156,Sceloporus undulatus,Eastern Fence Lizard,Native,LC,stable,3/1/2007,2019-1
+rEGLIx,Ophisaurus ventralis,Eastern Glass Lizard,63721,Ophisaurus ventralis,Eastern Glass Lizard,Native,LC,stable,3/1/2007,2019-1
+rEHNSx,Heterodon platirhinos,Eastern Hog-nosed Snake,63820,Heterodon platirhinos,Eastern Hog-nosed Snake,Native,LC,stable,3/1/2007,2019-1
+rEISNx,Drymarchon couperi,Eastern Indigo Snake,63773,Drymarchon couperi,Eastern Indigo Snake,Native,LC,decreasing,3/1/2007,2019-1
+rEMDTx,Kinosternon subrubrum,Eastern Mud Turtle,163435,Kinosternon subrubrum,Eastern Mud Turtle,Native,LC,unknown,3/23/2011,2019-1
+rEMSTx,Sternotherus odoratus,Eastern Musk Turtle,163450,Sternotherus odoratus,Eastern Musk Turtle,Native,LC,stable,8/3/2010,2019-1
+rEMTUx,Graptemys ernsti,Escambia Map Turtle,9500,Graptemys ernsti,Escambia Map Turtle,Native,NT,decreasing,8/1/2010,2019-1
+rEPNSx,Salvadora grahamiae,Eastern Patch-nosed Snake,63911,Salvadora grahamiae,Eastern Patch-nosed Snake,Native,LC,stable,3/1/2007,2019-1
+rEWSNx,Carphophis amoenus,Eastern Wormsnake,63738,Carphophis amoenus,Eastern Worm Snake,Native,LC,stable,3/1/2007,2019-1
+rFCSNx,Tantilla relicta,Florida Crowned Snake,63956,Tantilla relicta,Florida Crowned Snake,Native,LC,stable,3/1/2007,2019-1
+rFGWAx,Nerodia floridana,Florida Green Watersnake,63855,Nerodia floridana,Florida Green Water Snake,Native,LC,stable,3/1/2007,2019-1
+rFHSNx,Tantilla gracilis,Flat-headed Snake,63946,Tantilla gracilis,Flathead Snake,Native,LC,decreasing,3/1/2007,2019-1
+rFLMTx,Sternotherus depressus,Flattened Musk Turtle,20824,Sternotherus depressus,Flattened Musk Turtle,Native,CR,decreasing,8/1/2010,2019-1
+rFLSKx,Plestiodon tetragrammus,Four-lined Skink,64241,Plestiodon tetragrammus,Four-lined Skink,Native,LC,stable,3/1/2007,2019-1
+rFLSOx,Apalone ferox,Florida Softshell,165597,Apalone ferox,Florida Softshell Turtle,Native,LC,unknown,8/1/2010,2019-1
+rFLWOx,Rhineura floridana,Florida Wormlizard,64219,Rhineura floridana,Florida Worm Lizard,Native,LC,stable,3/1/2007,2019-1
+rFMTUx,Graptemys pseudogeographica,False Map Turtle,165600,Graptemys pseudogeographica,Mississippi Map Turtle,Native,LC,unknown,8/1/2010,2019-1
+rFRBCx,Pseudemys nelsoni,Florida Red-bellied Cooter,170495,Pseudemys nelsoni,Florida Red-bellied Cooter,Native,LC,stable,8/1/2010,2019-1
+rFSLIx,Sceloporus woodi,Florida Scrub Lizard,64160,Sceloporus woodi,Florida Scrub Lizard,Native,NT,decreasing,3/1/2007,2019-1
+rFSSKx,Plestiodon reynoldsi,Florida Sand Skink,14564,Plestiodon reynoldsi,Florida Sand Skink,Native,VU,decreasing,3/3/2007,2019-1
+rFTHLx,Phrynosoma mcallii,Flat-tailed Horned Lizard,64077,Phrynosoma mcallii,Flat-tailed Horned Lizard,Native,NT,decreasing,3/1/2007,2019-1
+rGBCLx,Crotaphytus bicinctores,Great Basin Collared Lizard,64006,Crotaphytus bicinctores,Great Basin Collared Lizard,Native,LC,stable,3/1/2007,2019-1
+rGBKIx,Lampropeltis alterna,Gray-banded Kingsnake,63825,Lampropeltis alterna,Gray-banded Kingsnake,Native,LC,stable,3/1/2007,2019-1
+rGCRSx,Regina rigida,Glossy Crayfish Snake,63886,Liodytes rigida,Crayfish Snake,Native,LC,stable,3/3/2007,2019-1
+rGCSNx,Regina grahamii,Graham's Crayfish Snake,63885,Regina grahamii,Graham's Crayfish Snake,Native,LC,unknown,3/1/2007,2019-1
+rGCWHx,Aspidoscelis dixoni,Gray Checkered Whiptail,64262,Aspidoscelis dixoni,Gray-checkered Whiptail,Native,NT,stable,3/1/2007,2019-1
+rGELIx,Cophosaurus texanus,Greater Earless Lizard,64062,Cophosaurus texanus,Greater Earless Lizard,Native,LC,stable,3/1/2007,2019-1
+rGIGAx,Thamnophis gigas,Giant Gartersnake,21706,Thamnophis gigas,Giant Garter Snake,Native,VU,decreasing,,
+rGIMOx,Heloderma suspectum,Gila Monster,9865,Heloderma suspectum,Gila Monster,Native,NT,decreasing,3/1/2007,2019-1
+rGISKx,Plestiodon gilberti,Gilbert's Skink,64228,Plestiodon gilberti,Gilbert's Skink,Native,LC,stable,3/1/2007,2019-1
+rGLSNx,Arizona elegans,Glossy Snake,63734,Arizona elegans,Glossy Snake,Native,LC,stable,3/1/2007,2019-1
+rGLSWx,Aspidoscelis flagellicauda,Gila Spotted Whiptail,64265,Aspidoscelis flagellicauda,Gila Spotted Whiptail,Native,LC,stable,3/1/2007,2019-1
+rGNLIx,Xantusia henshawi,Granite Night Lizard,64366,Xantusia henshawi,Henshaw's Night Lizard,Native,LC,stable,3/1/2007,2019-1
+rGNRAx,Senticolis triaspis,Green Ratsnake,190631,Senticolis triaspis,Green Rat Snake,Native,LC,stable,5/10/2012,2019-1
+rGNSLx,Sceloporus orcutti,Granite Spiny Lizard,64134,Sceloporus orcutti,Granite Spiny Lizard,Native,LC,stable,3/1/2007,2019-1
+rGOPHx,Pituophis catenifer,Gophersnake,63869,Pituophis catenifer,Gopher Snake,Native,LC,stable,3/1/2007,2019-1
+rGOTOx,Gopherus polyphemus,Gopher Tortoise,9403,Gopherus polyphemus,Gopher Tortoise,Native,VU,,8/1/1996,2019-1
+rGPRAx,Pantherophis emoryi,Great Plains Ratsnake,63861,Pantherophis emoryi,Great Plains Rat Snake,Native,LC,stable,3/1/2007,2019-1
+rGPSKx,Plestiodon obsoletus,Great Plains Skink,64235,Plestiodon obsoletus,Great Plains Skink,Native,LC,stable,3/1/2007,2019-1
+rGPSLx,Sceloporus grammicus,Graphic Spiny Lizard,64107,Sceloporus grammicus,Graphic Spiny Lizard,Native,LC,stable,3/1/2007,2019-1
+rGRANx,Anolis carolinensis,Green Anole,64188,Anolis carolinensis,Green Anole,Native,LC,stable,3/1/2007,2019-1
+rGRRAx,Pantherophis spiloides,Gray Ratsnake,63864,Pantherophis obsoletus,Western Ratsnake,Native,LC,stable,3/1/2007,2019-1
+rGSHLx,Phrynosoma hernandesi,Greater Short-horned Lizard,64076,Phrynosoma hernandesi,Greater Short-horned Lizard,Native,LC,stable,3/1/2007,2019-1
+rGSTUx,Chelonia mydas,Green Sea Turtle,4615,Chelonia mydas,Green Turtle,Native,EN,decreasing,4/30/2004,2019-1
+rHACOx,Micrurus fulvius,Harlequin Coralsnake,64025,Micrurus fulvius,Eastern Coral Snake,Native,LC,stable,3/1/2007,2019-1
+rHSTUx,Eretmochelys imbricata,Hawksbill Sea Turtle,8005,Eretmochelys imbricata,Hawksbill Turtle,Native,CR,decreasing,6/30/2008,2019-1
+rIGLIx,Ophisaurus compressus,Island Glass Lizard,63718,Ophisaurus compressus,Island Glass Lizard,Native,LC,decreasing,3/1/2007,2019-1
+rINLIx,Xantusia riversiana,Island Night Lizard,23095,Xantusia riversiana,Island Night Lizard,Native,LC,stable,3/1/2007,2019-1
+rKELIx,Holbrookia propinqua,Keeled Earless Lizard,64066,Holbrookia propinqua,Keeled Earless Lizard,Native,LC,stable,3/1/2007,2019-1
+rKISNx,Clonophis kirtlandii,Kirtland's Snake,63747,Clonophis kirtlandii,Kirtland's Snake,Native,NT,decreasing,3/1/2007,2019-1
+rKRSTx,Lepidochelys kempii,Kemp's Ridley Sea Turtle,11533,Lepidochelys kempii,Kemp's Ridley,Native,CR,,8/1/1996,2019-1
+rLASWx,Aspidoscelis laredoensis,Laredo Striped Whiptail,64272,Aspidoscelis laredoensis,Laredo Striped Whiptail,Native,LC,stable,3/1/2007,2019-1
+rLBSKx,Scincella lateralis,Little Brown Skink,64245,Scincella lateralis,Little Brown Skink,Native,LC,stable,3/1/2007,2019-1
+rLEATx,Dermochelys coriacea,Leatherback Sea Turtle,6494,Dermochelys coriacea,Leatherback,Native,VU,decreasing,6/21/2013,2019-1
+rLISNx,Tropidoclonion lineatum,Lined Snake,63998,Tropidoclonion lineatum,Lined Snake,Native,LC,stable,3/1/2007,2019-1
+rLISWx,Aspidoscelis inornata,Little Striped Whiptail,64270,Aspidoscelis inornata,Little Striped Whiptail,Native,LC,decreasing,3/1/2007,2019-1
+rLMTUx,Sternotherus minor,Loggerhead Musk Turtle,170493,Sternotherus minor,Loggerhead Musk Turtle,Native,LC,unknown,8/1/2010,2019-1
+rLNLLx,Gambelia wislizenii,Long-nosed Leopard Lizard,64015,Gambelia wislizenii,Long-nosed Leopard Lizard,Native,LC,stable,3/1/2007,2019-1
+rLNSNx,Rhinocheilus lecontei,Long-nosed Snake,63909,Rhinocheilus lecontei,Long-nosed Snake,Native,LC,stable,3/1/2007,2019-1
+rLOGTx,Caretta caretta,Loggerhead Sea Turtle,3897,Caretta caretta,Loggerhead Turtle,Native,VU,decreasing,8/23/2015,2019-1
+rLOPIx,Pituophis ruthveni,Louisiana Pinesnake,63874,Pituophis ruthveni,Louisiana Pine Snake,Native,EN,decreasing,3/1/2007,2019-1
+rLTBLx,Urosaurus graciosus,Long-tailed Brush Lizard,64171,Urosaurus graciosus,Long-tailed Brush Lizard,Native,LC,stable,3/1/2007,2019-1
+rLWWHx,Aspidoscelis gypsi,Little White Whiptail,64269,Aspidoscelis gypsi,Little White Whiptail,Native,VU,stable,3/1/2007,2019-1
+rMALIx,Elgaria kingii,Madrean Alligator Lizard,63702,Elgaria kingii,Madrean Alligator Lizard,Native,LC,stable,3/1/2007,2019-1
+rMASSx,Sistrurus catenatus,Massasauga,64346,Sistrurus catenatus,Massasauga,Native,LC,unknown,3/1/2007,2019-1
+rMBHSx,Tantilla atriceps,Mexican Black-headed Snake,63935,Tantilla atriceps,Mexican Black-headed Snake,Native,LC,stable,3/1/2007,2019-1
+rMEGAx,Thamnophis eques,Mexican Gartersnake,63977,Thamnophis eques,Mexican Garter Snake,Native,LC,stable,3/1/2007,2019-1
+rMFTLx,Uma scoparia,Mohave Fringe-toed Lizard,64166,Uma scoparia,Mojave Fringe-toed Lizard,Native,LC,stable,3/1/2007,2019-1
+rMGLIx,Ophisaurus mimicus,Mimic Glass Lizard,63720,Ophisaurus mimicus,Mimic Glass Lizard,Native,LC,decreasing,3/1/2007,2019-1
+rMLSKx,Plestiodon multivirgatus,Many-lined Skink,64234,Plestiodon multivirgatus,Many-lined Skink,Native,LC,stable,3/1/2007,2019-1
+rMORAx,Crotalus scutulatus,Mohave Rattlesnake,64332,Crotalus scutulatus,Mojave Rattlesnake,Native,LC,stable,3/1/2007,2019-1
+rMOSKx,Plestiodon egregius,Mole Skink,64226,Plestiodon egregius,Mole Skink,Native,LC,decreasing,3/1/2007,2019-1
+rMPSLx,Trachemys gaigeae,Mexican Plateau Slider,22024,Trachemys gaigeae,Big Bend Slider,Native,VU,unknown,8/1/2010,2019-1
+rMSWAx,Nerodia cyclopion,Mississippi Green Watersnake,63853,Nerodia cyclopion,Mississippi Green Water Snake,Native,LC,stable,3/1/2007,2019-1
+rMTSKx,Plestiodon callicephalus,Mountain Skink,64222,Plestiodon callicephalus,Mountain Skink,Native,LC,stable,3/1/2007,2019-1
+rNALIx,Elgaria coerulea,Northern Alligator Lizard,63701,Elgaria coerulea,Northern Alligator Lizard,Native,LC,stable,3/1/2007,2019-1
+rNARAx,Coluber constrictor,North American Racer,63748,Coluber constrictor,Eastern Racer,Native,LC,stable,5/7/2012,2019-1
+rNHGAx,Thamnophis rufipunctatus,Narrow-headed Gartersnake,63990,Thamnophis rufipunctatus,,Native,LC,decreasing,3/1/2007,2019-1
+rNMTHx,Leptotyphlops dissectus,New Mexico Threadsnake,64056,Rena dissecta,New Mexico Bland Snake,Native,LC,stable,3/1/2007,2019-1
+rNMTUx,Graptemys geographica,Northern Map Turtle,165598,Graptemys geographica,Northern Map Turtle,Native,LC,stable,8/1/2010,2019-1
+rNMWHx,Aspidoscelis neomexicana,New Mexico Whiptail,64278,Aspidoscelis neomexicana,New Mexico Whiptail,Native,LC,stable,3/1/2007,2019-1
+rNRBCx,Pseudemys rubriventris,Northern Red-bellied Cooter,18460,Pseudemys rubriventris,Northern Redbelly Turtle,Native,NT,unknown,8/1/2010,2019-1
+rNRBOx,Charina bottae,Northern Rubber Boa,62228,Charina bottae,Rubber Boa,Native,LC,stable,3/1/2007,2019-1
+rNWATx,Nerodia sipedon,Northern Watersnake,62239,Nerodia sipedon,Lake Erie Water Snake,Native,LC,stable,3/1/2007,2019-1
+rNWGAx,Thamnophis ordinoides,Northwestern Gartersnake,63985,Thamnophis ordinoides,Northwestern Garter Snake,Native,LC,stable,3/1/2007,2019-1
+rOBTUx,Terrapene ornata,Ornate Box Turtle,21644,Terrapene ornata,Ornate Box Turtle,Native,NT,decreasing,8/1/2010,2019-1
+rOMTUx,Graptemys ouachitensis,Ouachita Map Turtle,165599,Graptemys ouachitensis,Ouachita Map Turtle,Native,LC,stable,8/1/2010,2019-1
+rORSTx,Lepidochelys olivacea,Olive Ridley Sea Turtle,11534,Lepidochelys olivacea,Olive Ridley,Native,VU,decreasing,6/30/2008,2019-1
+rORWHx,Aspidoscelis hyperythra,Orange-throated Whiptail,4996,Aspidoscelis hyperythra,Orange-throated Race-runner,Native,LC,decreasing,3/1/2007,2019-1
+rOTLIx,Urosaurus ornatus,Ornate Tree Lizard,64174,Urosaurus ornatus,Ornate Tree Lizard,Native,LC,stable,3/1/2007,2019-1
+rPALIx,Elgaria panamintina,Panamint Alligator Lizard,40792,Elgaria panamintina,Panamint Alligator Lizard,Native,VU,decreasing,3/1/2007,2019-1
+rPASWx,Aspidoscelis pai,Pai Striped Whiptail,64281,Aspidoscelis pai,Pai Striped Whiptail,Native,LC,stable,3/1/2007,2019-1
+rPATUx,Chrysemys picta,Painted Turtle,163467,Chrysemys picta,Painted Turtle,Native,LC,stable,8/1/2010,2019-1
+rPBHSx,Tantilla nigriceps,Plains Black-headed Snake,63952,Tantilla nigriceps,Plains Black-headed Snake,Native,LC,stable,3/1/2007,2019-1
+rPBWAx,Nerodia erythrogaster,Plain-bellied Watersnake,63854,Nerodia erythrogaster,Plain-bellied Watersnake,Native,LC,stable,3/1/2007,2019-1
+rPCOOx,Pseudemys peninsularis,Peninsula Cooter,170496,Pseudemys peninsularis,Peninsula Cooter,Native,LC,unknown,8/1/2010,2019-1
+rPHNSx,Heterodon nasicus,Plains Hog-nosed Snake,63819,Heterodon nasicus,Western Hog-nosed Snake,Native,LC,stable,3/1/2007,2019-1
+rPINEx,Pituophis melanoleucus,Pinesnake,63873,Pituophis melanoleucus,Pine Snake,Native,LC,decreasing,3/1/2007,2019-1
+rPLGAx,Thamnophis radix,Plains Gartersnake,63988,Thamnophis radix,Plains Garter Snake,Native,LC,stable,3/1/2007,2019-1
+rPLSWx,Aspidoscelis velox,Plateau Striped Whiptail,64292,Aspidoscelis velox,Plateau Striped Whiptail,Native,LC,stable,3/1/2007,2019-1
+rPLTGx,Phyllodactylus nocticolus,Peninsular Leaf-toed Gecko,64051,Phyllodactylus xanti,Peninsular Leaf-toed Gecko,Native,LC,stable,3/1/2007,2019-1
+rPLWHx,Aspidoscelis scalaris,Plateau Spotted Whiptail,64286,Aspidoscelis septemvittata,Mexican Plateau Spotted Whiptail,Native,LC,stable,3/1/2007,2019-1
+rPMTUx,Graptemys gibbonsi,Pascagoula Map Turtle,184436,Graptemys gibbonsi,Pascagoula Map Turtle,Native,EN,decreasing,8/1/2010,2019-1
+rPOSLx,Trachemys scripta,Pond Slider,22028,Trachemys scripta,Yellow-bellied Slider Turtle,Native,LC,stable,8/1/2010,2019-1
+rPRATx,Sistrurus miliarius,Pygmy Rattlesnake,64347,Sistrurus miliarius,Pygmy Rattlesnake,Native,LC,stable,3/1/2007,2019-1
+rPRRAx,Crotalus viridis,Prairie Rattlesnake,64339,Crotalus viridis,Prairie Rattlesnake,Native,LC,stable,3/1/2007,2019-1
+rPRSKx,Plestiodon septentrionalis,Prairie Skink,64239,Plestiodon septentrionalis,Northern Prairie Skink,Native,LC,stable,3/1/2007,2019-1
+rPSHLx,Phrynosoma douglasii,Pygmy Short-horned Lizard,64075,Phrynosoma douglasii,Pygmy Short-horned Lizard,Native,LC,stable,3/1/2007,2019-1
+rPWLIx,Rhadinaea flavilata,Pine Woods Littersnake,63890,Rhadinaea flavilata,Pine Woods Littersnake,Native,LC,stable,3/1/2007,2019-1
+rQUEEx,Regina septemvittata,Queensnake,63887,Regina septemvittata,Queen Snake,Native,LC,stable,3/1/2007,2019-1
+rRASNx,Farancia erytrogramma,Rainbow Snake,63780,Farancia erytrogramma,Rainbow Snake,Native,LC,stable,3/1/2007,2019-1
+rRBGEx,Coleonyx reticulatus,Reticular Banded Gecko,64037,Coleonyx reticulatus,Reticulate Banded Gecko,Native,LC,stable,3/1/2007,2019-1
+rRBLIx,Sceloporus variabilis,Rose-bellied Lizard,198414,Sceloporus variabilis,Rose-bellied Lizard,Native,LC,stable,5/7/2012,2019-1
+rRBMTx,Sternotherus carinatus,Razor-backed Musk Turtle,170492,Sternotherus carinatus,Razor-backed Musk Turtle,Native,LC,unknown,8/1/2010,2019-1
+rRBMUx,Farancia abacura,Red-bellied Mudsnake,63779,Farancia abacura,Red-bellied Mudsnake,Native,LC,stable,3/1/2007,2019-1
+rRBSNx,Storeria occipitomaculata,Red-bellied Snake,63930,Storeria occipitomaculata,Red-bellied Snake,Native,LC,stable,3/1/2007,2019-1
+rRBSSx,Coniophanes imperialis,Regal Black-striped Snake,63750,Coniophanes imperialis,Black-striped Snake,Native,LC,stable,5/7/2012,2019-1
+rRBWHx,Aspidoscelis xanthonota,Red-backed Whiptail,64251,Aspidoscelis burti,Canyon Spotted Whiptail,Native,LC,stable,3/1/2007,2019-1
+rRCLIx,Crotaphytus reticulatus,Reticulate Collared Lizard,64012,Crotaphytus reticulatus,Reticulate Collared Lizard,Native,VU,decreasing,3/1/2007,2019-1
+rRDRAx,Crotalus ruber,Red Diamond Rattlesnake,64331,Crotalus ruber,Red Diamond Rattlesnake,Native,LC,decreasing,3/1/2007,2019-1
+rRECOx,Pantherophis guttatus,Red Cornsnake,63863,Pantherophis guttatus,Red Cornsnake,Native,LC,stable,7/20/2015,2019-1
+rREGEx,Sphaerodactylus notatus,Reef Gecko,64052,Sphaerodactylus notatus,Brown-speckled Sphaero,Native,LC,stable,12/13/2016,2019-1
+rRFMTx,Kinosternon hirtipes,Rough-footed Mud Turtle,63670,Kinosternon hirtipes,Rough-footed Mud Turtle,Native,LC,decreasing,3/1/2007,2019-1
+rRGCOx,Pseudemys gorzugi,Rio Grande Cooter,18459,Pseudemys gorzugi,Rio Grande Cooter,Native,NT,unknown,8/1/2010,2019-1
+rRHLIx,Phrynosoma solare,Regal Horned Lizard,64081,Phrynosoma solare,Regal Horned Lizard,Native,LC,stable,3/1/2007,2019-1
+rRICOx,Pseudemys concinna,River Cooter,163444,Pseudemys concinna,River Cooter,Native,LC,unknown,8/1/2010,2019-1
+rRMTUx,Graptemys oculifera,Ringed Map Turtle,9499,Graptemys oculifera,Ringed Sawback,Native,VU,unknown,8/1/2010,2019-1
+rRNRAx,Crotalus willardi,Ridge-nosed Rattlesnake,62253,Crotalus willardi,New Mexican Ridge-nosed Rattlesnake,Native,LC,stable,3/1/2007,2019-1
+rRNSNx,Diadophis punctatus,Ring-necked Snake,63769,Diadophis punctatus,Ring-necked Snake,Native,LC,stable,3/1/2007,2019-1
+rROBOx,Lichanura trivirgata,Rosy Boa,63726,Lichanura trivirgata,Rosy Boa,Native,LC,stable,3/1/2007,2019-1
+rROEAx,Virginia striatula,Rough Earthsnake,64002,Haldea striatula,Rough Earth Snake,Native,LC,stable,3/3/2007,2019-1
+rROGRx,Opheodrys aestivus,Rough Greensnake,63859,Opheodrys aestivus,Rough Green Snake,Native,LC,stable,3/1/2007,2019-1
+rRRATx,Crotalus lepidus,Rock Rattlesnake,64321,Crotalus lepidus,Rock Rattlesnake,Native,LC,stable,3/1/2007,2019-1
+rRRCSx,Tantilla oolitica,Rim Rock Crowned Snake,63954,Tantilla oolitica,Rim Rock Crowned Snake,Native,EN,decreasing,,
+rRTHLx,Phrynosoma modestum,Round-tailed Horned Lizard,64078,Phrynosoma modestum,Round-tailed Horned Lizard,Native,LC,stable,3/1/2007,2019-1
+rSALSx,Phyllorhynchus browni,Saddled Leaf-nosed Snake,63867,Phyllorhynchus browni,,Native,LC,stable,3/1/2007,2019-1
+rSANLx,Xantusia gracilis,Sandstone Night Lizard,64365,Xantusia gracilis,Sandstone Night Lizard,Native,VU,unknown,3/1/2007,2019-1
+rSAWAx,Nerodia clarkii,Saltmarsh Watersnake,63852,Nerodia clarkii,Atlantic Saltmarsh Snake,Native,LC,decreasing,3/1/2007,2019-1
+rSBGEx,Coleonyx switaki,Switak's Banded Gecko,64038,Coleonyx switaki,Barefoot Banded Gecko,Native,LC,unknown,3/1/2007,2019-1
+rSBHSx,Tantilla hobartsmithi,Smith's Black-headed Snake,63947,Tantilla hobartsmithi,Southwestern Blackhead Snake,Native,LC,stable,3/1/2007,2019-1
+rSBLIx,Sceloporus slevini,Slevin's Bunchgrass Lizard,64145,Sceloporus slevini,,Native,LC,decreasing,3/1/2007,2019-1
+rSCARx,Cemophora coccinea,Scarletsnake,63740,Cemophora coccinea,Scarlet Snake,Native,LC,stable,3/1/2007,2019-1
+rSCLIx,Crotaphytus nebrius,Sonoran Collared Lizard,64011,Crotaphytus nebrius,Sonoran Collared Lizard,Native,LC,stable,3/1/2007,2019-1
+rSCSNx,Regina alleni,Striped Crayfish Snake,63884,Liodytes alleni,Striped Crayfish Snake,Native,LC,stable,3/3/2007,2019-1
+rSCWHx,Coluber schotti,Schott's Whipsnake,63848,Masticophis schotti,Schott's Whipsnake,Native,LC,stable,3/1/2007,2019-1
+rSESNx,Tantilla coronata,Southeastern Crowned Snake,63941,Tantilla coronata,Southeastern Crowned Snake,Native,LC,stable,3/1/2007,2019-1
+rSFLSx,Plestiodon inexpectatus,Southeastern Five-lined Skink,64229,Plestiodon inexpectatus,Southeastern Five-lined Skink,Native,LC,stable,3/1/2007,2019-1
+rSGLIx,Ophisaurus attenuatus,Slender Glass Lizard,63716,Ophisaurus attenuatus,Slender Glass Lizard,Native,LC,stable,3/1/2007,2019-1
+rSHGAx,Thamnophis brachystoma,Short-headed Gartersnake,63971,Thamnophis brachystoma,Short-headed Gartersnake,Native,LC,stable,3/1/2007,2019-1
+rSHNSx,Heterodon simus,Southern Hog-nosed Snake,63821,Heterodon simus,Southern Hog-nosed Snake,Native,VU,decreasing,3/1/2007,2019-1
+rSIDEx,Crotalus cerastes,Sidewinder,64315,Crotalus cerastes,Sidewinder,Native,LC,stable,3/1/2007,2019-1
+rSIGAx,Thamnophis couchii,Sierra Gartersnake,63974,Thamnophis couchii,Western Aquatic Garter Snake,Native,LC,stable,3/1/2007,2019-1
+rSLCOx,Pantherophis slowinskii,Slowinski's Cornsnake,63865,Pantherophis slowinskii,Slowinski's Cornsnake,Native,DD,unknown,3/1/2007,2019-1
+rSLRAx,Aspidoscelis sexlineata,Six-lined Racerunner,64287,Aspidoscelis sexlineata,Six-lined Racerunner,Native,LC,stable,3/1/2007,2019-1
+rSMEAx,Virginia valeriae,Smooth Earthsnake,64003,Virginia valeriae,Smooth Earth Snake,Native,LC,stable,3/1/2007,2019-1
+rSMGRx,Opheodrys vernalis,Smooth Greensnake,63842,Opheodrys vernalis,Smooth Green Snake,Native,LC,stable,3/3/2007,2019-1
+rSMKIx,Lampropeltis pyromelana,Sonoran Mountain Kingsnake,63831,Lampropeltis pyromelana,Sonoran Mountain Kingsnake,Native,LC,stable,3/1/2007,2019-1
+rSMSOx,Apalone mutica,Smooth Softshell,165596,Apalone mutica,Smooth Softshell Turtle,Native,LC,unknown,8/1/2010,2019-1
+rSNTUx,Chelydra serpentina,Snapping Turtle,163424,Chelydra serpentina,Snapping Turtle,Native,LC,stable,8/2/2010,2019-1
+rSOALx,Elgaria multicarinata,Southern Alligator Lizard,63703,Elgaria multicarinata,Southern Alligator Lizard,Native,LC,decreasing,3/1/2007,2019-1
+rSOCOx,Micruroides euryxanthus,Sonoran Coralsnake,64017,Micruroides euryxanthus,Western Coral Snake,Native,LC,stable,3/1/2007,2019-1
+rSOMTx,Kinosternon sonoriense,Sonoran Mud Turtle,11011,Kinosternon sonoriense,Sonoyta Mud Turtle,Native,NT,unknown,3/21/2011,2019-1
+rSOPTx,Chrysemys dorsalis,Southern Painted Turtle,163467,Chrysemys picta,Painted Turtle,Native,LC,stable,8/1/2010,2019-1
+rSOWAx,Nerodia fasciata,Southern Watersnake,62237,Nerodia fasciata,Southern Water Snake,Native,LC,stable,3/1/2007,2019-1
+rSOWHx,Coluber bilineatus,Sonoran Whipsnake,63847,Masticophis bilineatus,Sonoran Whipsnake,Native,LC,stable,3/1/2007,2019-1
+rSPLIx,Sceloporus virgatus,Striped Plateau Lizard,64159,Sceloporus virgatus,Striped Plateau Lizard,Native,LC,stable,3/1/2007,2019-1
+rSPLSx,Phyllorhynchus decurtatus,Spotted Leaf-nosed Snake,63868,Phyllorhynchus decurtatus,Spotted Leaf-nosed Snake,Native,LC,stable,3/1/2007,2019-1
+rSPSNx,Contia tenuis,Sharp-tailed Snake,63766,Contia tenuis,Sharp-tailed Snake,Native,LC,stable,3/1/2007,2019-1
+rSPSOx,Apalone spinifera,Spiny Softshell,163451,Apalone spinifera,Spiny Softshell Turtle,Native,LC,stable,8/1/2010,2019-1
+rSPTUx,Clemmys guttata,Spotted Turtle,4968,Clemmys guttata,Spotted Turtle,Native,EN,decreasing,8/1/2010,2019-1
+rSRATx,Crotalus mitchellii,Speckled Rattlesnake,64323,Crotalus mitchellii,Speckled Rattlesnake,Native,LC,stable,3/1/2007,2019-1
+rSRBOx,Charina umbratica,Southern Rubber Boa,62228,Charina bottae,Rubber Boa,Native,LC,stable,3/1/2007,2019-1
+rSSNSx,Chionactis palarostris,Sonoran Shovel-nosed Snake,63746,Chionactis palarostris,Sonoran Shovel-nosed Snake,Native,LC,unknown,3/1/2007,2019-1
+rSSWHx,Aspidoscelis sonorae,Sonoran Spotted Whiptail,64288,Aspidoscelis sonorae,Sonoran Spotted Whiptail,Native,LC,stable,3/1/2007,2019-1
+rSTELx,Holbrookia lacerata,Spot-tailed Earless Lizard,64064,Holbrookia lacerata,Spot-tailed Earless Lizard,Native,NT,decreasing,3/1/2007,2019-1
+rSTMTx,Kinosternon baurii,Striped Mud Turtle,163429,Kinosternon baurii,Striped Mud Turtle,Native,LC,unknown,8/1/2010,2019-1
+rSTRAx,Coluber lateralis,Striped Racer,62236,Masticophis lateralis,Almeda Striped Racer,Native,LC,stable,3/1/2007,2019-1
+rSTSNx,Lampropeltis extenuata,Short-tailed Snake,63927,Lampropeltis extenuata,Short-tailed Snake,Native,NT,decreasing,3/3/2007,2019-1
+rSTWHx,Coluber taeniatus,Striped Whipsnake,63850,Masticophis taeniatus,Striped Whipsnake,Native,LC,stable,3/1/2007,2019-1
+rSUCOx,Pseudemys suwanniensis,Suwannee Cooter,163444,Pseudemys concinna,River Cooter,Native,LC,unknown,8/1/2010,2019-1
+rTALIx,Gerrhonotus infernalis,Texas Alligator Lizard,63707,Gerrhonotus infernalis,Texas Alligator Lizard,Native,LC,stable,3/1/2007,2019-1
+rTBHSx,Tantilla cucullata,Trans-pecos Black-Headed Snake,63942,Tantilla cucullata,Trans-pecos Black-headed Snake,Native,LC,stable,3/1/2007,2019-1
+rTEGAx,Thamnophis elegans,Terrestrial Gartersnake,63976,Thamnophis elegans,Western Terrestrial Garter Snake,Native,LC,stable,3/1/2007,2019-1
+rTERAx,Pantherophis obsoletus,Texas Ratsnake,63864,Pantherophis obsoletus,Western Ratsnake,Native,LC,stable,3/1/2007,2019-1
+rTHLIx,Phrynosoma cornutum,Texas Horned Lizard,64072,Phrynosoma cornutum,Texas Horned Lizard,Native,LC,stable,3/1/2007,2019-1
+rTHNSx,Ficimia streckeri,Tamaulipan Hook-nosed Snake,63784,Ficimia streckeri,Tamaulipan Hook-nosed Snake,Native,LC,stable,3/1/2007,2019-1
+rTIRAx,Crotalus horridus,Timber Rattlesnake,64318,Crotalus horridus,Timber Rattlesnake,Native,LC,decreasing,3/1/2007,2019-1
+rTIWHx,Aspidoscelis tigris,Tiger Whiptail,64290,Aspidoscelis tigris,Western Whiptail,Native,LC,stable,3/1/2007,2019-1
+rTMTUx,Graptemys versa,Texas Map Turtle,9503,Graptemys versa,Texas Map Turtle,Native,LC,stable,8/1/2010,2019-1
+rTPRAx,Bogertophis subocularis,Trans-pecos Ratsnake,63737,Bogertophis subocularis,Trans-pecos Rat Snake,Native,LC,decreasing,3/1/2007,2019-1
+rTRATx,Crotalus tigris,Tiger Rattlesnake,64335,Crotalus tigris,Tiger Rattlesnake,Native,LC,stable,3/1/2007,2019-1
+rTSGAx,Thamnophis hammondii,Two-striped Gartersnake,21707,Thamnophis hammondii,Two-striped Gartersnake,Native,LC,decreasing,3/1/2007,2019-1
+rTSLIx,Sceloporus olivaceus,Texas Spiny Lizard,64133,Sceloporus olivaceus,Texas Spiny Lizard,Native,LC,stable,3/1/2007,2019-1
+rTSRAx,Crotalus pricei,Twin-spotted Rattlesnake,64328,Crotalus pricei,Twin-spotted Rattlesnake,Native,LC,stable,3/1/2007,2019-1
+rTSSNx,Gyalopion quadrangulare,Thornscrub Hook-nosed Snake,63818,Gyalopion quadrangulare,Thornscrub Hook-nosed Snake,Native,LC,stable,3/1/2007,2019-1
+rTXBGx,Coleonyx brevis,Texas Banded Gecko,64034,Coleonyx brevis,Texas Banded Gecko,Native,LC,stable,3/1/2007,2019-1
+rTXCOx,Pseudemys texana,Texas Cooter,170497,Pseudemys texana,Texas Cooter,Native,LC,unknown,8/1/2010,2019-1
+rTXCSx,Micrurus tener,Texas Coralsnake,64033,Micrurus tener,Texas Coral Snake,Native,LC,stable,3/1/2007,2019-1
+rTXLYx,Trimorphodon vilkinsonii,Texas Lyresnake,63997,Trimorphodon vilkinsonii,Chihuahuan Lyre Snake,Native,LC,stable,3/1/2007,2019-1
+rTXTHx,Leptotyphlops dulcis,Texas Threadsnake,64057,Rena dulcis,Texas Threadsnake,Native,LC,unknown,3/1/2007,2019-1
+rTXTOx,Gopherus berlandieri,Texas Tortoise,9401,Gopherus berlandieri,Berlandier's Tortoise,Native,LR/lc,,8/1/1996,2019-1
+rVASAx,Chilomeniscus stramineus,Variable Sandsnake,63744,Chilomeniscus stramineus,Variable Sandsnake,Native,LC,stable,3/1/2007,2019-1
+rWBGEx,Coleonyx variegatus,Western Banded Gecko,64039,Coleonyx variegatus,Western Banded Gecko,Native,LC,stable,3/1/2007,2019-1
+rWBHSx,Tantilla planiceps,Western Black-headed Snake,63955,Tantilla planiceps,Western Black-headed Snake,Native,LC,stable,3/1/2007,2019-1
+rWDBRx,Crotalus atrox,Western Diamond-backed Rattlesnake,64311,Crotalus atrox,Western Diamond-backed Rattlesnake,Native,LC,stable,3/1/2007,2019-1
+rWELYx,Trimorphodon biscutatus,Western Lyresnake,63997,Trimorphodon vilkinsonii,Chihuahuan Lyre Snake,Native,LC,stable,3/1/2007,2019-1
+rWERAx,Crotalus oreganus,Western Rattlesnake,64326,Crotalus oreganus,Western Rattlesnake,Native,LC,stable,3/1/2007,2019-1
+rWERIx,Thamnophis proximus,Western Ribbonsnake,198522,Thamnophis proximus,Western Ribbon Snake,Native,LC,stable,9/14/2005,2019-1
+rWESKx,Plestiodon skiltonianus,Western Skink,64240,Plestiodon skiltonianus,Western Skink,Native,LC,stable,3/1/2007,2019-1
+rWETHx,Leptotyphlops humilis,Western Threadsnake,64058,Rena humilis,Western Slender Blindsnake,Native,LC,stable,3/1/2007,2019-1
+rWEWOx,Carphophis vermis,Western Wormsnake,63739,Carphophis vermis,,Native,LC,stable,3/1/2007,2019-1
+rWFLIx,Sceloporus occidentalis,Western Fence Lizard,64131,Sceloporus occidentalis,Western Fence Lizard,Native,LC,stable,3/1/2007,2019-1
+rWGROx,Sonora semiannulata,Western Groundsnake,63925,Sonora semiannulata,Ground Snake,Native,LC,stable,3/1/2007,2019-1
+rWOTUx,Glyptemys insculpta,Wood Turtle,4965,Glyptemys insculpta,Wood Turtle,Native,EN,decreasing,8/1/2010,2019-1
+rWPNSx,Salvadora hexalepis,Western Patch-nosed Snake,63912,Salvadora hexalepis,Western Patch-nosed Snake,Native,LC,stable,3/1/2007,2019-1
+rWPTUx,Actinemys marmorata,Western Pond Turtle,4969,Actinemys marmorata,Western Pond Turtle,Native,VU,,8/1/1996,2019-1
+rWSNSx,Chionactis occipitalis,Western Shovel-nosed Snake,63745,Chionactis occipitalis,Western Shovel-nosed Snake,Native,LC,stable,3/1/2007,2019-1
+rYBHSx,Tantilla yaquia,Yaqui Black-headed Snake,63966,Tantilla yaquia,Yaqui Black-headed Snake,Native,LC,stable,3/1/2007,2019-1
+rYBKIx,Lampropeltis calligaster,Yellow-bellied Kingsnake,63826,Lampropeltis calligaster,Yellow-bellied Kingsnake,Native,LC,stable,3/1/2007,2019-1
+rYBMTx,Graptemys flavimaculata,Yellow-blotched Map Turtle,9498,Graptemys flavimaculata,Yellow Blotched Sawback,Native,VU,decreasing,8/1/2010,2019-1
+rYFTLx,Uma rufopunctata,Yuman Fringe-toed Lizard,64165,Uma rufopunctata,Yuman Desert Fringe-toed Lizard,Native,NT,decreasing,3/1/2007,2019-1
+rYMTUx,Kinosternon flavescens,Yellow Mud Turtle,163421,Kinosternon flavescens,Yellow Mud Turtle,Native,LC,unknown,8/1/2010,2019-1
+rYSLIx,Sceloporus jarrovii,Yarrow's Spiny Lizard,64116,Sceloporus jarrovii,Mountain Spiny Lizard,Native,LC,stable,3/1/2007,2019-1
+rZTLIx,Callisaurus draconoides,Zebra-tailed Lizard,64061,Callisaurus draconoides,Zebra-tailed Lizard,Native,LC,stable,3/1/2007,2019-1

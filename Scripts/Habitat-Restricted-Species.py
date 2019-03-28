@@ -5,25 +5,11 @@
                         Habitat-Restricted-Species.py
         
     Use this to create a CSV file of species' (including subspecies)
-    HUC12 range sizes - in km2 and number of HUCs - and the proportion
-    that range relative to the totatl CONUS area. The identified range
-    includes both breeding and non-breeding and summer and winter
-    seasons. It DOES NOT INCLUDE any migratory portions of a species'
-    range nor does it include any historic and/or extirpated portions
-    that may have been delineated.
-    Additionally, the script will calculate "range" (extent really) based
-    on HABITAT as oppossed to HUC 12 range. This uses the habitat maps
-    with NoData and 1,2, and/or 3s and calculates as sum as well as
-    proportion relative to the CONUS land cover (excluding 0s). Note
-    that total CONUS land cover area could exclude water. The script
-    sets variables for both water included and water excluded cell
-    counts - cntLC and cntLCnoW respectively.
+
     
     This uses the sciencebasepy package and local functions to download
     and unzip GAP range and habitat species data from ScienceBase.
-    
-    It also requires a text file of 12-digit range HUCs (HUC12s.txt)
-    that contains data on each HUC's areal extent for calculating total
+
     and proportional area of range extent.
     
     OUTPUT CSV FILE NAME: SpeciesRangevsHabitat.csv
@@ -75,7 +61,7 @@ workDir = analysisDir + 'Habitat-Restricted-Species/'
 tempDir = workDir + 'downloadtemp/'
 # ****** Static Range vs Habitat CSV File **********
 #  Run SB-Range-vs-Habitat.py script to generate this file for a species list
-CSVfile = workDir + 'SpeciesRangevsHabitat.csv'
+CSVfile = workDir + 'SpeciesRangevsHabitat-fromJMP.csv'
 
 starttime = datetime.now()
 timestamp = starttime.strftime('%Y-%m-%d')
@@ -106,6 +92,25 @@ cntLC = 9000763993.0    # Cell count of CONUS landcover excluding 0s
 cntLCnoW = 8501572144.0 # Cell count of CONUS landcover excluding 0s and water
 
 
+
+'''
+    Connect to ScienceBase to pull down a species list with
+    IUCN conservation status information in it.
+    This uses the ScienceBase item for species habitat maps
+    and searches for a CSV file with species info in it.
+    The habitat map item has a unique id (527d0a83e4b0850ea0518326)
+    and the CSV file is named IUCN_Gap.csv. If
+    either of these change, the code will need to be re-written.
+
+'''
+sb = sciencebasepy.SbSession()
+habmapItem = sb.get_item("527d0a83e4b0850ea0518326")
+# Get the CSV and make it a dataframe
+for file in habmapItem["files"]:
+    if file["name"] == "IUCN_Gap.csv":
+        dfGapIUCN = pd.read_csv(StringIO(sb.get(file["url"])))
+        dfGapIUCN = dfGapIUCN.replace(np.nan, '', regex=True)
+
 # Get the Range-Habitat csv file as a dataframe
 dfRngHab = pd.read_csv(CSVfile)
 
@@ -118,6 +123,18 @@ dfHabInRng['PropHabOfRange'] = dfHabInRng['AreaHab_km2'] / dfHabInRng['AreaRange
 # Calculate the lowest 5th percentile of proportions
 props = dfHabInRng['PropHabOfRange']
 low5 = np.percentile(props, 5, interpolation='lower')
+# Make a dataframe of the species < the lowest 5th percentile
+dflow5 = dfHabInRng[dfHabInRng['PropHabOfRange']<=low5]
+
+# Merge the lowest 5th percentile species df with the GAP IUCN df
+# First, merge them to match full species only
+# NOTE: IUCN does not assess subspecies therfore matches are only on full species
+dfSppOnly_IUCN = pd.merge(left=dflow5, right=dfGapIUCN, how='inner',
+                      left_on='SpeciesCode', right_on='gapSppCode')
+# Now merge them keeping all records for species in the lowest 5th percentile
+# that is, including all the subspecies from the GAP list
+dfAllLow5_IUCN = pd.merge(left=dflow5, right=dfGapIUCN, how='left',
+                      left_on='SpeciesCode', right_on='gapSppCode')
 
 
 
