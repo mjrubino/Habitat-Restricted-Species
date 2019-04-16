@@ -282,8 +282,7 @@ dfAppend = dfMerge1.drop(['AreaHab_km2','AreaSum1-3'], axis=1)
 dfHabStatus = dfSelect.append(dfAppend, sort=False, ignore_index=True)
 dfHabStatus['Total_km2'] = dfHabStatus['km2'].groupby(dfHabStatus['SppCode']).transform('sum')
 
-# Calculate the percentage each status is relative
-# to the total number of cells for the species
+# Calculate the percentage each status is relative to the total area for the species
 dfHabStatus['PADPercent'] = (dfHabStatus['km2']/dfHabStatus['Total_km2'])*100
 # Pivot the dataframe on PAD status to get them into columns
 dfPivot = dfHabStatus.pivot_table(values='PADPercent',
