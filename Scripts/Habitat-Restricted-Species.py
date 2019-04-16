@@ -121,7 +121,7 @@ print('\n--> Connecting to ScienceBase to gather species IUCN criteria ...')
 
 sb = sciencebasepy.SbSession()
 habmapItem = sb.get_item("527d0a83e4b0850ea0518326")
-# Make a regular expression variable for the hab map csv file name pattern
+# Make a regular expression variable for the IUCN csv file name pattern
 fnp = 'IUCN_Gap.+'
 for file in habmapItem["files"]:
     # Search for the file name pattern in the hab map item files dictionary
