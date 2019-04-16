@@ -254,7 +254,7 @@ sAreaSum = dfSelect.groupby(['SppCode'])['km2'].sum()
 dfSum = pd.DataFrame(sAreaSum)
 # Round these numbers to 3 decimals to prevent strange math latter
 dfSum = dfSum.round(3)
-# Rename PADCount column to PADCntSum and reset the index
+# Rename PADCount column to AreaSum1-3 and reset the index
 dfSum.rename(columns={'km2':'AreaSum1-3'}, inplace=True)
 dfSum = dfSum.reset_index()
 
