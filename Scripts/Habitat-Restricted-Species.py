@@ -18,8 +18,10 @@
     instance.
 
     
-    This uses the sciencebasepy package to access a CSV file (IUCN_Gap.csv)
-    containing IUCN category data for GAP species available on ScienceBase.
+    This uses the sciencebasepy package to access two CSV files (IUCN_Gap.csv and
+    ScienceBaseHabMapCSV). The first contains IUCN category data for GAP species
+    and the second is needed to retrieve NatureServe Global Sequential IDs for
+    each species. They are available on ScienceBase.
 
     
 
@@ -29,14 +31,17 @@
         pyodbc
         pandas
         numpy
+        ElementTree (for extracting XML data from the NS API)
         datetime (for calculating processing time)
         StringIO
         Seaborn
         datetime
+        seaborn
+        matplotlib
 
 
 @author: mjrubino
-10 April 2019
+30 April 2019
 
 """
 
@@ -45,6 +50,8 @@
 import sciencebasepy, pyodbc, re
 import pandas as pd
 import numpy as np
+import xml.etree.ElementTree as ET
+import urllib
 from datetime import datetime
 from io import StringIO
 import seaborn as sns
@@ -179,10 +186,118 @@ dfAllLow5_IUCN.drop(['bCLSWx','rNARAx'], inplace=True)
 # Pull out the species codes which are the row index
 hrSpp = dfAllLow5_IUCN.index
 
-# Select species that are of conservation concern based on IUCN categories
-cclst = ['VU', 'EN', 'NT', 'DD', 'CR', 'EW']
-select={'iucnCategory':cclst}
-dfCC = dfAllLow5_IUCN[dfAllLow5_IUCN[list(select)].isin(select).all(axis=1)]
+
+
+'''
+
+    Use the NatureServe API to get global and national
+    conservation status rank codes for each of the habitat
+    restricted species. The ROUNDED global status will be
+    used to assess conservation status for these species
+    but the global range and national range and rounded
+    ranks will also be available for additional assessment.
+    
+    First, pull down the ScienceBase Hab Map CSV to find the
+    NatureServe Global Sequential ID for each species.
+
+'''
+
+for file in habmapItem["files"]:
+    # Search for the file name pattern in the hab map item files dictionary
+    if file['name'].startswith('ScienceBaseHabMapCSV'):
+        try:
+            dfSppCSV = pd.read_csv(StringIO(sb.get(file['url'])))
+        except:
+            print('!! Could not find a CSV file name match !!')
+
+
+# NatureServe developer API access key ID
+keyid = 'cd08be35-cef1-46ec-a402-f108541b600e'
+
+# make an empty list to append to
+ranklst = []
+lstcols = ['SpeciesCode','GRank','RGRank','NRank','RNRank']
+
+for sppCode in hrSpp:
+    try:
+        
+        print('\n--> Connecting to NatureServe to get conservation status ...')
+        
+        
+        # Get the NatureServe Global Sequential ID from the CSV dataframe
+        NSid = dfSppCSV.loc[dfSppCSV['GAP_code'] == sppCode, 'Global_SEQ_ID'].item()
+        # Get the NatureServe URL for the given species
+        urlNS = "https://services.natureserve.org/idd/rest/ns/v1.1/globalSpecies/comprehensive?uid=ELEMENT_GLOBAL.2." + \
+                     str(NSid) + "&NSAccessKeyId=" + keyid
+        # Parse the XML holding species data using the URL above
+        tree = ET.parse(urllib.request.urlopen(urlNS))
+        root = tree.getroot()
+        
+        #allElements = [elem.tag for elem in root.iter()]
+        
+        ## Look for Global Status Ranks
+        try:
+            # find path of the globalStatus tag
+            pathGlobStat = root.findall(".//{http://services.natureserve.org/docs/schemas/biodiversityDataFlow/1}globalStatus")
+            # get the global rank code
+            NSgs = pathGlobStat[0][0][0].text
+            # get the rounded global rank code
+            NSrgs = pathGlobStat[0][1][0].text
+            if NSgs != None:
+                print('--> Global Status Rank found')
+            else:
+                NSgs = ''
+            if NSrgs != None:
+                print('--> Rounded Global Status Rank found')
+            else:
+                NSrgs = ''
+        except:
+            NSgs = ''
+            NSrgs = ''
+        
+        ## Look for National Status Ranks
+        try:
+            # find path of the nationalStatus tag
+            pathNatStat = root.findall(".//{http://services.natureserve.org/docs/schemas/biodiversityDataFlow/1}nationalStatus[@nationCode='US']")
+            # get the national status rank
+            NSns = pathNatStat[0][0][0].text
+            # get the rounded national status rank
+            NSrns = pathNatStat[0][1][0].text
+            if NSns != None:
+                print('--> National Status Rank found')
+            else:
+                NSns = ''
+            if NSrns != None:
+                print('--> Rounded National Status Rank found')
+            else:
+                NSrns = ''
+        except:
+            NSns = ''
+            NSrns = ''
+        
+        # Append info to the NatureServe list
+        ranklst.append([sppCode,NSgs,NSrgs,NSns,NSrns])
+        
+
+    except:
+        print('\n!!!! Had Problems With Connections to ScienceBase. Moving on to Next Species ...!!!!')
+
+# Make the final dataframe from the appended list
+dfNSRanks = pd.DataFrame(ranklst,columns=lstcols)
+
+## Merge IUCN and NatureServe dataframes
+dfIUCN_NS = pd.merge(left=dfAllLow5_IUCN, right=dfNSRanks, 
+                     how='left',
+                     left_on='SpeciesCode', right_on='SpeciesCode')
+
+#################################################################################################
+# Select species that are of conservation concern based on
+# IUCN categories AND/OR NatureServe rounded global ranks
+ 
+IUCNlst = ['VU', 'EN', 'NT', 'DD', 'CR', 'EW']
+NSlst = ['G1', 'G2', 'G3', 'T1', 'T2', 'T3']
+dfCC = dfIUCN_NS[dfIUCN_NS['iucnCategory'].isin(IUCNlst) | dfIUCN_NS['RGRank'].isin(NSlst)]
+#################################################################################################
 
 # Make a dataframe of subspecies using the species code
 ss = np.where(hrSpp.str[5:]!='x')
@@ -224,8 +339,6 @@ boundary AS
 species AS
 	(SELECT	lu_boundary_species.boundary, 
 		tblTaxa.strUC, 
-		tblTaxa.strScientificName, 
-		tblTaxa.strCommonName, 
 		lu_boundary_species.count
 	FROM	lu_boundary_species
 	INNER JOIN tblTaxa ON lu_boundary_species.species_cd = tblTaxa.strUC
@@ -233,14 +346,12 @@ species AS
 	)
 
 SELECT	species.strUC as SppCode, 
-	species.strCommonName as ComName, 
-	species.strScientificName as SciName,  
 	boundary.gap_sts as PADStatus, 
    sum(species.count) * 0.0009 as km2  
 FROM	boundary
 INNER JOIN species ON boundary.value = species.boundary 
 WHERE boundary.gap_sts < 4
-GROUP BY strUC, strScientificName, strCommonName, gap_sts
+GROUP BY strUC, gap_sts
 ORDER By strUC, gap_sts"""
 
 ## Connect to the Analytic Database
@@ -264,7 +375,7 @@ dfSum = dfSum.reset_index()
 # appropriate amount of habitat on GAP status 4 lands - that is, all
 # the habitat that IS NOT ON GAP status 1, 2, or 3 lands
 # First, pull out only the necessary columns from the dfHabInRng dataframe
-dfHabTotal = dfHabInRng[['SpeciesCode','CommonName','ScientificName', 'AreaHab_km2']]
+dfHabTotal = dfHabInRng[['SpeciesCode','AreaHab_km2']]
 # Round the total habitat area numbers to 3 decimals for latter math
 dfHabTotal['AreaHab_km2'] = dfHabTotal['AreaHab_km2'].round(3)
 dfMerge1 = pd.merge(left=dfSum,right=dfHabTotal,how='left',
@@ -276,7 +387,6 @@ dfMerge1.drop('SpeciesCode', axis=1, inplace=True)
 dfMerge1['PADStatus'] = '4'
 dfMerge1['km2'] = dfMerge1['AreaHab_km2'] - dfMerge1['AreaSum1-3']
 # Now rearrange and rename some columns to prepare for appending with SQL dataframe
-dfMerge1.rename(columns={'CommonName':'ComName', 'ScientificName':'SciName'},inplace=True)
 dfAppend = dfMerge1.drop(['AreaHab_km2','AreaSum1-3'], axis=1)
 # Append with the SQL CSV dataframe dfSelect then calculate a total habitat area in km2
 dfHabStatus = dfSelect.append(dfAppend, sort=False, ignore_index=True)
@@ -286,7 +396,7 @@ dfHabStatus['Total_km2'] = dfHabStatus['km2'].groupby(dfHabStatus['SppCode']).tr
 dfHabStatus['PADPercent'] = (dfHabStatus['km2']/dfHabStatus['Total_km2'])*100
 # Pivot the dataframe on PAD status to get them into columns
 dfPivot = dfHabStatus.pivot_table(values='PADPercent',
-                           index=['SppCode','ComName','SciName'],
+                           index=['SppCode'],
                            columns=['PADStatus'])
 # Rename the PAD status columns
 dfPivot.rename(columns={'1':'Status 1','2':'Status 2',
@@ -296,16 +406,22 @@ dfPivot.rename(columns={'1':'Status 1','2':'Status 2',
 dfPivot['Status 1 & 2'] = dfPivot['Status 1'] + dfPivot['Status 2']
 # Reset the index to a new dataframe
 dfSppPAD = dfPivot.reset_index()
+# Now get scientific and common names from dfHabInRng
+dfSppPAD = pd.merge(left=dfSppPAD,right=dfHabInRng,how='left',
+                    left_on='SppCode',right_on='SpeciesCode')
+# Rename common name and scientific name columns for later merging with dfCC dataframe
+dfSppPAD.rename(columns={'CommonName':'ComName', 'ScientificName':'SciName'},inplace=True)
 # Reorder columns
 dfSppPAD = dfSppPAD[['SppCode','SciName','ComName',
                    'Status 1','Status 2','Status 1 & 2',
                    'Status 3','Status 4']]
-# Make another dataframe of PAD status percentages just for the 19 species
-# whose IUCN category attributes them as species of conservation concern
+# Make another dataframe of PAD status percentages just for the species
+# whose IUCN category and/or NatureServe rounded global rank attributes them
+# as species of conservation concern
 dfCCStatus = pd.merge(left=dfCC, left_on='SpeciesCode',
                       right=dfSppPAD, right_on='SppCode',
                       how='inner',left_index=True,right_index=False)
-dfCCStatus = dfCCStatus[['SppCode','SciName','ComName',
+dfCCStatus = dfCCStatus[['SppCode','ScientificName','CommonName',
                    'Status 1','Status 2','Status 1 & 2',
                    'Status 3','Status 4']]
 
@@ -316,13 +432,15 @@ dfCCStatus = dfCCStatus[['SppCode','SciName','ComName',
 
 '''
 print('\n--> Plotting species habitat protection percentage by GAP status ...')
-dfmelt3 = dfSppPAD.melt(id_vars = 'SppCode',
+# A version WITH combined Status 1 & 2 percentages for ALL habitat restricted species
+dfmeltAll = dfSppPAD.melt(id_vars = 'SppCode',
                   value_vars = ['Status 1 & 2',
                                 'Status 3','Status 4'],
                   var_name = 'GAP Protection Status',
                   value_name = 'Percent Habitat Protected')
-# A version WITHOUT combined Status 1 & 2 percentages
-dfmelt4 = dfCCStatus.melt(id_vars = 'SppCode',
+# A version WITHOUT combined Status 1 & 2 percentages for only habitat restricted
+# species of conservation concern based on IUCN and NatureServe status ranks
+dfmeltCC = dfCCStatus.melt(id_vars = 'SppCode',
                   value_vars = ['Status 1','Status 2',
                                 'Status 3','Status 4'],
                   var_name = 'GAP Protection Status',
@@ -340,30 +458,26 @@ cp3 = {k:cp[k] for k in ('Status 1 & 2','Status 3','Status 4') if k in cp}
 cp4 = {k:cp[k] for k in ('Status 1','Status 2','Status 3','Status 4') if k in cp}
 
 # Plot percent habitat protected by GAP status for ALL species in the lowest 5th percentile
-a1 = sns.boxplot(data = dfmelt3,
+a1 = sns.boxplot(data = dfmeltAll,
                 x = 'GAP Protection Status',
                 y = 'Percent Habitat Protected',
                 width=0.35,
                 palette=cp3,
                 ax=ax1)
-a1.set_title('Habitat Protection by GAP Status for 82 Habitat Restricted Species', fontsize=12)
+a1.set_title('Habitat Protection by GAP Status for ' + str(len(dfSppPAD)) + 
+             ' Habitat Restricted Species', fontsize=12)
 
 
-dfmelt4 = dfSppPAD.melt(id_vars = 'SppCode',
-                  value_vars = ['Status 1','Status 2',
-                                'Status 3','Status 4'],
-                  var_name = 'GAP Protection Status',
-                  value_name = 'Percent Habitat Protected')
-
-# Plot protection by status ONLY for species of conservation concern from IUCN
+# Plot protection by status ONLY for species of conservation concern from IUCN & NatureServe
 fig2, ax2 = plt.subplots(figsize=(9,8))
-a2 = sns.boxplot(data = dfmelt4,
+a2 = sns.boxplot(data = dfmeltCC,
                 x = 'GAP Protection Status',
                 y = 'Percent Habitat Protected',
                 width=0.35,
                 palette=cp4,
                 ax=ax2)
-a2.set_title('Habitat Protection by GAP Status for 19 Habitat Restricted Species of Conservation Concern', fontsize=12)
+a2.set_title('Habitat Protection by GAP Status for ' + str(len(dfCCStatus)) + 
+             ' Habitat Restricted Species of Conservation Concern', fontsize=12)
 
 
 endtime = datetime.now()
